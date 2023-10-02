@@ -1,0 +1,3821 @@
+symbol,longName,short_score,price_to_book_score,quick_ratio_score,current_ratio_score,debt_to_equity_score,return_on_assets,return_on_equity_score,expert_score
+AACG,ATA Creativity Global,12,10,-1,-1,-1,-1,-1,5
+AACQ,,0,0,0,0,0,0,0,0
+AACQU,,0,0,0,0,0,0,0,0
+AACQW,,0,0,0,0,0,0,0,0
+AAL,American Airlines Group Inc.,12,0,-1,-1,0,-1,0,2
+AAME,Atlantic American Corporation,4,10,6,4,-1,-1,-1,0
+AAOI,"Applied Optoelectronics, Inc.",12,-1,-1,2,-1,-1,-1,5
+AAON,"AAON, Inc.",10,-1,10,10,-1,-1,-1,5
+AAPL,Apple Inc.,12,-1,6,2,-1,-1,2,5
+AAWW,,0,0,0,0,0,0,0,0
+ABCB,Ameris Bancorp,10,8,0,0,0,-1,-1,5
+ABCL,AbCellera Biologics Inc.,2,-1,12,10,-1,-1,-1,5
+ABCM,Abcam plc,12,-1,6,4,-1,-1,-1,2
+ABEO,Abeona Therapeutics Inc.,12,-1,12,10,-1,-1,-1,5
+ABGI,,0,0,0,0,0,0,0,0
+ABIO,"ARCA biopharma, Inc.",6,8,12,10,12,-1,-1,0
+ABMD,"Abiomed, Inc.",0,0,0,0,0,0,0,2
+ABNB,"Airbnb, Inc.",12,-1,6,4,-1,-1,-1,2
+ABTX,,0,0,0,0,0,0,0,0
+ABUS,Arbutus Biopharma Corporation,8,-1,12,10,7,-1,-1,5
+ACAC,Acri Capital Acquisition Corporation,12,0,-1,-1,0,0,0,0
+ACACU,Acri Capital Acquisition Corporation,12,0,-1,-1,0,0,0,0
+ACACW,Acri Capital Acquisition Corporation,0,0,0,0,0,0,0,0
+ACAD,ACADIA Pharmaceuticals Inc.,8,-1,12,10,-1,-1,-1,5
+ACAHU,Atlantic Coastal Acquisition Corp.,0,0,-1,-1,0,-1,0,0
+ACBAU,Ace Global Business Acquisition Limited,12,0,-1,-1,0,0,0,0
+ACBI,,0,0,0,0,0,0,0,0
+ACCD,"Accolade, Inc.",10,-1,12,10,-1,-1,-1,5
+ACER,Acer Therapeutics Inc.,12,0,-1,-1,0,-1,0,5
+ACET,"Adicet Bio, Inc.",10,10,12,10,-1,-1,-1,5
+ACEV,,0,0,0,0,0,0,0,0
+ACEVU,,0,0,0,0,0,0,0,0
+ACEVW,,0,0,0,0,0,0,0,0
+ACGL,Arch Capital Group Ltd.,12,-1,6,7,-1,-1,-1,5
+ACGLO,Arch Capital Group Ltd.,12,8,6,7,-1,-1,-1,0
+ACGLP,,0,0,0,0,0,0,0,0
+ACHC,"Acadia Healthcare Company, Inc.",10,-1,10,4,-1,-1,-1,5
+ACHL,Achilles Therapeutics plc,12,12,12,10,-1,-1,-1,5
+ACHV,"Achieve Life Sciences, Inc.",4,-1,12,10,-1,-1,-1,5
+ACIU,AC Immune SA,8,-1,12,10,7,-1,-1,10
+ACIW,"ACI Worldwide, Inc.",12,-1,-1,4,-1,-1,-1,5
+ACKIT,,0,0,0,0,0,0,0,0
+ACKIU,,0,0,0,0,0,0,0,0
+ACKIW,,0,0,0,0,0,0,0,0
+ACLS,"Axcelis Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+ACMR,"ACM Research, Inc.",12,-1,10,10,-1,-1,-1,5
+ACNB,ACNB Corporation,12,-1,0,0,0,-1,-1,5
+ACOR,"Acorda Therapeutics, Inc.",12,10,12,10,-1,-1,-1,5
+ACQRU,,0,0,0,0,0,0,0,0
+ACRS,"Aclaris Therapeutics, Inc.",10,-1,12,10,19,-1,-1,10
+ACRX,"AcelRx Pharmaceuticals, Inc.",12,8,12,10,-1,-1,-1,5
+ACST,Acasti Pharma Inc.,12,10,12,10,12,-1,-1,10
+ACTC,,0,0,0,0,0,0,0,0
+ACTCU,,0,0,0,0,0,0,0,0
+ACTCW,,0,0,0,0,0,0,0,0
+ACTDU,,0,0,0,0,0,0,0,0
+ACTG,Acacia Research Corporation,12,8,12,10,-1,-1,-1,0
+ACVA,ACV Auctions Inc.,10,-1,12,10,-1,-1,-1,5
+ADAG,Adagene Inc.,12,8,12,10,-1,-1,-1,5
+ADAP,Adaptimmune Therapeutics plc,2,-1,12,10,-1,-1,-1,5
+ADBE,Adobe Inc.,12,-1,10,4,-1,-1,-1,5
+ADER,26 Capital Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+ADERU,26 Capital Acquisition Corp.,-1,0,-1,-1,0,-1,0,0
+ADERW,26 Capital Acquisition Corp.,0,0,0,0,0,0,0,0
+ADES,"Advanced Emissions Solutions, Inc.",12,10,-1,-1,-1,0,0,5
+ADI,"Analog Devices, Inc.",12,-1,6,7,-1,-1,-1,5
+ADIL,"Adial Pharmaceuticals, Inc.",12,8,12,10,0,-1,-1,5
+ADILW,"Adial Pharmaceuticals, Inc. WT EXP 073123",0,0,0,0,0,0,0,0
+ADMA,"ADMA Biologics, Inc.",12,-1,12,10,-1,-1,-1,5
+ADMP,Adamis Pharmaceuticals Corporation,12,0,-1,-1,0,-1,0,2
+ADMS,,0,0,0,0,0,0,0,0
+ADN,"Advent Technologies Holdings, Inc.",12,8,6,10,-1,-1,-1,5
+ADNWW,"Advent Technologies Holdings, Inc.",0,0,0,0,0,0,0,0
+ADOC,Edoc Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+ADOCR,Edoc Acquisition Corp.,0,0,-1,-1,0,-1,0,0
+ADOCW,Edoc Acquisition Corp.,0,0,0,0,0,0,0,0
+ADP,"Automatic Data Processing, Inc.",12,-1,-1,2,-1,-1,2,2
+ADPT,Adaptive Biotechnologies Corporation,8,-1,12,10,-1,-1,-1,5
+ADSK,"Autodesk, Inc.",12,-1,-1,-1,-1,-1,-1,5
+ADTN,"ADTRAN Holdings, Inc.",12,8,6,7,-1,-1,-1,10
+ADTX,"Aditxt, Inc.",12,0,-1,-1,0,-1,0,5
+ADUS,Addus HomeCare Corporation,12,-1,12,7,-1,-1,-1,10
+ADV,Advantage Solutions Inc.,6,8,12,7,-1,-1,-1,2
+ADVM,"Adverum Biotechnologies, Inc.",10,-1,12,10,-1,-1,-1,5
+ADVWW,Advantage Solutions Inc.,0,0,0,0,0,0,0,0
+ADXN,Addex Therapeutics Ltd,12,8,12,10,-1,-1,-1,0
+ADXS,"Ayala Pharmaceuticals, Inc.",12,-1,6,4,-1,-1,-1,10
+AEAC,,0,0,0,0,0,0,0,0
+AEACU,,0,0,0,0,0,0,0,0
+AEACW,,0,0,0,0,0,0,0,0
+AEGN,,0,0,0,0,0,0,0,0
+AEHL,Antelope Enterprise Holdings Limited,12,-1,-1,4,-1,-1,-1,0
+AEHR,Aehr Test Systems,10,-1,12,10,-1,-1,-1,10
+AEI,Alset Inc.,12,12,12,10,19,-1,-1,5
+AEIS,"Advanced Energy Industries, Inc.",10,-1,12,10,-1,-1,-1,5
+AEMD,"Aethlon Medical, Inc.",12,10,12,10,-1,-1,-1,2
+AEP,"American Electric Power Company, Inc.",12,-1,-1,-1,-1,-1,-1,5
+AEPPZ,"American Electric Power Company, Inc.",0,0,0,0,0,0,0,0
+AERI,,0,0,0,0,0,0,0,0
+AESE,,0,0,0,0,0,0,0,0
+AEY,"ADDvantage Technologies Group, Inc.",12,8,-1,4,-1,0,0,0
+AEYE,"AudioEye, Inc.",12,-1,6,2,-1,-1,-1,5
+AEZS,Aeterna Zentaris Inc.,8,10,12,10,12,-1,-1,0
+AFAQU,,0,0,0,0,0,0,0,0
+AFBI,"Affinity Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+AFCG,"AFC Gamma, Inc.",12,8,12,10,-1,-1,-1,5
+AFIB,"Acutus Medical, Inc.",12,10,12,10,-1,-1,-1,5
+AFIN,,0,0,0,0,0,0,0,0
+AFINO,,0,0,0,0,0,0,0,0
+AFINP,,0,0,0,0,0,0,0,0
+AFMD,Affimed N.V.,12,8,12,10,-1,-1,-1,5
+AFRM,"Affirm Holdings, Inc.",12,-1,12,10,-1,-1,-1,2
+AFYA,Afya Limited,12,10,10,4,-1,-1,-1,5
+AGBA,AGBA Group Holding Limited,12,-1,-1,-1,-1,-1,-1,0
+AGBAR,,0,0,0,0,0,0,0,0
+AGBAU,,0,0,0,0,0,0,0,0
+AGBAW,AGBA Group Holding Limited,0,0,0,0,0,0,0,0
+AGC,,0,0,0,0,0,0,0,0
+AGCUU,,0,0,0,0,0,0,0,0
+AGCWW,,0,0,0,0,0,0,0,0
+AGEN,Agenus Inc.,10,0,6,2,0,-1,0,10
+AGFS,,0,0,0,0,0,0,0,0
+AGFY,Agrify Corporation,12,12,-1,7,-1,-1,-1,5
+AGGRU,,0,0,0,0,0,0,0,0
+AGIO,"Agios Pharmaceuticals, Inc.",2,-1,12,10,-1,-1,-1,5
+AGLE,"Aeglea BioTherapeutics, Inc.",12,0,10,4,0,-1,0,5
+AGMH,AGM Group Holdings Inc.,12,-1,-1,4,-1,-1,-1,0
+AGNC,AGNC Investment Corp.,12,8,-1,-1,-1,-1,-1,5
+AGNCM,AGNC Investment Corp.,12,-1,-1,-1,-1,-1,-1,0
+AGNCN,AGNC Investment Corp.,12,-1,-1,-1,-1,-1,-1,0
+AGNCO,AGNC Investment Corp.,12,-1,-1,-1,-1,-1,-1,0
+AGNCP,AGNC Investment Corp.,12,-1,-1,-1,-1,-1,-1,0
+AGRX,"Agile Therapeutics, Inc.",12,0,-1,2,0,-1,0,2
+AGTC,,0,0,0,0,0,0,0,0
+AGYS,"Agilysys, Inc.",12,-1,12,10,-1,-1,-1,5
+AHAC,,0,0,0,0,0,0,0,0
+AHACU,,0,0,0,0,0,0,0,0
+AHACW,,0,0,0,0,0,0,0,0
+AHCO,AdaptHealth Corp.,12,8,6,4,-1,-1,-1,5
+AHPI,,0,0,0,0,0,0,0,0
+AIH,Aesthetic Medical International Holdings Group Limited,12,8,-1,-1,-1,-1,0,5
+AIHS,Senmiao Technology Limited,12,-1,6,2,-1,-1,-1,0
+AIKI,,0,0,0,0,0,0,0,0
+AIMC,,0,0,0,0,0,0,0,0
+AINV,,0,0,0,0,0,0,0,0
+AIRG,"Airgain, Inc.",10,-1,12,10,-1,-1,-1,5
+AIRT,"Air T, Inc.",12,-1,6,10,-1,-1,-1,0
+AIRTP,"Air T, Inc.",12,-1,6,10,-1,-1,-1,0
+AIRTW,,0,0,0,0,0,0,0,0
+AKAM,"Akamai Technologies, Inc.",10,-1,12,7,-1,-1,-1,2
+AKBA,"Akebia Therapeutics, Inc.",12,0,6,4,0,-1,-1,5
+AKER,,0,0,0,0,0,0,0,0
+AKIC,,0,0,0,0,0,0,0,0
+AKICU,,0,0,0,0,0,0,0,0
+AKICW,,0,0,0,0,0,0,0,0
+AKRO,"Akero Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+AKTS,"Akoustis Technologies, Inc.",12,8,12,10,-1,-1,-1,5
+AKTX,"Akari Therapeutics, Plc",12,-1,10,4,0,-1,-1,5
+AKU,Akumin Inc.,12,0,6,2,-1,-1,-1,5
+AKUS,,0,0,0,0,0,0,0,0
+ALAC,,0,0,0,0,0,0,0,0
+ALACR,,0,0,0,0,0,0,0,0
+ALACW,,0,0,0,0,0,0,0,0
+ALBO,,0,0,0,0,0,0,0,0
+ALCO,"Alico, Inc.",10,8,-1,10,-1,-1,-1,5
+ALDX,"Aldeyra Therapeutics, Inc.",4,-1,12,10,-1,-1,-1,10
+ALEC,"Alector, Inc.",8,-1,12,10,-1,-1,-1,5
+ALGM,"Allegro MicroSystems, Inc.",12,-1,12,10,-1,-1,-1,5
+ALGN,"Align Technology, Inc.",12,-1,6,4,-1,-1,-1,5
+ALGS,"Aligos Therapeutics, Inc.",2,10,12,10,-1,-1,-1,5
+ALGT,Allegiant Travel Company,12,-1,6,4,-1,-1,-1,2
+ALHC,"Alignment Healthcare, Inc.",8,-1,12,7,-1,-1,-1,5
+ALIM,"Alimera Sciences, Inc.",12,0,12,10,-1,-1,-1,5
+ALJJ,,0,0,0,0,0,0,0,0
+ALKS,Alkermes plc,10,-1,12,10,-1,-1,-1,5
+ALLK,Allakos Inc.,10,8,12,10,-1,-1,-1,5
+ALLO,"Allogene Therapeutics, Inc.",-1,8,12,10,-1,-1,-1,5
+ALLT,Allot Ltd.,12,-1,12,10,-1,-1,-1,2
+ALNA,,0,0,0,0,0,0,0,0
+ALNY,"Alnylam Pharmaceuticals, Inc.",8,0,12,10,0,-1,0,5
+ALOT,"AstroNova, Inc.",12,-1,-1,10,-1,-1,-1,2
+ALPN,"Alpine Immune Sciences, Inc.",8,-1,12,10,-1,-1,-1,10
+ALRM,"Alarm.com Holdings, Inc.",10,-1,12,10,-1,-1,-1,5
+ALRN,"Aileron Therapeutics, Inc.",12,8,12,10,0,-1,-1,2
+ALRS,Alerus Financial Corporation,8,-1,0,0,0,-1,-1,2
+ALSK,,0,0,0,0,0,0,0,0
+ALT,"Altimmune, Inc.",10,8,12,10,12,-1,-1,5
+ALTA,,0,0,0,0,0,0,0,0
+ALTM,,0,0,0,0,0,0,0,0
+ALTO,"Alto Ingredients, Inc.",12,-1,12,10,-1,-1,-1,5
+ALTR,Altair Engineering Inc.,6,-1,12,7,-1,-1,-1,5
+ALTU,Altitude Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+ALTUU,Altitude Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+ALTUW,Altitude Acquisition Corp.,0,0,0,0,0,0,0,0
+ALVR,"AlloVir, Inc.",8,-1,12,10,-1,-1,-1,5
+ALXN,,0,0,0,0,0,0,0,0
+ALXO,ALX Oncology Holdings Inc.,2,8,12,10,-1,-1,-1,5
+ALYA,Alithya Group Inc.,12,8,-1,-1,-1,-1,-1,0
+AMAL,Amalgamated Financial Corp.,8,-1,0,0,0,-1,-1,5
+AMAOU,American Acquisition Opportunity Inc.,2,0,-1,-1,0,-1,0,0
+AMAT,"Applied Materials, Inc.",12,-1,12,10,-1,-1,-1,5
+AMBA,"Ambarella, Inc.",12,-1,12,10,19,-1,-1,5
+AMCX,AMC Networks Inc.,12,8,12,4,-1,-1,-1,2
+AMD,"Advanced Micro Devices, Inc.",12,-1,12,10,-1,-1,-1,5
+AMED,"Amedisys, Inc.",12,-1,6,2,-1,-1,-1,2
+AMEH,"Apollo Medical Holdings, Inc.",6,-1,12,10,-1,-1,-1,5
+AMGN,Amgen Inc.,12,-1,12,10,-1,-1,2,5
+AMHC,,0,0,0,0,0,0,0,0
+AMHCU,,0,0,0,0,0,0,0,0
+AMHCW,,0,0,0,0,0,0,0,0
+AMKR,"Amkor Technology, Inc.",12,-1,12,7,-1,-1,-1,10
+AMNB,American National Bankshares Inc.,12,-1,0,0,0,-1,-1,2
+AMOT,Allient Inc.,12,-1,12,10,-1,-1,-1,5
+AMPG,"AmpliTech Group, Inc.",12,8,12,10,-1,-1,-1,5
+AMPGW,"AmpliTech Group, Inc.",0,0,0,0,0,0,0,0
+AMPH,"Amphastar Pharmaceuticals, Inc.",12,-1,10,7,-1,-1,-1,5
+AMRB,,0,0,0,0,0,0,0,0
+AMRK,"A-Mark Precious Metals, Inc.",10,-1,-1,4,-1,-1,-1,5
+AMRN,Amarin Corporation plc,8,8,12,10,4,-1,-1,2
+AMRS,"Amyris, Inc.",2,0,-1,-1,0,-1,0,2
+AMSC,American Superconductor Corporation,12,-1,-1,4,-1,-1,-1,5
+AMSF,"AMERISAFE, Inc.",12,-1,12,10,0,-1,-1,2
+AMST,Amesite Inc.,12,8,12,10,0,-1,-1,5
+AMSWA,"American Software, Inc.",12,-1,12,10,0,-1,-1,10
+AMTB,Amerant Bancorp Inc.,12,8,0,0,0,-1,-1,5
+AMTBB,,0,0,0,0,0,0,0,0
+AMTI,Applied Molecular Transport Inc.,12,10,12,10,-1,-1,-1,2
+AMTX,"Aemetis, Inc.",8,0,-1,-1,0,-1,0,5
+AMWD,American Woodmark Corporation,12,-1,10,10,-1,-1,-1,2
+AMYT,,0,0,0,0,0,0,0,0
+AMZN,"Amazon.com, Inc.",12,-1,-1,2,-1,-1,-1,5
+ANAB,"AnaptysBio, Inc.",-1,-1,12,10,-1,-1,-1,5
+ANAT,,0,0,0,0,0,0,0,0
+ANDA,,0,0,0,0,0,0,0,0
+ANDAR,,0,0,0,0,0,0,0,0
+ANDAW,,0,0,0,0,0,0,0,0
+ANDE,"The Andersons, Inc.",12,-1,6,7,-1,-1,-1,5
+ANGI,Angi Inc.,6,-1,12,7,-1,-1,-1,5
+ANGN,,0,0,0,0,0,0,0,0
+ANGO,"AngioDynamics, Inc.",12,8,10,7,-1,-1,-1,5
+ANIK,"Anika Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+ANIP,"ANI Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+ANIX,"Anixa Biosciences, Inc.",2,-1,12,10,12,-1,-1,5
+ANNX,"Annexon, Inc.",8,8,12,10,-1,-1,-1,5
+ANPC,,0,0,0,0,0,0,0,0
+ANSS,"ANSYS, Inc.",12,-1,12,10,-1,-1,-1,5
+ANTE,AirNet Technology Inc.,12,12,-1,-1,-1,-1,-1,0
+ANY,Sphere 3D Corp.,12,8,-1,-1,7,-1,-1,5
+ANZUU,Anzu Special Acquisition Corp I,12,0,-1,-1,0,-1,0,0
+AOSL,Alpha and Omega Semiconductor Limited,10,8,12,10,-1,-1,-1,2
+AOUT,"American Outdoor Brands, Inc.",12,8,12,10,-1,-1,-1,5
+APA,APA Corporation,12,-1,-1,2,-1,-1,2,5
+APDN,"Applied DNA Sciences, Inc.",10,-1,12,10,-1,-1,-1,5
+APEI,"American Public Education, Inc.",12,10,12,10,-1,-1,-1,5
+APEN,,0,0,0,0,0,0,0,0
+APHA,,0,0,0,0,0,0,0,0
+API,"Agora, Inc.",10,10,12,10,12,-1,-1,5
+APLS,"Apellis Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+APLT,"Applied Therapeutics, Inc.",12,0,6,2,0,-1,-1,10
+APM,Aptorum Group Limited,12,8,-1,-1,-1,-1,-1,5
+APOG,"Apogee Enterprises, Inc.",10,-1,10,7,-1,-1,-1,2
+APOP,,0,0,0,0,0,0,0,0
+APPF,"AppFolio, Inc.",12,-1,12,10,-1,-1,-1,5
+APPH,"AppHarvest, Inc.",0,0,0,0,0,0,0,2
+APPHW,"AppHarvest, Inc.",0,0,0,0,0,0,0,0
+APPN,Appian Corporation,-1,-1,10,4,-1,-1,-1,2
+APPS,"Digital Turbine, Inc.",12,-1,10,4,-1,-1,-1,2
+APR,,0,0,0,0,0,0,0,0
+APRE,"Aprea Therapeutics, Inc.",6,8,12,10,0,-1,-1,5
+APTO,Aptose Biosciences Inc.,12,-1,12,10,-1,-1,-1,5
+APTX,Aptinyx Inc.,12,10,12,10,-1,-1,-1,2
+APVO,Aptevo Therapeutics Inc.,12,12,12,10,-1,-1,-1,5
+APWC,Asia Pacific Wire & Cable Corporation Limited,12,12,10,10,-1,-1,-1,0
+APXT,,0,0,0,0,0,0,0,0
+APXTU,,0,0,0,0,0,0,0,0
+APXTW,,0,0,0,0,0,0,0,0
+APYX,Apyx Medical Corporation,-1,-1,12,10,-1,-1,-1,5
+AQB,"AquaBounty Technologies, Inc.",12,12,12,10,-1,-1,-1,5
+AQMS,"Aqua Metals, Inc.",6,-1,12,10,-1,-1,-1,5
+AQST,"Aquestive Therapeutics, Inc.",8,0,6,4,0,-1,0,5
+ARAV,"Aravive, Inc.",12,0,12,7,0,-1,-1,2
+ARAY,Accuray Incorporated,4,-1,6,7,0,-1,-1,5
+ARBG,Aequi Acquisition Corp.,0,0,0,0,0,0,0,0
+ARBGU,Aequi Acquisition Corp.,0,0,0,0,0,0,0,0
+ARBGW,Aequi Acquisition Corp.,0,0,0,0,0,0,0,0
+ARCB,ArcBest Corporation,12,-1,10,4,-1,-1,-1,5
+ARCC,Ares Capital Corporation,10,-1,12,7,-1,-1,-1,5
+ARCE,Arco Platform Limited,12,10,6,4,-1,-1,-1,5
+ARCT,Arcturus Therapeutics Holdings Inc.,6,-1,12,10,-1,-1,-1,5
+ARDS,"Aridis Pharmaceuticals, Inc.",12,0,-1,-1,0,-1,0,5
+ARDX,"Ardelyx, Inc.",12,-1,12,10,-1,-1,-1,10
+AREC,American Resources Corporation,4,-1,-1,-1,-1,-1,-1,5
+ARGX,argenx SE,12,-1,12,10,12,-1,-1,5
+ARKO,Arko Corp.,10,-1,-1,7,-1,-1,-1,5
+ARKOW,Arko Corp.,0,10,-1,7,-1,-1,-1,0
+ARKR,Ark Restaurants Corp.,12,8,-1,2,-1,-1,-1,0
+ARLP,"Alliance Resource Partners, L.P.",12,-1,12,10,-1,-1,-1,5
+ARNA,,0,0,0,0,0,0,0,0
+AROW,Arrow Financial Corporation,12,8,0,0,0,-1,-1,0
+ARPO,,0,0,0,0,0,0,0,0
+ARQT,"Arcutis Biotherapeutics, Inc.",6,-1,12,10,-1,-1,-1,5
+ARRWU,Arrowroot Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+ARRY,"Array Technologies, Inc.",10,-1,12,10,-1,-1,-1,5
+ARTL,"Artelo Biosciences, Inc.",12,10,12,10,12,-1,-1,5
+ARTLW,"Artelo Biosciences, Inc.",0,0,0,0,0,0,0,0
+ARTNA,Artesian Resources Corporation,12,-1,-1,4,-1,-1,-1,10
+ARTW,"Art's-Way Manufacturing Co., Inc.",12,-1,-1,7,-1,-1,-1,0
+ARVL,Arrival,8,12,12,10,-1,-1,-1,2
+ARVLW,,0,0,0,0,0,0,0,0
+ARVN,"Arvinas, Inc.",10,-1,12,10,12,-1,-1,5
+ARWR,"Arrowhead Pharmaceuticals, Inc.",10,-1,12,10,-1,-1,-1,5
+ARYA,,0,0,0,0,0,0,0,0
+ARYD,ARYA Sciences Acquisition Corp IV,-1,0,-1,-1,0,-1,0,0
+ASAX,,0,0,0,0,0,0,0,0
+ASAXU,,0,0,0,0,0,0,0,0
+ASAXW,,0,0,0,0,0,0,0,0
+ASLE,AerSale Corporation,12,-1,10,10,-1,-1,-1,5
+ASLEW,,0,0,0,0,0,0,0,0
+ASLN,ASLAN Pharmaceuticals Limited,-1,-1,12,10,-1,-1,-1,5
+ASMB,"Assembly Biosciences, Inc.",12,8,12,10,-1,-1,-1,5
+ASML,ASML Holding N.V.,12,-1,6,4,-1,-1,-1,5
+ASND,Ascendis Pharma A/S,6,-1,12,10,-1,-1,-1,5
+ASO,"Academy Sports and Outdoors, Inc.",12,-1,-1,7,-1,-1,-1,5
+ASPCU,,0,0,0,0,0,0,0,0
+ASPS,Altisource Portfolio Solutions S.A.,10,0,10,4,0,-1,0,5
+ASPU,"Aspen Group, Inc.",12,12,10,4,-1,-1,-1,5
+ASRT,"Assertio Holdings, Inc.",10,8,12,7,-1,-1,-1,5
+ASRV,"AmeriServ Financial, Inc.",12,10,0,0,0,-1,-1,0
+ASRVP,,0,0,0,0,0,0,0,0
+ASTC,Astrotech Corporation,12,10,12,10,19,-1,-1,0
+ASTE,"Astec Industries, Inc.",12,-1,6,10,-1,-1,-1,5
+ASTS,"AST SpaceMobile, Inc.",8,-1,12,10,-1,-1,-1,5
+ASTSW,"AST SpaceMobile, Inc.",0,0,0,0,0,0,0,0
+ASUR,"Asure Software, Inc.",12,-1,-1,4,-1,-1,-1,5
+ASYS,"Amtech Systems, Inc.",12,-1,12,10,-1,-1,-1,5
+ATAX,,0,0,0,0,0,0,0,0
+ATCX,,0,0,0,0,0,0,0,0
+ATEC,"Alphatec Holdings, Inc.",10,0,10,10,0,-1,-1,5
+ATEX,Anterix Inc.,10,-1,6,4,4,-1,-1,5
+ATHA,"Athira Pharma, Inc.",10,10,12,10,12,-1,-1,5
+ATHE,Alterity Therapeutics Limited,12,10,12,10,12,-1,-1,10
+ATHX,"Athersys, Inc.",12,0,-1,-1,0,-1,0,5
+ATIF,ATIF Holdings Limited,12,-1,12,10,-1,-1,-1,0
+ATLC,Atlanticus Holdings Corporation,-1,-1,12,10,-1,-1,-1,5
+ATLO,Ames National Corporation,6,8,0,0,0,-1,-1,0
+ATNF,180 Life Sciences Corp.,12,10,-1,-1,-1,-1,-1,5
+ATNFW,CannBioRx Life Sciences Corp.,0,0,0,0,0,0,0,0
+ATNI,"ATN International, Inc.",12,8,-1,4,-1,-1,-1,5
+ATNX,,0,0,0,0,0,0,0,0
+ATOM,Atomera Incorporated,-1,-1,12,10,-1,-1,-1,5
+ATOS,"Atossa Therapeutics, Inc.",2,8,12,10,0,-1,-1,5
+ATRA,"Atara Biotherapeutics, Inc.",6,-1,12,10,-1,-1,-1,2
+ATRC,"AtriCure, Inc.",12,-1,12,10,-1,-1,-1,5
+ATRI,Atrion Corporation,4,-1,12,10,7,-1,-1,0
+ATRO,Astronics Corporation,12,-1,10,10,-1,-1,-1,2
+ATRS,,0,0,0,0,0,0,0,0
+ATSG,"Air Transport Services Group, Inc.",10,-1,-1,2,-1,-1,-1,5
+ATSPU,,0,0,0,0,0,0,0,0
+ATVCU,,0,0,0,0,0,0,0,0
+ATVI,"Activision Blizzard, Inc.",12,-1,12,10,-1,-1,-1,2
+ATXI,"Avenue Therapeutics, Inc.",12,0,-1,-1,0,-1,0,5
+AUB,Atlantic Union Bankshares Corporation,8,8,0,0,0,-1,-1,5
+AUBAP,Atlantic Union Bankshares Corporation,0,0,0,0,0,0,0,0
+AUBN,"Auburn National Bancorporation, Inc.",12,-1,0,0,0,-1,-1,0
+AUDC,AudioCodes Ltd.,12,-1,10,7,-1,-1,-1,5
+AUPH,Aurinia Pharmaceuticals Inc.,6,-1,12,10,-1,-1,-1,5
+AURCU,Aurora Acquisition Corp.,12,-1,-1,-1,-1,-1,-1,0
+AUTL,Autolus Therapeutics plc,12,-1,12,10,-1,-1,-1,5
+AUTO,,0,0,0,0,0,0,0,0
+AUUD,Auddia Inc.,12,-1,10,4,-1,-1,-1,5
+AUUDW,Auddia Inc.,0,0,0,0,0,0,0,0
+AUVI,"Applied UV, Inc.",12,12,-1,-1,-1,-1,-1,5
+AVAV,"AeroVironment, Inc.",12,-1,12,10,-1,-1,-1,5
+AVCO,,0,0,0,0,0,0,0,0
+AVCT,,0,0,0,0,0,0,0,0
+AVDL,Avadel Pharmaceuticals plc,10,-1,12,10,-1,-1,-1,5
+AVEO,,0,0,0,0,0,0,0,0
+AVGO,Broadcom Inc.,12,-1,12,10,-1,-1,-1,5
+AVGOP,,0,0,0,0,0,0,0,0
+AVGR,"Avinger, Inc.",12,0,-1,-1,0,-1,0,5
+AVID,"Avid Technology, Inc.",12,0,6,4,0,-1,0,2
+AVIR,"Atea Pharmaceuticals, Inc.",10,10,12,10,12,-1,-1,2
+AVNW,"Aviat Networks, Inc.",12,-1,12,7,19,-1,-1,5
+AVO,"Mission Produce, Inc.",10,-1,10,10,-1,-1,-1,5
+AVRO,"AVROBIO, Inc.",12,8,12,10,7,-1,-1,5
+AVT,"Avnet, Inc.",12,8,10,10,-1,-1,-1,2
+AVXL,Anavex Life Sciences Corp.,-1,-1,12,10,0,-1,-1,5
+AWH,Aspira Women's Health Inc.,12,0,10,4,0,-1,-1,2
+AWRE,"Aware, Inc.",12,8,12,10,-1,-1,-1,5
+AXDX,"Accelerate Diagnostics, Inc.",-1,0,-1,2,0,-1,0,5
+AXGN,"AxoGen, Inc.",10,-1,12,10,-1,-1,-1,5
+AXLA,Axcella Health Inc.,12,0,6,2,0,-1,-1,5
+AXNX,"Axonics, Inc.",12,-1,12,10,12,-1,-1,5
+AXON,"Axon Enterprise, Inc.",12,-1,12,10,-1,-1,-1,5
+AXSM,"Axsome Therapeutics, Inc.",4,-1,12,10,-1,-1,-1,5
+AXTI,"AXT, Inc.",12,10,6,10,-1,-1,-1,5
+AY,Atlantica Sustainable Infrastructure plc,12,-1,12,7,-1,-1,-1,5
+AYLA,,0,0,0,0,0,0,0,0
+AYRO,"Ayro, Inc.",6,10,12,10,7,-1,-1,5
+AYTU,"Aytu BioPharma, Inc.",4,12,-1,2,-1,-1,-1,5
+AZN,AstraZeneca PLC,12,-1,-1,2,-1,-1,-1,10
+AZPN,"Aspen Technology, Inc.",10,-1,12,10,12,-1,-1,2
+AZRX,,0,0,0,0,0,0,0,0
+AZYO,Elutia Inc.,12,0,-1,2,0,-1,0,5
+BAND,Bandwidth Inc.,10,8,12,10,-1,-1,-1,5
+BANF,BancFirst Corporation,10,-1,0,0,0,-1,-1,2
+BANFP,BFC Capital Trust II PFD TR 7.20%,0,0,0,0,0,0,0,0
+BANR,Banner Corporation,12,8,0,0,0,-1,-1,5
+BANX,ArrowMark Financial Corp.,12,8,12,10,-1,-1,-1,5
+BAOS,Baosheng Media Group Holdings Limited,12,12,12,10,-1,-1,-1,0
+BATRA,"Atlanta Braves Holdings, Inc.",8,-1,6,4,-1,0,0,5
+BATRK,"Atlanta Braves Holdings, Inc.",12,-1,6,4,-1,0,0,5
+BBBY,,0,0,0,0,0,0,0,0
+BBCP,"Concrete Pumping Holdings, Inc.",8,-1,6,2,-1,-1,-1,10
+BBGI,"Beasley Broadcast Group, Inc.",12,12,12,7,-1,-1,-1,10
+BBI,,0,0,0,0,0,0,0,0
+BBIG,"Vinco Ventures, Inc.",12,12,-1,4,-1,-1,0,0
+BBIO,"BridgeBio Pharma, Inc.",10,0,12,10,0,-1,0,5
+BBQ,"BBQ Holdings, Inc.",0,0,0,0,0,0,0,2
+BBSI,"Barrett Business Services, Inc.",12,-1,6,4,-1,-1,-1,10
+BCAB,"BioAtla, Inc.",-1,8,12,10,-1,-1,-1,5
+BCAC,,0,0,0,0,0,0,0,0
+BCACU,,0,0,0,0,0,0,0,0
+BCACW,,0,0,0,0,0,0,0,0
+BCBP,"BCB Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+BCDA,"BioCardia, Inc.",12,-1,10,4,-1,-1,-1,2
+BCDAW,"BioCardia, Inc.",0,0,0,0,0,0,0,0
+BCEL,"Atreca, Inc.",4,12,12,10,-1,-1,-1,5
+BCLI,Brainstorm Cell Therapeutics Inc.,6,0,-1,-1,0,-1,-1,5
+BCML,BayCom Corp,12,8,0,0,0,-1,-1,5
+BCOR,,0,0,0,0,0,0,0,0
+BCOV,Brightcove Inc.,12,-1,-1,-1,-1,-1,-1,5
+BCOW,"1895 Bancorp of Wisconsin, Inc.",12,8,0,0,0,-1,-1,0
+BCPC,Balchem Corporation,12,-1,12,10,-1,-1,-1,5
+BCRX,"BioCryst Pharmaceuticals, Inc.",-1,0,12,10,0,-1,0,5
+BCTG,,0,0,0,0,0,0,0,0
+BCTX,BriaCell Therapeutics Corp.,6,0,12,10,0,-1,-1,5
+BCTXW,BriaCell Therapeutics Corp.,0,0,0,0,0,0,0,0
+BCYC,Bicycle Therapeutics plc,6,-1,12,10,-1,-1,-1,5
+BCYP,,0,0,0,0,0,0,0,0
+BCYPU,,0,0,0,0,0,0,0,0
+BCYPW,,0,0,0,0,0,0,0,0
+BDSI,"BioDelivery Sciences International, Inc.",0,0,0,0,0,0,0,2
+BDSX,"Biodesix, Inc.",12,0,6,2,0,-1,-1,5
+BDTX,"Black Diamond Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+BEAM,Beam Therapeutics Inc.,2,-1,12,10,-1,-1,-1,5
+BECN,"Beacon Roofing Supply, Inc.",12,-1,6,7,-1,-1,-1,2
+BEEM,Beam Global,8,-1,12,10,-1,-1,-1,5
+BEEMW,Beam Global,0,0,0,0,0,0,0,0
+BELFA,Bel Fuse Inc.,12,-1,12,10,-1,-1,-1,5
+BELFB,Bel Fuse Inc.,12,-1,12,10,-1,-1,-1,5
+BENE,,0,0,0,0,0,0,0,0
+BENER,,0,0,0,0,0,0,0,0
+BENEU,,0,0,0,0,0,0,0,0
+BENEW,,0,0,0,0,0,0,0,0
+BFC,Bank First Corporation,4,-1,0,0,0,-1,-1,2
+BFI,"BurgerFi International, Inc.",6,10,-1,-1,-1,-1,-1,10
+BFIIW,"BurgerFi International, LLC",0,0,0,0,0,0,0,0
+BFIN,BankFinancial Corporation,12,8,0,0,0,-1,-1,5
+BFRA,,0,0,0,0,0,0,0,0
+BFST,"Business First Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+BGFV,Big 5 Sporting Goods Corporation,6,8,-1,7,-1,-1,-1,2
+BGNE,"BeiGene, Ltd.",10,-1,12,10,-1,-1,-1,5
+BHAT,Fujian Blue Hat Interactive Entertainment Technology Ltd.,12,-1,-1,4,-1,-1,-1,0
+BHF,"Brighthouse Financial, Inc.",10,8,12,7,-1,-1,-1,2
+BHFAL,"Brighthouse Financial, Inc.",0,0,0,0,0,0,0,0
+BHFAN,"Brighthouse Financial, Inc.",12,12,12,7,-1,-1,-1,0
+BHFAO,"Brighthouse Financial, Inc.",12,10,12,7,-1,-1,-1,0
+BHFAP,"Brighthouse Financial, Inc.",12,10,12,7,-1,-1,-1,0
+BHSE,,0,0,0,0,0,0,0,0
+BHSEU,,0,0,0,0,0,0,0,0
+BHSEW,,0,0,0,0,0,0,0,0
+BHTG,,0,0,0,0,0,0,0,0
+BIDU,"Baidu, Inc.",12,12,12,10,-1,-1,-1,5
+BIGC,"BigCommerce Holdings, Inc.",10,-1,12,10,-1,-1,-1,2
+BIIB,Biogen Inc.,12,-1,12,10,-1,-1,-1,5
+BILI,Bilibili Inc.,12,10,10,4,-1,-1,-1,5
+BIMI,"BIMI International Medical, Inc.",10,8,-1,4,-1,-1,-1,0
+BIOC,"Biocept, Inc.",12,-1,12,7,-1,-1,-1,2
+BIOL,"BIOLASE, Inc.",12,10,-1,7,-1,-1,-1,5
+BIOT,,0,0,0,0,0,0,0,0
+BIOTU,,0,0,0,0,0,0,0,0
+BIOTW,,0,0,0,0,0,0,0,0
+BIVI,BioVie Inc.,6,-1,12,10,-1,-1,-1,10
+BJRI,"BJ's Restaurants, Inc.",10,-1,-1,-1,-1,-1,-1,2
+BKCC,BlackRock Capital Investment Corporation,12,8,10,4,-1,-1,-1,2
+BKEP,,0,0,0,0,0,0,0,0
+BKEPP,,0,0,0,0,0,0,0,0
+BKNG,Booking Holdings Inc.,12,0,12,7,0,-1,4,5
+BKSC,Bank of South Carolina Corporation,12,-1,0,0,0,-1,-1,0
+BKYI,"BIO-key International, Inc.",12,-1,-1,4,-1,-1,-1,5
+BL,"BlackLine, Inc.",12,-1,12,10,-1,-1,-1,2
+BLBD,Blue Bird Corporation,12,-1,-1,2,-1,-1,-1,5
+BLCM,"Bellicum Pharmaceuticals, Inc.",12,0,12,10,0,-1,-1,2
+BLCT,,0,0,0,0,0,0,0,0
+BLDP,Ballard Power Systems Inc.,4,8,12,10,19,-1,-1,2
+BLDR,"Builders FirstSource, Inc.",12,-1,10,7,-1,-1,-1,5
+BLFS,"BioLife Solutions, Inc.",10,-1,12,10,-1,-1,-1,5
+BLI,,0,0,0,0,0,0,0,0
+BLIN,"Bridgeline Digital, Inc.",12,10,-1,2,-1,-1,-1,5
+BLKB,"Blackbaud, Inc.",12,-1,-1,2,-1,-1,-1,2
+BLMN,"Bloomin' Brands, Inc.",10,-1,-1,-1,-1,-1,-1,5
+BLNK,Blink Charging Co.,8,8,12,10,-1,-1,-1,2
+BLNKW,,0,0,0,0,0,0,0,0
+BLPH,"Bellerophon Therapeutics, Inc.",12,8,12,7,0,-1,-1,2
+BLRX,BioLineRx Ltd.,12,-1,12,10,-1,-1,-1,5
+BLSA,,0,0,0,0,0,0,0,0
+BLTS,,0,0,0,0,0,0,0,0
+BLTSU,,0,0,0,0,0,0,0,0
+BLTSW,,0,0,0,0,0,0,0,0
+BLU,,0,0,0,0,0,0,0,0
+BLUE,"bluebird bio, Inc.",8,-1,12,10,-1,-1,-1,2
+BLUW,,0,0,0,0,0,0,0,0
+BLUWU,,0,0,0,0,0,0,0,0
+BLUWW,,0,0,0,0,0,0,0,0
+BMBL,Bumble Inc.,12,-1,12,10,-1,-1,-1,5
+BMRA,"Biomerica, Inc.",6,-1,12,10,-1,-1,-1,10
+BMRC,Bank of Marin Bancorp,4,8,0,0,0,-1,-1,5
+BMRN,BioMarin Pharmaceutical Inc.,10,-1,12,10,-1,-1,-1,5
+BMTC,,0,0,0,0,0,0,0,0
+BNFT,,0,0,0,0,0,0,0,0
+BNGO,"Bionano Genomics, Inc.",10,10,12,10,-1,-1,-1,10
+BNGOW,"BioNano Genomics, Inc. WT EXP 082123",0,0,0,0,0,0,0,0
+BNR,Burning Rock Biotech Limited,10,12,12,10,-1,-1,-1,5
+BNTC,Benitec Biopharma Inc.,12,-1,-1,2,-1,-1,-1,5
+BNTX,BioNTech SE,12,-1,12,10,19,-1,-1,5
+BOCH,,0,0,0,0,0,0,0,0
+BOKF,BOK Financial Corporation,12,-1,0,0,0,-1,-1,2
+BOKFL,,0,0,0,0,0,0,0,0
+BOLT,"Bolt Biotherapeutics, Inc.",-1,10,12,10,-1,-1,-1,5
+BOMN,,0,0,0,0,0,0,0,0
+BOOM,DMC Global Inc.,12,-1,6,10,-1,-1,-1,5
+BOSC,B.O.S. Better Online Solutions Ltd.,12,-1,10,7,-1,-1,-1,0
+BOTJ,"Bank of the James Financial Group, Inc.",12,8,0,0,0,-1,-1,0
+BOWX,,0,0,0,0,0,0,0,0
+BOWXU,,0,0,0,0,0,0,0,0
+BOWXW,,0,0,0,0,0,0,0,0
+BOXL,Boxlight Corporation,12,10,12,10,-1,-1,-1,5
+BPFH,,0,0,0,0,0,0,0,0
+BPMC,Blueprint Medicines Corporation,8,-1,12,10,-1,-1,-1,5
+BPOP,"Popular, Inc.",10,-1,0,0,0,-1,-1,5
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,0,0,0,0,0,0,0,0
+BPOPN,,0,0,0,0,0,0,0,0
+BPRN,"Princeton Bancorp, Inc.",4,8,0,0,0,-1,-1,2
+BPTH,"Bio-Path Holdings, Inc.",12,8,12,10,-1,-1,-1,5
+BPTS,Biophytis S.A.,12,0,6,2,0,-1,-1,5
+BPY,,0,0,0,0,0,0,0,0
+BPYPN,Brookfield Property Partners L.P.,12,10,-1,-1,-1,-1,-1,0
+BPYPO,Brookfield Property Partners L.P.,12,8,-1,-1,-1,-1,-1,0
+BPYPP,Brookfield Property Partners L.P.,12,8,-1,-1,-1,-1,-1,2
+BPYU,,0,0,0,0,0,0,0,0
+BPYUP,,0,0,0,0,0,0,0,0
+BREZ,Breeze Holdings Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+BREZR,Breeze Holdings Acquisition Corp.,0,0,-1,-1,0,-1,0,0
+BREZW,Breeze Holdings Acquisition Corp.,0,0,0,0,0,0,0,0
+BRID,Bridgford Foods Corporation,12,8,12,10,-1,-1,-1,0
+BRKL,"Brookline Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+BRKR,Bruker Corporation,12,-1,10,10,-1,-1,-1,5
+BRKS,,0,0,0,0,0,0,0,0
+BRLI,Brilliant Acquisition Corporation,12,0,10,4,0,-1,0,2
+BRLIR,Brilliant Acquisition Corporation,0,0,0,0,0,0,0,0
+BRLIU,Brilliant Acquisition Corporation,0,0,10,4,0,-1,0,0
+BRLIW,Brilliant Acquisition Corporation,0,0,0,0,0,0,0,0
+BROG,Brooge Energy Limited,10,-1,-1,-1,-1,-1,-1,0
+BROGW,Brooge Energy Limited,0,0,0,0,0,0,0,0
+BRP,"BRP Group, Inc.",10,-1,6,2,-1,-1,-1,5
+BRPA,,0,0,0,0,0,0,0,0
+BRPAU,,0,0,0,0,0,0,0,0
+BRPMU,,0,0,0,0,0,0,0,0
+BRQS,"Borqs Technologies, Inc.",12,0,-1,-1,0,-1,0,0
+BRY,Berry Corporation,12,8,-1,2,-1,-1,-1,2
+BSBK,Bogota Financial Corp.,12,8,0,0,0,-1,-1,2
+BSET,"Bassett Furniture Industries, Incorporated",12,8,10,10,-1,-1,-1,2
+BSGM,"BioSig Technologies, Inc.",10,-1,-1,-1,-1,-1,-1,5
+BSPE,,0,0,0,0,0,0,0,0
+BSQR,BSQUARE Corporation,12,8,12,10,-1,-1,-1,0
+BSRR,Sierra Bancorp,12,8,0,0,0,-1,-1,2
+BSVN,Bank7 Corp.,10,-1,0,0,0,-1,-1,5
+BSY,"Bentley Systems, Incorporated",10,-1,-1,-1,-1,-1,-1,5
+BTAI,"BioXcel Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+BTAQ,,0,0,0,0,0,0,0,0
+BTAQU,,0,0,0,0,0,0,0,0
+BTAQW,,0,0,0,0,0,0,0,0
+BTBT,"Bit Digital, Inc.",12,-1,12,10,0,-1,-1,5
+BTNB,,0,0,0,0,0,0,0,0
+BTRS,,0,0,0,0,0,0,0,0
+BTRSW,,0,0,0,0,0,0,0,0
+BTWN,Bridgetown Holdings Limited,12,0,-1,-1,0,-1,0,0
+BTWNU,Bridgetown Holdings Limited,12,0,-1,-1,0,-1,0,0
+BTWNW,Bridgetown Holdings Limited,0,0,0,0,0,0,0,0
+BUSE,First Busey Corporation,8,8,0,0,0,-1,-1,5
+BVS,Bioventus Inc.,12,-1,6,4,-1,-1,-1,2
+BVXV,BiondVax Pharmaceuticals Ltd.,12,0,12,10,0,-1,0,0
+BWAC,Better World Acquisition Corp.,0,0,0,0,0,0,0,0
+BWACW,Better World Acquisition Corp.,0,0,0,0,0,0,0,0
+BWAY,BrainsWay Ltd.,12,-1,12,10,0,-1,-1,5
+BWB,"Bridgewater Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+BWEN,"Broadwind, Inc.",12,-1,-1,4,-1,-1,-1,5
+BWFG,"Bankwell Financial Group, Inc.",10,8,0,0,0,-1,-1,5
+BWMX,"Betterware de México, S.A.P.I. de C.V.",12,10,-1,4,-1,-1,-1,5
+BXRX,"Baudax Bio, Inc.",12,0,-1,-1,0,-1,-1,2
+BYFC,Broadway Financial Corporation,12,8,0,0,0,-1,-1,0
+BYND,"Beyond Meat, Inc.",4,0,12,10,0,-1,0,2
+BYSI,BeyondSpring Inc.,-1,0,12,10,0,-1,-1,10
+BYTSU,BYTE Acquisition Corp.,-1,0,-1,-1,0,-1,0,0
+BZUN,Baozun Inc.,12,12,12,7,-1,-1,-1,5
+CAAS,"China Automotive Systems, Inc.",12,10,6,4,-1,-1,-1,5
+CABA,"Cabaletta Bio, Inc.",12,-1,12,10,4,-1,-1,5
+CAC,Camden National Corporation,4,8,0,0,0,-1,-1,2
+CACC,Credit Acceptance Corporation,4,-1,12,10,-1,-1,-1,2
+CAHC,,0,0,0,0,0,0,0,0
+CAHCU,,0,0,0,0,0,0,0,0
+CAHCW,,0,0,0,0,0,0,0,0
+CAKE,The Cheesecake Factory Incorporated,8,-1,-1,-1,-1,-1,-1,2
+CALA,"Calithera Biosciences, Inc.",12,0,12,10,-1,-1,-1,2
+CALB,California BanCorp,12,8,0,0,0,-1,-1,5
+CALM,"Cal-Maine Foods, Inc.",10,-1,12,10,12,-1,-1,2
+CALT,Calliditas Therapeutics AB (publ),12,0,12,10,-1,-1,-1,5
+CAMP,CalAmp Corp.,12,-1,10,7,-1,-1,-1,2
+CAMT,Camtek Ltd.,12,-1,12,10,-1,-1,-1,5
+CAN,Canaan Inc.,12,8,-1,10,12,-1,-1,5
+CAPA,,0,0,0,0,0,0,0,0
+CAPAU,,0,0,0,0,0,0,0,0
+CAPAW,,0,0,0,0,0,0,0,0
+CAPR,"Capricor Therapeutics, Inc.",12,-1,10,4,-1,-1,-1,5
+CAR,"Avis Budget Group, Inc.",10,0,-1,2,0,-1,0,5
+CARA,"Cara Therapeutics, Inc.",12,8,12,10,12,-1,-1,5
+CARE,"Carter Bankshares, Inc.",12,8,0,0,0,-1,-1,5
+CARG,"CarGurus, Inc.",10,-1,12,10,-1,-1,-1,5
+CARV,"Carver Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+CASA,"Casa Systems, Inc.",10,0,6,7,0,-1,-1,0
+CASH,"Pathward Financial, Inc.",4,-1,0,0,0,-1,-1,2
+CASI,"CASI Pharmaceuticals, Inc.",-1,-1,12,10,0,-1,-1,5
+CASS,"Cass Information Systems, Inc.",12,-1,6,2,-1,-1,-1,2
+CASY,"Casey's General Stores, Inc.",12,-1,-1,4,-1,-1,-1,5
+CATB,,0,0,0,0,0,0,0,0
+CATC,Cambridge Bancorp,0,0,0,0,0,0,0,2
+CATM,,0,0,0,0,0,0,0,0
+CATY,Cathay General Bancorp,12,8,0,0,0,-1,-1,2
+CBAN,"Colony Bankcorp, Inc.",12,8,0,0,0,-1,-1,2
+CBAT,"CBAK Energy Technology, Inc.",10,8,-1,2,-1,-1,-1,0
+CBAY,"CymaBay Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,10
+CBFV,"CB Financial Services, Inc.",12,8,0,0,0,-1,-1,2
+CBIO,"Catalyst Biosciences, Inc.",12,0,12,10,0,-1,-1,2
+CBLI,,0,0,0,0,0,0,0,0
+CBMB,,0,0,0,0,0,0,0,0
+CBNK,"Capital Bancorp, Inc.",12,-1,0,0,0,-1,-1,5
+CBPO,,0,0,0,0,0,0,0,0
+CBRL,"Cracker Barrel Old Country Store, Inc.",12,-1,-1,-1,-1,-1,-1,2
+CBSH,"Commerce Bancshares, Inc.",10,-1,0,0,0,-1,-1,2
+CBTX,,0,0,0,0,0,0,0,0
+CCAP,"Crescent Capital BDC, Inc.",12,8,-1,4,-1,-1,-1,5
+CCB,Coastal Financial Corporation,6,-1,0,0,0,-1,-1,10
+CCBG,"Capital City Bank Group, Inc.",12,-1,0,0,0,-1,-1,5
+CCCC,"C4 Therapeutics, Inc.",10,10,12,10,-1,-1,-1,5
+CCD,Calamos Dynamic Convertible and Income Fund,12,0,0,0,0,0,0,0
+CCLP,CSI Compressco LP,12,0,6,7,0,-1,0,2
+CCMP,,0,0,0,0,0,0,0,0
+CCNC,,0,0,0,0,0,0,0,0
+CCNE,CNB Financial Corporation,12,8,0,0,0,-1,-1,5
+CCNEP,CNB Financial Corporation,12,8,0,0,0,-1,-1,0
+CCOI,"Cogent Communications Holdings, Inc.",12,-1,12,7,-1,-1,12,5
+CCRC,,0,0,0,0,0,0,0,0
+CCRN,"Cross Country Healthcare, Inc.",6,-1,12,10,-1,-1,-1,5
+CCXI,,0,0,0,0,0,0,0,0
+CD,Chindata Group Holdings Limited,8,10,12,7,-1,-1,-1,0
+CDAK,,0,0,0,0,0,0,0,0
+CDEV,,0,0,0,0,0,0,0,0
+CDK,,0,0,0,0,0,0,0,0
+CDLX,"Cardlytics, Inc.",10,-1,10,4,-1,-1,-1,5
+CDMO,"Avid Bioservices, Inc.",6,-1,6,7,-1,-1,-1,5
+CDMOP,,0,0,0,0,0,0,0,0
+CDNA,"CareDx, Inc",10,8,12,10,-1,-1,-1,5
+CDNS,"Cadence Design Systems, Inc.",12,-1,10,4,-1,-1,-1,5
+CDTX,"Cidara Therapeutics, Inc.",12,-1,12,7,-1,-1,-1,5
+CDW,CDW Corporation,12,-1,10,4,-1,-1,-1,5
+CDXC,ChromaDex Corporation,8,-1,12,10,-1,-1,-1,5
+CDXS,"Codexis, Inc.",12,8,12,10,-1,-1,-1,5
+CDZI,Cadiz Inc.,6,-1,12,10,-1,-1,-1,0
+CECE,,0,0,0,0,0,0,0,0
+CELC,Celcuity Inc.,-1,-1,12,10,-1,-1,-1,5
+CELH,"Celsius Holdings, Inc.",10,-1,12,10,12,-1,-1,5
+CEMI,,0,0,0,0,0,0,0,0
+CENH,,0,0,0,0,0,0,0,0
+CENHU,,0,0,0,0,0,0,0,0
+CENHW,,0,0,0,0,0,0,0,0
+CENT,Central Garden & Pet Company,10,-1,12,10,-1,-1,-1,5
+CENTA,Central Garden & Pet Company,12,-1,12,10,-1,-1,-1,2
+CENX,Century Aluminum Company,10,-1,-1,4,-1,-1,-1,0
+CERC,,0,0,0,0,0,0,0,0
+CERE,"Cerevel Therapeutics Holdings, Inc.",6,-1,12,10,-1,-1,-1,5
+CEREW,,0,0,0,0,0,0,0,0
+CERN,,0,0,0,0,0,0,0,0
+CERS,Cerus Corporation,10,-1,12,10,-1,-1,-1,5
+CERT,"Certara, Inc.",8,-1,12,10,-1,-1,-1,5
+CETX,"Cemtrex, Inc.",12,8,-1,2,-1,-1,-1,5
+CETXP,"Cemtrex, Inc.",12,12,-1,2,-1,-1,-1,0
+CEVA,"CEVA, Inc.",12,-1,12,10,-1,-1,-1,5
+CFAC,,0,0,0,0,0,0,0,0
+CFACU,,0,0,0,0,0,0,0,0
+CFACW,,0,0,0,0,0,0,0,0
+CFB,"CrossFirst Bankshares, Inc.",4,8,0,0,0,-1,-1,2
+CFBK,CF Bankshares Inc.,12,8,0,0,0,-1,-1,2
+CFFEU,CF Acquisition Corp. VIII,12,0,-1,-1,0,-1,0,0
+CFFI,C&F Financial Corporation,10,8,0,0,0,-1,-1,0
+CFFN,"Capitol Federal Financial, Inc.",10,8,0,0,0,-1,-1,2
+CFFVU,,0,0,0,0,0,0,0,0
+CFFVW,,0,0,0,0,0,0,0,0
+CFIV,CF Acquisition Corp. IV,10,0,-1,-1,0,-1,0,0
+CFIVU,CF Acquisition Corp. IV,-1,0,-1,-1,0,-1,0,0
+CFIVW,CF Acquisition Corp. IV,0,0,0,0,0,0,0,0
+CFMS,"Conformis, Inc.",12,8,12,10,-1,-1,-1,5
+CFRX,ContraFect Corporation,12,0,6,4,0,-1,-1,5
+CFV,,0,0,0,0,0,0,0,0
+CFVIU,,0,0,0,0,0,0,0,0
+CG,The Carlyle Group Inc.,8,-1,12,10,-1,-1,-1,5
+CGBD,"Carlyle Secured Lending, Inc.",12,8,12,7,-1,-1,-1,5
+CGC,Canopy Growth Corporation,12,8,12,7,-1,-1,-1,0
+CGEM,"Cullinan Oncology, Inc.",6,8,12,10,19,-1,-1,5
+CGEN,Compugen Ltd.,12,-1,12,10,-1,-1,-1,10
+CGNT,Cognyte Software Ltd.,12,-1,6,4,-1,-1,-1,2
+CGNX,Cognex Corporation,12,-1,12,10,-1,-1,-1,2
+CGO,Calamos Global Total Return Fund,12,8,6,10,-1,-1,-1,0
+CHCI,"Comstock Holding Companies, Inc.",12,-1,12,10,-1,-1,-1,0
+CHCO,City Holding Company,4,-1,0,0,0,-1,-1,2
+CHDN,Churchill Downs Incorporated,10,-1,-1,2,-1,-1,-1,5
+CHEF,"The Chefs' Warehouse, Inc.",6,-1,10,10,-1,-1,-1,5
+CHEK,Check-Cap Ltd.,12,8,12,10,12,-1,-1,2
+CHFS,,0,0,0,0,0,0,0,0
+CHI,Calamos Convertible Opportunities and Income Fund,12,-1,10,10,-1,-1,-1,0
+CHK,Chesapeake Energy Corporation,10,-1,6,4,-1,-1,-1,5
+CHKEL,Chesapeake Energy Corporation,0,0,0,0,0,0,0,0
+CHKEW,Chesapeake Energy Corporation,0,0,0,0,0,0,0,0
+CHKEZ,Chesapeake Energy Corporation,0,0,0,0,0,0,0,0
+CHKP,Check Point Software Technologies Ltd.,8,-1,10,4,12,-1,-1,2
+CHMA,,0,0,0,0,0,0,0,0
+CHMG,Chemung Financial Corporation,6,-1,0,0,0,-1,-1,5
+CHNG,,0,0,0,0,0,0,0,0
+CHNGU,,0,0,0,0,0,0,0,0
+CHNR,"China Natural Resources, Inc.",12,12,12,10,-1,-1,-1,0
+CHPM,,0,0,0,0,0,0,0,0
+CHPMU,CHP Merger Corp.,0,0,0,0,0,0,0,0
+CHPMW,,0,0,0,0,0,0,0,0
+CHRS,"Coherus BioSciences, Inc.",12,0,12,10,0,-1,0,5
+CHRW,"C.H. Robinson Worldwide, Inc.",6,-1,10,4,-1,-1,-1,2
+CHSCL,CHS Inc.,12,0,-1,4,-1,-1,-1,0
+CHSCM,CHS Inc.,12,0,-1,4,-1,-1,-1,0
+CHSCN,CHS Inc.,12,0,-1,4,-1,-1,-1,0
+CHSCO,CHS Inc.,12,0,-1,4,-1,-1,-1,0
+CHSCP,CHS Inc.,8,0,-1,4,-1,-1,-1,0
+CHTR,"Charter Communications, Inc.",10,-1,-1,-1,-1,-1,-1,2
+CHUY,"Chuy's Holdings, Inc.",10,-1,12,10,-1,-1,-1,5
+CHW,Calamos Global Dynamic Income Fund,12,8,10,10,-1,-1,-1,0
+CHX,ChampionX Corporation,10,-1,6,7,-1,-1,-1,5
+CHY,Calamos Convertible and High Income Fund,12,-1,10,10,-1,-1,-1,0
+CIDM,,0,0,0,0,0,0,0,0
+CIGI,Colliers International Group Inc.,6,-1,6,4,-1,-1,-1,5
+CIH,,0,0,0,0,0,0,0,0
+CINF,Cincinnati Financial Corporation,12,-1,6,4,-1,-1,-1,5
+CIVB,"Civista Bancshares, Inc.",10,8,0,0,0,-1,-1,5
+CIZN,Citizens Holding Company,6,-1,0,0,0,-1,-1,0
+CJJD,"China Jo-Jo Drugstores, Inc.",12,10,-1,2,-1,-1,-1,0
+CKPT,"Checkpoint Therapeutics, Inc.",10,0,-1,-1,0,-1,0,5
+CLAR,Clarus Corporation,4,8,10,10,-1,-1,-1,5
+CLBK,"Columbia Financial, Inc.",-1,-1,0,0,0,-1,-1,2
+CLBS,,0,0,0,0,0,0,0,0
+CLDB,,0,0,0,0,0,0,0,0
+CLDX,"Celldex Therapeutics, Inc.",6,-1,12,10,19,-1,-1,5
+CLEU,China Liberal Education Holdings Limited,12,12,6,2,7,-1,-1,0
+CLFD,"Clearfield, Inc.",6,-1,12,10,-1,-1,-1,2
+CLGN,CollPlant Biotechnologies Ltd.,12,-1,12,10,-1,-1,-1,5
+CLIR,ClearSign Technologies Corporation,8,-1,12,10,-1,-1,-1,5
+CLLS,Cellectis S.A.,8,8,12,10,-1,-1,-1,5
+CLMT,"Calumet Specialty Products Partners, L.P.",12,0,-1,-1,0,-1,0,5
+CLNE,Clean Energy Fuels Corp.,10,-1,12,10,-1,-1,-1,5
+CLNN,Clene Inc.,12,-1,12,10,-1,-1,-1,5
+CLNNW,Clene Inc.,0,0,0,0,0,0,0,0
+CLOV,"Clover Health Investments, Corp.",10,-1,10,4,7,-1,-1,2
+CLOVW,,0,0,0,0,0,0,0,0
+CLPS,CLPS Incorporation,12,10,12,10,-1,-1,-1,0
+CLPT,"ClearPoint Neuro, Inc.",4,-1,12,10,-1,-1,-1,5
+CLRB,"Cellectar Biosciences, Inc.",8,0,6,2,0,-1,-1,5
+CLRM,,0,0,0,0,0,0,0,0
+CLRMU,,0,0,0,0,0,0,0,0
+CLRMW,,0,0,0,0,0,0,0,0
+CLRO,"ClearOne, Inc.",12,10,12,10,-1,-1,-1,0
+CLSD,"Clearside Biomedical, Inc.",12,0,12,10,0,-1,-1,5
+CLSK,"CleanSpark, Inc.",12,8,-1,4,-1,-1,-1,5
+CLSN,,0,0,0,0,0,0,0,0
+CLVR,Clever Leaves Holdings Inc.,12,12,12,10,-1,-1,-1,2
+CLVRW,Clever Leaves Holdings Inc.,0,12,12,10,-1,-1,-1,0
+CLVS,,0,0,0,0,0,0,0,0
+CLWT,Euro Tech Holdings Company Limited,12,8,12,10,-1,-1,-1,0
+CLXT,,0,0,0,0,0,0,0,0
+CMBM,Cambium Networks Corporation,12,-1,12,10,-1,-1,-1,5
+CMCO,Columbus McKinnon Corporation,12,-1,10,7,-1,-1,-1,5
+CMCSA,Comcast Corporation,12,-1,-1,2,-1,-1,-1,5
+CMCT,Creative Media & Community Trust Corporation,8,0,10,10,-1,-1,-1,5
+CME,CME Group Inc.,12,-1,-1,4,-1,-1,-1,5
+CMIIU,,0,0,0,0,0,0,0,0
+CMLF,,0,0,0,0,0,0,0,0
+CMLFU,,0,0,0,0,0,0,0,0
+CMLFW,,0,0,0,0,0,0,0,0
+CMLS,Cumulus Media Inc.,12,12,12,10,-1,-1,-1,5
+CMLTU,,0,0,0,0,0,0,0,0
+CMMB,Chemomab Therapeutics Ltd.,12,10,12,10,12,-1,-1,2
+CMPI,,0,0,0,0,0,0,0,0
+CMPR,Cimpress plc,10,0,-1,-1,0,-1,0,10
+CMPS,COMPASS Pathways plc,8,-1,12,10,-1,-1,-1,5
+CMRX,"Chimerix, Inc.",12,10,12,10,12,-1,2,5
+CMTL,Comtech Telecommunications Corp.,12,8,6,4,-1,-1,-1,2
+CNBKA,,0,0,0,0,0,0,0,0
+CNCE,,0,0,0,0,0,0,0,0
+CNDT,Conduent Incorporated,10,8,12,7,-1,-1,-1,5
+CNET,ZW Data Action Technologies Inc.,12,8,-1,10,-1,-1,-1,0
+CNEY,CN Energy Group. Inc.,12,12,6,10,-1,-1,-1,0
+CNFR,"Conifer Holdings, Inc.",10,8,-1,-1,-1,-1,-1,0
+CNFRL,,0,0,0,0,0,0,0,0
+CNNB,"Cincinnati Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+CNOB,"ConnectOne Bancorp, Inc.",12,8,0,0,0,-1,-1,10
+CNSL,"Consolidated Communications Holdings, Inc.",10,8,6,4,-1,-1,-1,2
+CNSP,"CNS Pharmaceuticals, Inc.",12,-1,10,7,-1,-1,-1,2
+CNST,,0,0,0,0,0,0,0,0
+CNTB,Connect Biopharma Holdings Limited,12,12,12,10,12,-1,-1,10
+CNTG,Centogene N.V.,10,0,10,4,0,-1,-1,5
+CNTY,"Century Casinos, Inc.",12,-1,12,7,-1,-1,-1,5
+CNXC,Concentrix Corporation,10,-1,12,10,-1,-1,-1,5
+CNXN,"PC Connection, Inc.",12,-1,12,10,12,-1,-1,5
+COCP,"Cocrystal Pharma, Inc.",12,8,12,10,12,-1,-1,5
+CODA,"Coda Octopus Group, Inc.",8,-1,12,10,0,-1,-1,5
+CODX,"Co-Diagnostics, Inc.",10,10,12,10,-1,-1,-1,2
+COFS,"ChoiceOne Financial Services, Inc.",6,8,0,0,0,-1,-1,0
+COGT,"Cogent Biosciences, Inc.",6,-1,12,10,-1,-1,-1,10
+COHR,Coherent Corp.,12,-1,12,10,-1,-1,-1,5
+COHU,"Cohu, Inc.",12,-1,12,10,-1,-1,-1,5
+COKE,"Coca-Cola Consolidated, Inc.",12,-1,12,7,-1,-1,-1,0
+COLB,"Columbia Banking System, Inc.",12,8,0,0,0,-1,-1,5
+COLIU,,0,0,0,0,0,0,0,0
+COLL,"Collegium Pharmaceutical, Inc.",-1,-1,10,4,-1,-1,-1,5
+COLM,Columbia Sportswear Company,12,-1,10,10,-1,-1,-1,2
+COMM,"CommScope Holding Company, Inc.",12,0,10,7,0,-1,-1,2
+COMS,COMSovereign Holding Corp.,12,12,-1,-1,-1,-1,-1,5
+COMSW,COMSovereign Holding Corp.,0,0,0,0,0,0,0,0
+CONE,,0,0,0,0,0,0,0,0
+CONN,"Conn's, Inc.",10,12,12,10,-1,-1,-1,5
+CONX,CONX Corp.,8,0,-1,-1,0,-1,0,0
+CONXU,CONX Corp.,12,0,-1,-1,0,-1,0,0
+CONXW,CONX Corp.,0,0,0,0,0,0,0,0
+COOL,Corner Growth Acquisition Corp.,12,0,-1,-1,0,-1,0,5
+COOLU,Corner Growth Acquisition Corp.,8,0,-1,-1,0,-1,0,0
+COOLW,Corner Growth Acquisition Corp.,0,0,0,0,0,0,0,0
+COOP,Mr. Cooper Group Inc.,12,8,-1,10,-1,-1,-1,5
+CORE,,0,0,0,0,0,0,0,0
+CORT,Corcept Therapeutics Incorporated,-1,-1,12,10,12,-1,-1,5
+COST,Costco Wholesale Corporation,12,-1,-1,4,-1,-1,-1,5
+COUP,,0,0,0,0,0,0,0,0
+COVA,,0,0,0,0,0,0,0,0
+COVAU,,0,0,0,0,0,0,0,0
+COVAW,,0,0,0,0,0,0,0,0
+COWN,,0,0,0,0,0,0,0,0
+COWNL,,0,0,0,0,0,0,0,0
+CPHC,Canterbury Park Holding Corporation,12,-1,12,10,12,-1,-1,0
+CPIX,Cumberland Pharmaceuticals Inc.,12,8,10,7,-1,-1,-1,2
+CPLP,Capital Product Partners L.P.,12,10,-1,2,-1,-1,-1,10
+CPRT,"Copart, Inc.",12,-1,12,10,4,-1,-1,5
+CPRX,"Catalyst Pharmaceuticals, Inc.",10,-1,12,10,12,-1,-1,5
+CPSH,CPS Technologies Corporation,12,-1,12,10,-1,-1,-1,0
+CPSI,"Computer Programs and Systems, Inc.",12,8,12,7,-1,-1,-1,2
+CPSS,"Consumer Portfolio Services, Inc.",-1,8,12,10,-1,-1,-1,10
+CPST,,0,0,0,0,0,0,0,0
+CPTA,,0,0,0,0,0,0,0,0
+CPTAG,,0,0,0,0,0,0,0,0
+CPTAL,,0,0,0,0,0,0,0,0
+CPZ,Calamos Long/Short Equity & Dynamic Income Term Trust,12,0,0,0,0,0,0,0
+CRAI,"CRA International, Inc.",10,-1,6,4,-1,-1,-1,5
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",10,-1,12,10,-1,-1,-1,5
+CRCT,"Cricut, Inc.",-1,-1,10,7,-1,-1,-1,2
+CRDF,"Cardiff Oncology, Inc.",12,8,12,10,-1,-1,-1,5
+CREE,,0,0,0,0,0,0,0,0
+CREG,Smart Powerr Corp.,12,12,-1,10,-1,-1,-1,0
+CRESY,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",12,12,6,4,-1,-1,-1,0
+CREX,"Creative Realities, Inc.",12,10,-1,-1,-1,-1,-1,5
+CREXW,"Creative Realities, Inc. WT EXP 110922",0,0,0,0,0,0,0,0
+CRIS,"Curis, Inc.",12,-1,12,10,-1,-1,-1,5
+CRKN,Crown ElectroKinetics Corp.,12,12,-1,-1,-1,-1,-1,2
+CRMD,CorMedix Inc.,8,-1,12,10,7,-1,-1,5
+CRMT,"America's Car-Mart, Inc.",6,-1,12,10,-1,-1,-1,2
+CRNC,Cerence Inc.,6,-1,6,4,-1,-1,-1,2
+CRNT,Ceragon Networks Ltd.,12,-1,10,7,-1,-1,-1,5
+CRNX,"Crinetics Pharmaceuticals, Inc.",12,-1,12,10,19,-1,-1,5
+CRON,Cronos Group Inc.,12,8,12,10,12,-1,-1,2
+CROX,"Crocs, Inc.",12,-1,6,7,-1,-1,-1,5
+CRSA,,0,0,0,0,0,0,0,0
+CRSAU,,0,0,0,0,0,0,0,0
+CRSAW,,0,0,0,0,0,0,0,0
+CRSP,CRISPR Therapeutics AG,2,-1,12,10,-1,-1,-1,5
+CRSR,"Corsair Gaming, Inc.",10,-1,10,7,-1,-1,-1,5
+CRTD,,0,0,0,0,0,0,0,0
+CRTDW,"Creatd, Inc.",0,0,0,0,0,0,0,0
+CRTO,Criteo S.A.,12,-1,6,4,-1,-1,-1,5
+CRTX,,0,0,0,0,0,0,0,0
+CRUS,"Cirrus Logic, Inc.",12,-1,12,10,-1,-1,-1,5
+CRVL,CorVel Corporation,8,-1,6,4,-1,-1,-1,0
+CRVS,"Corvus Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+CRWD,"CrowdStrike Holdings, Inc.",12,-1,12,7,-1,-1,-1,5
+CRWS,"Crown Crafts, Inc.",12,8,10,10,-1,-1,-1,2
+CRZNU,,0,0,0,0,0,0,0,0
+CSBR,"Champions Oncology, Inc.",6,-1,-1,-1,-1,-1,-1,5
+CSCO,"Cisco Systems, Inc.",12,-1,10,4,-1,-1,-1,5
+CSCW,,0,0,0,0,0,0,0,0
+CSGP,"CoStar Group, Inc.",12,-1,12,10,-1,-1,-1,5
+CSGS,"CSG Systems International, Inc.",12,-1,10,7,-1,-1,-1,10
+CSII,,0,0,0,0,0,0,0,0
+CSIQ,Canadian Solar Inc.,12,8,-1,4,-1,-1,-1,5
+CSOD,,0,0,0,0,0,0,0,0
+CSPI,CSP Inc.,12,-1,12,10,-1,-1,-1,0
+CSQ,Calamos Strategic Total Return Fund,12,-1,12,10,-1,-1,-1,0
+CSSE,"Chicken Soup for the Soul Entertainment, Inc.",12,8,6,4,-1,-1,-1,5
+CSSEN,,0,0,0,0,0,0,0,0
+CSSEP,"Chicken Soup for the Soul Entertainment, Inc.",12,-1,6,4,-1,-1,-1,0
+CSTE,Caesarstone Ltd.,12,10,12,10,-1,-1,-1,5
+CSTL,"Castle Biosciences, Inc.",12,-1,12,10,-1,-1,-1,10
+CSTR,"CapStar Financial Holdings, Inc.",12,8,0,0,0,-1,-1,2
+CSWC,Capital Southwest Corporation,12,-1,12,10,-1,-1,-1,5
+CSWI,"CSW Industrials, Inc.",12,-1,12,10,-1,-1,-1,5
+CSX,CSX Corporation,12,-1,10,4,-1,-1,-1,5
+CTAQ,,0,0,0,0,0,0,0,0
+CTAQU,,0,0,0,0,0,0,0,0
+CTAQW,,0,0,0,0,0,0,0,0
+CTAS,Cintas Corporation,12,-1,10,10,-1,-1,-1,5
+CTBI,"Community Trust Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+CTG,"Computer Task Group, Incorporated",12,-1,12,10,-1,-1,-1,2
+CTHR,"Charles & Colvard, Ltd.",12,10,12,10,-1,-1,-1,5
+CTIB,Yunhong CTI Ltd.,12,-1,-1,4,-1,-1,-1,0
+CTIC,,0,0,0,0,0,0,0,0
+CTMX,"CytomX Therapeutics, Inc.",4,0,12,4,0,-1,0,2
+CTRE,"CareTrust REIT, Inc.",10,-1,-1,2,-1,-1,-1,5
+CTRM,Castor Maritime Inc.,12,12,12,10,-1,-1,-1,0
+CTRN,"Citi Trends, Inc.",10,-1,-1,4,-1,-1,-1,5
+CTSH,Cognizant Technology Solutions Corporation,12,-1,12,10,-1,-1,-1,2
+CTSO,Cytosorbents Corporation,-1,-1,12,10,-1,-1,-1,5
+CTXR,"Citius Pharmaceuticals, Inc.",-1,-1,12,10,12,-1,-1,5
+CTXS,,0,0,0,0,0,0,0,0
+CUBA,The Herzfeld Caribbean Basin Fund Inc.,12,8,0,0,0,0,0,0
+CUE,"Cue Biopharma, Inc.",8,-1,12,10,-1,-1,-1,10
+CUEN,Cuentas Inc.,12,-1,-1,-1,-1,-1,-1,0
+CUENW,Cuentas Inc.,0,0,0,0,0,0,0,0
+CURI,CuriosityStream Inc.,4,10,12,10,-1,-1,-1,2
+CURIW,CuriosityStream Inc.,0,0,0,0,0,0,0,0
+CUTR,"Cutera, Inc.",10,0,12,10,0,-1,0,2
+CVAC,CureVac N.V.,4,-1,12,10,-1,-1,-1,5
+CVBF,CVB Financial Corp.,8,-1,0,0,0,-1,-1,5
+CVCO,"Cavco Industries, Inc.",10,-1,12,10,-1,-1,-1,5
+CVCY,Central Valley Community Bancorp,8,8,0,0,0,-1,-1,2
+CVET,,0,0,0,0,0,0,0,0
+CVGI,"Commercial Vehicle Group, Inc.",12,-1,10,10,-1,-1,-1,10
+CVGW,"Calavo Growers, Inc.",12,-1,6,4,-1,-1,-1,5
+CVLG,"Covenant Logistics Group, Inc.",12,-1,6,4,-1,-1,-1,5
+CVLT,"Commvault Systems, Inc.",12,-1,10,4,-1,-1,-1,2
+CVLY,"Codorus Valley Bancorp, Inc.",12,8,0,0,0,-1,-1,10
+CVV,CVD Equipment Corporation,12,-1,12,10,19,-1,-1,5
+CWBC,Community West Bancshares,12,8,0,0,0,-1,-1,2
+CWBR,"CohBar, Inc.",12,8,12,10,0,-1,-1,2
+CWCO,Consolidated Water Co. Ltd.,12,-1,12,10,19,-1,-1,10
+CWST,"Casella Waste Systems, Inc.",12,-1,12,10,-1,-1,-1,5
+CXDC,,0,0,0,0,0,0,0,0
+CXDO,"Crexendo, Inc.",12,-1,6,4,-1,-1,-1,5
+CYAD,,0,0,0,0,0,0,0,0
+CYAN,Cyanotech Corporation,12,10,-1,4,-1,-1,-1,0
+CYBE,,0,0,0,0,0,0,0,0
+CYBR,CyberArk Software Ltd.,10,-1,12,10,-1,-1,-1,5
+CYCC,"Cyclacel Pharmaceuticals, Inc.",12,8,12,10,19,-1,-1,10
+CYCCP,"Cyclacel Pharmaceuticals, Inc.",12,-1,12,10,19,-1,-1,0
+CYCN,"Cyclerion Therapeutics, Inc.",12,-1,10,4,0,-1,-1,5
+CYRN,,0,0,0,0,0,0,0,0
+CYRX,"Cryoport, Inc.",10,-1,12,10,-1,-1,-1,5
+CYTH,"Cyclo Therapeutics, Inc.",12,0,-1,-1,0,-1,-1,2
+CYTHW,"Cyclo Therapeutics, Inc.",0,0,0,0,0,0,0,0
+CYTK,"Cytokinetics, Incorporated",2,0,12,10,0,-1,0,5
+CZNC,Citizens & Northern Corporation,10,-1,0,0,0,-1,-1,2
+CZR,"Caesars Entertainment, Inc.",12,-1,-1,2,-1,-1,-1,5
+CZWI,"Citizens Community Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+DADA,Dada Nexus Limited,12,12,12,10,12,-1,-1,5
+DAIO,Data I/O Corporation,12,-1,12,10,-1,-1,-1,10
+DAKT,"Daktronics, Inc.",12,-1,10,7,-1,-1,-1,10
+DARE,"Daré Bioscience, Inc.",12,0,-1,2,0,-1,-1,5
+DBDR,,0,0,0,0,0,0,0,0
+DBDRU,,0,0,0,0,0,0,0,0
+DBDRW,,0,0,0,0,0,0,0,0
+DBTX,"Decibel Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+DBVT,DBV Technologies S.A.,-1,-1,12,10,19,-1,-1,2
+DBX,"Dropbox, Inc.",10,0,10,4,0,-1,0,5
+DCBO,Docebo Inc.,12,-1,12,7,7,-1,-1,5
+DCOM,"Dime Community Bancshares, Inc.",8,8,0,0,0,-1,-1,5
+DCOMP,"Dime Community Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+DCPH,"Deciphera Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,5
+DCRB,,0,0,0,0,0,0,0,0
+DCRBU,,0,0,0,0,0,0,0,0
+DCRBW,,0,0,0,0,0,0,0,0
+DCRCU,,0,0,0,0,0,0,0,0
+DCRN,,0,0,0,0,0,0,0,0
+DCRNU,,0,0,0,0,0,0,0,0
+DCRNW,,0,0,0,0,0,0,0,0
+DCT,,0,0,0,0,0,0,0,0
+DCTH,"Delcath Systems, Inc.",12,0,12,7,-1,-1,-1,5
+DDMX,,0,0,0,0,0,0,0,0
+DDMXU,,0,0,0,0,0,0,0,0
+DDMXW,,0,0,0,0,0,0,0,0
+DDOG,"Datadog, Inc.",12,-1,12,10,-1,-1,-1,5
+DENN,Denny's Corporation,12,0,-1,-1,0,-1,0,5
+DFFN,Diffusion Pharmaceuticals Inc.,0,0,0,0,0,0,0,5
+DFH,"Dream Finders Homes, Inc.",2,-1,12,10,-1,-1,-1,2
+DFHT,,0,0,0,0,0,0,0,0
+DFHTU,,0,0,0,0,0,0,0,0
+DFHTW,,0,0,0,0,0,0,0,0
+DFPH,,0,0,0,0,0,0,0,0
+DFPHW,,0,0,0,0,0,0,0,0
+DGICA,Donegal Group Inc.,12,8,-1,-1,-1,-1,-1,2
+DGICB,Donegal Group Inc.,12,8,-1,-1,-1,-1,-1,0
+DGII,Digi International Inc.,10,-1,6,7,-1,-1,-1,5
+DGLY,"Digital Ally, Inc.",6,10,-1,2,-1,-1,-1,5
+DGNS,,0,0,0,0,0,0,0,0
+DGNU,,0,0,0,0,0,0,0,0
+DHBCU,,0,0,0,0,0,0,0,0
+DHC,Diversified Healthcare Trust,12,12,12,10,-1,-1,-1,2
+DHCAU,DHC Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+DHCNI,,0,0,0,0,0,0,0,0
+DHCNL,Diversified Healthcare Trust,0,0,0,0,0,0,0,0
+DHHC,,0,0,0,0,0,0,0,0
+DHHCU,,0,0,0,0,0,0,0,0
+DHHCW,,0,0,0,0,0,0,0,0
+DHIL,"Diamond Hill Investment Group, Inc.",12,-1,12,10,12,-1,-1,0
+DIOD,Diodes Incorporated,12,-1,12,10,-1,-1,-1,5
+DISAU,Disruptive Acquisition Corporation I,12,0,-1,-1,0,-1,0,0
+DISCA,,0,0,0,0,0,0,0,0
+DISCB,,0,0,0,0,0,0,0,0
+DISCK,,0,0,0,0,0,0,0,0
+DISH,DISH Network Corporation,10,12,-1,-1,-1,-1,-1,2
+DJCO,Daily Journal Corporation,12,-1,12,10,-1,-1,-1,0
+DKNG,DraftKings Inc.,12,-1,10,7,-1,-1,-1,5
+DLCA,,0,0,0,0,0,0,0,0
+DLCAU,,0,0,0,0,0,0,0,0
+DLCAW,,0,0,0,0,0,0,0,0
+DLHC,DLH Holdings Corp.,12,-1,6,2,-1,-1,-1,5
+DLPN,"Dolphin Entertainment, Inc.",12,8,6,4,-1,-1,-1,5
+DLTH,Duluth Holdings Inc.,6,8,-1,7,-1,-1,-1,5
+DLTR,"Dollar Tree, Inc.",12,-1,-1,4,-1,-1,-1,5
+DMAC,DiaMedica Therapeutics Inc.,12,-1,12,10,12,-1,-1,5
+DMLP,"Dorchester Minerals, L.P.",12,-1,12,10,12,-1,-1,0
+DMRC,Digimarc Corporation,-1,-1,12,10,-1,-1,-1,2
+DMTK,"DermTech, Inc.",-1,8,12,10,-1,-1,-1,5
+DNLI,Denali Therapeutics Inc.,4,-1,12,10,-1,-1,-1,5
+DOCU,"DocuSign, Inc.",12,-1,6,2,-1,-1,-1,2
+DOGZ,Dogness (International) Corporation,12,12,10,4,-1,-1,-1,0
+DOMO,"Domo, Inc.",12,0,-1,-1,0,-1,0,5
+DOOO,BRP Inc.,2,-1,-1,4,-1,-1,4,10
+DORM,"Dorman Products, Inc.",12,-1,6,10,-1,-1,-1,5
+DOX,Amdocs Limited,12,-1,12,4,-1,-1,-1,5
+DOYU,DouYu International Holdings Limited,-1,12,12,10,12,-1,-1,2
+DRIO,DarioHealth Corp.,6,-1,12,10,-1,-1,-1,5
+DRNA,,0,0,0,0,0,0,0,0
+DRRX,DURECT Corporation,6,-1,6,2,-1,-1,-1,5
+DRTT,DIRTT Environmental Solutions Ltd.,12,-1,6,7,-1,-1,-1,5
+DRVN,Driven Brands Holdings Inc.,12,-1,6,4,-1,-1,-1,5
+DSAC,,0,0,0,0,0,0,0,0
+DSACU,,0,0,0,0,0,0,0,0
+DSACW,,0,0,0,0,0,0,0,0
+DSEY,,0,0,0,0,0,0,0,0
+DSGN,"Design Therapeutics, Inc.",12,10,12,10,19,-1,-1,2
+DSGX,The Descartes Systems Group Inc.,10,-1,12,7,12,-1,-1,5
+DSKE,"Daseke, Inc.",12,-1,10,4,-1,-1,-1,5
+DSP,Viant Technology Inc.,12,-1,12,10,-1,-1,-1,5
+DSPG,,0,0,0,0,0,0,0,0
+DSWL,"Deswell Industries, Inc.",12,10,12,10,0,-1,-1,0
+DTEA,,0,0,0,0,0,0,0,0
+DTIL,"Precision BioSciences, Inc.",12,-1,12,10,-1,-1,-1,5
+DTOCU,Digital Transformation Opportunities Corp.,-1,0,-1,-1,0,-1,0,0
+DTSS,Datasea Inc.,12,0,-1,-1,0,-1,-1,5
+DUNE,Dune Acquisition Corporation,12,0,-1,-1,0,-1,0,0
+DUNEU,Dune Acquisition Corporation,12,0,-1,-1,0,-1,0,0
+DUNEW,Dune Acquisition Corporation,0,0,0,0,0,0,0,0
+DUO,Fangdd Network Group Ltd.,12,12,-1,4,12,-1,-1,2
+DUOT,"Duos Technologies Group, Inc.",12,-1,6,4,-1,-1,-1,5
+DVAX,Dynavax Technologies Corporation,6,-1,12,10,-1,-1,-1,5
+DWSN,Dawson Geophysical Company,12,-1,6,4,-1,-1,-1,0
+DXCM,"DexCom, Inc.",12,-1,12,10,-1,-1,-1,10
+DXPE,"DXP Enterprises, Inc.",10,-1,12,10,-1,-1,-1,10
+DXYN,"The Dixie Group, Inc.",12,10,-1,10,-1,-1,-1,0
+DYAI,"Dyadic International, Inc.",-1,-1,12,10,0,-1,-1,5
+DYN,"Dyne Therapeutics, Inc.",6,-1,12,10,-1,-1,-1,10
+DYNT,Dynatronics Corporation,12,10,-1,7,-1,-1,-1,5
+DZSI,DZS Inc.,12,8,6,4,-1,-1,-1,5
+EA,Electronic Arts Inc.,12,-1,10,4,-1,-1,-1,5
+EAC,Edify Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+EACPU,Edify Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+EACPW,Edify Acquisition Corp.,0,0,0,0,0,0,0,0
+EAR,"Eargo, Inc.",8,8,12,10,-1,-1,-1,2
+EARS,,0,0,0,0,0,0,0,0
+EAST,"Eastside Distilling, Inc.",12,0,-1,-1,0,-1,-1,0
+EBACU,,0,0,0,0,0,0,0,0
+EBAY,eBay Inc.,12,-1,12,10,-1,-1,-1,2
+EBC,"Eastern Bankshares, Inc.",12,8,0,0,0,-1,-1,5
+EBIX,"Ebix, Inc.",6,10,-1,-1,-1,-1,-1,10
+EBMT,"Eagle Bancorp Montana, Inc.",12,8,0,0,0,-1,-1,2
+EBON,Ebang International Holdings Inc.,6,12,12,10,7,-1,-1,0
+EBSB,,0,0,0,0,0,0,0,0
+EBTC,"Enterprise Bancorp, Inc.",12,-1,0,0,0,-1,-1,0
+ECHO,,0,0,0,0,0,0,0,0
+ECOL,,0,0,0,0,0,0,0,0
+ECOR,"electroCore, Inc.",12,-1,12,7,-1,-1,-1,5
+ECPG,"Encore Capital Group, Inc.",2,8,12,10,-1,-1,-1,5
+EDAP,EDAP TMS S.A.,12,-1,12,10,-1,-1,-1,5
+EDIT,"Editas Medicine, Inc.",4,-1,12,10,-1,-1,-1,2
+EDRY,EuroDry Ltd.,12,10,12,10,-1,-1,-1,0
+EDSA,"Edesa Biotech, Inc.",10,-1,12,10,19,-1,-1,5
+EDTK,Skillful Craftsman Education Technology Limited,12,8,12,10,-1,-1,-1,0
+EDTX,EdtechX Holdings Acquisition Corp. Common Stock,0,0,-1,-1,0,-1,0,0
+EDTXU,EdtechX Holdings Acquisition Corp. II,12,0,-1,-1,0,-1,0,0
+EDTXW,EdtechX Holdings Acquisition Corp. Warrant,0,0,0,0,0,0,0,0
+EDUC,Educational Development Corporation,12,12,-1,4,-1,-1,-1,10
+EEFT,"Euronet Worldwide, Inc.",12,-1,6,7,-1,-1,-1,5
+EEIQ,EpicQuest Education Group International Limited,12,8,12,7,-1,-1,-1,0
+EFOI,"Energy Focus, Inc.",12,-1,-1,7,-1,-1,-1,5
+EFSC,Enterprise Financial Services Corp,12,8,0,0,0,-1,-1,5
+EGAN,eGain Corporation,12,-1,12,7,-1,-1,-1,5
+EGBN,"Eagle Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+EGLE,Eagle Bulk Shipping Inc.,8,8,12,7,-1,-1,-1,5
+EGOV,,0,0,0,0,0,0,0,0
+EGRX,"Eagle Pharmaceuticals, Inc.",10,8,12,10,-1,-1,-1,10
+EH,EHang Holdings Limited,4,-1,-1,4,-1,-1,-1,2
+EHTH,"eHealth, Inc.",12,10,12,10,-1,-1,-1,2
+EIGR,"Eiger BioPharmaceuticals, Inc.",12,8,12,10,-1,-1,-1,10
+EJFAU,,0,0,0,0,0,0,0,0
+EKSO,"Ekso Bionics Holdings, Inc.",12,8,12,10,-1,-1,-1,5
+ELDN,"Eledon Pharmaceuticals, Inc.",12,10,12,10,12,-1,-1,5
+ELOX,"Eloxx Pharmaceuticals, Inc.",12,0,-1,-1,0,-1,0,10
+ELSE,"Electro-Sensors, Inc.",12,-1,12,10,12,-1,-1,0
+ELTK,Eltek Ltd.,12,-1,12,10,-1,-1,-1,5
+ELYS,"Elys Game Technology, Corp.",12,-1,-1,-1,-1,-1,-1,5
+EM,Smart Share Global Limited,12,12,12,10,12,-1,-1,5
+EMCF,,0,0,0,0,0,0,0,0
+EMKR,EMCORE Corporation,12,12,12,10,-1,-1,-1,5
+EML,The Eastern Company,12,8,12,10,-1,-1,-1,0
+ENDP,,0,0,0,0,0,0,0,0
+ENFA,,0,0,0,0,0,0,0,0
+ENFAU,,0,0,0,0,0,0,0,0
+ENFAW,,0,0,0,0,0,0,0,0
+ENG,ENGlobal Corporation,12,-1,6,4,-1,-1,-1,5
+ENLV,Enlivex Therapeutics Ltd.,12,8,12,10,-1,-1,-1,0
+ENNV,,0,0,0,0,0,0,0,0
+ENNVU,,0,0,0,0,0,0,0,0
+ENNVW,,0,0,0,0,0,0,0,0
+ENOB,Enochian Biosciences Inc.,0,0,0,0,0,0,0,0
+ENPH,"Enphase Energy, Inc.",12,-1,12,10,-1,-1,-1,5
+ENSG,"The Ensign Group, Inc.",6,-1,12,4,-1,-1,-1,5
+ENTA,"Enanta Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,2
+ENTG,"Entegris, Inc.",12,-1,12,10,-1,-1,-1,5
+ENTX,Entera Bio Ltd.,12,-1,12,10,-1,-1,-1,5
+ENVB,"Enveric Biosciences, Inc.",12,-1,12,7,12,-1,-1,5
+ENVI,,0,0,0,0,0,0,0,0
+ENVIU,,0,0,0,0,0,0,0,0
+ENVIW,,0,0,0,0,0,0,0,0
+EOLS,"Evolus, Inc.",8,0,12,10,0,-1,-1,5
+EOSE,"Eos Energy Enterprises, Inc.",12,0,-1,4,0,-1,0,5
+EOSEW,"Eos Energy Enterprises, Inc.",0,0,0,0,0,0,0,0
+EPAY,,0,0,0,0,0,0,0,0
+EPHY,,0,0,0,0,0,0,0,0
+EPHYU,,0,0,0,0,0,0,0,0
+EPHYW,,0,0,0,0,0,0,0,0
+EPIX,ESSA Pharma Inc.,12,8,12,10,12,-1,-1,10
+EPSN,Epsilon Energy Ltd.,12,-1,12,10,12,-1,-1,0
+EPZM,,0,0,0,0,0,0,0,0
+EQ,"Equillium, Inc.",10,8,12,10,-1,-1,-1,5
+EQBK,"Equity Bancshares, Inc.",10,8,0,0,0,-1,-1,5
+EQIX,"Equinix, Inc.",12,-1,12,10,-1,-1,-1,5
+EQOS,,0,0,0,0,0,0,0,0
+ERIC,Telefonaktiebolaget LM Ericsson (publ),12,-1,6,4,-1,-1,-1,2
+ERIE,Erie Indemnity Company,10,-1,10,4,0,-1,-1,5
+ERII,"Energy Recovery, Inc.",8,-1,12,10,-1,-1,-1,5
+ERYP,,0,0,0,0,0,0,0,0
+ESBK,,0,0,0,0,0,0,0,0
+ESCA,"Escalade, Incorporated",8,-1,12,10,-1,-1,-1,0
+ESEA,Euroseas Ltd.,12,8,-1,-1,-1,-1,-1,5
+ESGR,Enstar Group Limited,12,8,12,10,-1,-1,-1,0
+ESGRO,Enstar Group Limited,10,12,12,10,-1,-1,-1,0
+ESGRP,Enstar Group Limited,12,12,12,10,-1,-1,-1,0
+ESLT,Elbit Systems Ltd.,10,-1,-1,4,-1,-1,-1,2
+ESPR,"Esperion Therapeutics, Inc.",12,0,12,10,0,-1,0,5
+ESQ,"Esquire Financial Holdings, Inc.",6,-1,0,0,0,-1,-1,5
+ESSA,"ESSA Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+ESSC,,0,0,0,0,0,0,0,0
+ESSCR,,0,0,0,0,0,0,0,0
+ESSCW,,0,0,0,0,0,0,0,0
+ESTA,Establishment Labs Holdings Inc.,4,-1,12,10,-1,-1,-1,10
+ESXB,,0,0,0,0,0,0,0,0
+ETAC,,0,0,0,0,0,0,0,0
+ETACU,,0,0,0,0,0,0,0,0
+ETACW,,0,0,0,0,0,0,0,0
+ETNB,"89bio, Inc.",10,-1,12,10,-1,-1,-1,10
+ETON,"Eton Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+ETSY,"Etsy, Inc.",12,0,12,10,0,-1,-1,5
+ETTX,,0,0,0,0,0,0,0,0
+EUCR,,0,0,0,0,0,0,0,0
+EUCRU,,0,0,0,0,0,0,0,0
+EUCRW,,0,0,0,0,0,0,0,0
+EUSG,,0,0,0,0,0,0,0,0
+EUSGU,,0,0,0,0,0,0,0,0
+EUSGW,,0,0,0,0,0,0,0,0
+EVAX,Evaxion Biotech A/S,12,-1,12,10,-1,-1,-1,10
+EVBG,"Everbridge, Inc.",12,-1,10,4,-1,-1,-1,2
+EVER,"EverQuote, Inc.",10,-1,12,7,-1,-1,-1,5
+EVFM,"Evofem Biosciences, Inc.",12,0,-1,-1,0,-1,0,5
+EVGN,Evogene Ltd.,12,-1,12,10,-1,-1,-1,5
+EVK,,0,0,0,0,0,0,0,0
+EVLMC,Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares,0,0,0,0,0,0,0,0
+EVLO,"Evelo Biosciences, Inc.",12,0,-1,-1,0,-1,0,2
+EVOJ,,0,0,0,0,0,0,0,0
+EVOJU,,0,0,0,0,0,0,0,0
+EVOJW,,0,0,0,0,0,0,0,0
+EVOK,"Evoke Pharma, Inc.",12,-1,12,10,-1,-1,-1,5
+EVOL,"Symbolic Logic, Inc.",12,10,12,10,0,-1,-1,0
+EVOP,,0,0,0,0,0,0,0,0
+EWBC,"East West Bancorp, Inc.",12,-1,0,0,0,-1,-1,5
+EWTX,"Edgewise Therapeutics, Inc.",-1,-1,12,10,7,-1,-1,5
+EXAS,Exact Sciences Corporation,10,-1,12,10,-1,-1,-1,5
+EXC,Exelon Corporation,12,-1,-1,2,-1,-1,-1,5
+EXEL,"Exelixis, Inc.",12,-1,12,10,-1,-1,-1,5
+EXFO,,0,0,0,0,0,0,0,0
+EXLS,"ExlService Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+EXPC,,0,0,0,0,0,0,0,0
+EXPCU,,0,0,0,0,0,0,0,0
+EXPCW,,0,0,0,0,0,0,0,0
+EXPD,"Expeditors International of Washington, Inc.",10,-1,12,10,-1,-1,-1,2
+EXPE,"Expedia Group, Inc.",12,-1,-1,2,-1,-1,-1,5
+EXPI,"eXp World Holdings, Inc.",-1,-1,10,7,12,-1,-1,2
+EXPO,"Exponent, Inc.",12,-1,12,10,-1,-1,-1,2
+EXTR,"Extreme Networks, Inc.",10,-1,-1,4,-1,-1,-1,5
+EYE,"National Vision Holdings, Inc.",12,-1,6,4,-1,-1,-1,5
+EYEG,,0,0,0,0,0,0,0,0
+EYEN,"Eyenovia, Inc.",12,-1,12,10,-1,-1,-1,10
+EYES,,0,0,0,0,0,0,0,0
+EYPT,"EyePoint Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,5
+EZGO,EZGO Technologies Ltd.,12,12,10,10,-1,-1,-1,0
+EZPW,"EZCORP, Inc.",2,8,12,10,-1,-1,-1,10
+FAMI,"Farmmi, Inc.",12,12,12,10,-1,-1,-1,0
+FANG,"Diamondback Energy, Inc.",12,-1,-1,-1,-1,-1,-1,5
+FANH,Fanhua Inc.,6,12,12,10,-1,-1,-1,2
+FARM,Farmer Bros. Co.,12,-1,-1,4,-1,-1,-1,5
+FARO,"FARO Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+FAST,Fastenal Company,10,-1,12,10,-1,-1,-1,2
+FAT,FAT Brands Inc.,10,0,-1,-1,0,-1,0,5
+FATBP,FAT Brands Inc.,12,0,-1,-1,0,-1,0,0
+FATBW,FAT Brands Inc.,0,0,0,0,0,0,0,0
+FATE,"Fate Therapeutics, Inc.",8,10,12,10,-1,-1,-1,5
+FB,,0,0,0,0,0,0,0,0
+FBIO,"Fortress Biotech, Inc.",12,-1,-1,2,0,-1,-1,5
+FBIOP,"Fortress Biotech, Inc.",12,-1,-1,2,0,-1,-1,0
+FBIZ,"First Business Financial Services, Inc.",12,8,0,0,0,-1,-1,5
+FBMS,"The First Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+FBNC,First Bancorp,10,8,0,0,0,-1,-1,5
+FBRX,"Forte Biosciences, Inc.",12,8,12,10,0,-1,-1,2
+FCAC,,0,0,0,0,0,0,0,0
+FCACU,,0,0,0,0,0,0,0,0
+FCACW,,0,0,0,0,0,0,0,0
+FCAP,"First Capital, Inc.",12,8,0,0,0,-1,-1,0
+FCBC,"First Community Bankshares, Inc.",10,-1,0,0,0,-1,-1,0
+FCBP,,0,0,0,0,0,0,0,0
+FCCO,First Community Corporation,8,-1,0,0,0,-1,-1,2
+FCCY,,0,0,0,0,0,0,0,0
+FCEL,"FuelCell Energy, Inc.",10,8,12,10,-1,-1,-1,2
+FCFS,"FirstCash Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+FCNCA,"First Citizens BancShares, Inc.",10,-1,0,0,0,-1,-1,5
+FCNCP,"First Citizens BancShares, Inc.",12,12,0,0,0,-1,-1,0
+FCRD,"First Eagle Alternative Capital BDC, Inc.",0,0,0,0,0,0,0,2
+FDBC,"Fidelity D & D Bancorp, Inc.",8,-1,0,0,0,-1,-1,0
+FDMT,"4D Molecular Therapeutics, Inc.",6,-1,12,10,-1,-1,-1,5
+FDUS,Fidus Investment Corporation,12,-1,12,7,-1,-1,-1,5
+FEIM,"Frequency Electronics, Inc.",12,-1,6,7,-1,-1,-1,0
+FELE,"Franklin Electric Co., Inc.",12,-1,6,10,-1,-1,-1,2
+FENC,Fennec Pharmaceuticals Inc.,-1,0,12,10,0,-1,0,5
+FEYE,,0,0,0,0,0,0,0,0
+FFBC,First Financial Bancorp.,12,8,0,0,0,-1,-1,2
+FFBW,"FFBW, Inc.",12,8,0,0,0,-1,-1,0
+FFHL,,0,0,0,0,0,0,0,0
+FFIC,Flushing Financial Corporation,12,8,0,0,0,-1,-1,2
+FFIN,"First Financial Bankshares, Inc.",2,-1,0,0,0,-1,-1,2
+FFIV,"F5, Inc.",12,-1,10,4,-1,-1,-1,2
+FFNW,"First Financial Northwest, Inc.",12,8,0,0,0,-1,-1,5
+FFWM,First Foundation Inc.,12,10,0,0,0,-1,-1,5
+FGBI,"First Guaranty Bancshares, Inc.",12,8,0,0,0,-1,-1,2
+FGEN,"FibroGen, Inc.",12,0,12,10,0,-1,-1,2
+FGF,"FG Financial Group, Inc.",12,8,-1,10,12,-1,-1,0
+FGFPP,"FG Financial Group, Inc.",12,-1,-1,10,12,-1,-1,0
+FHB,"First Hawaiian, Inc.",10,8,0,0,0,-1,-1,2
+FHTX,Foghorn Therapeutics Inc.,-1,0,12,10,0,-1,0,5
+FIBK,"First Interstate BancSystem, Inc.",12,8,0,0,0,-1,-1,5
+FIII,,0,0,0,0,0,0,0,0
+FIIIU,,0,0,0,0,0,0,0,0
+FIIIW,,0,0,0,0,0,0,0,0
+FINM,,0,0,0,0,0,0,0,0
+FINMU,,0,0,0,0,0,0,0,0
+FINMW,,0,0,0,0,0,0,0,0
+FISI,"Financial Institutions, Inc.",12,8,0,0,0,-1,-1,2
+FISV,,0,0,0,0,0,0,0,0
+FITB,Fifth Third Bancorp,12,-1,0,0,0,-1,-1,5
+FITBI,Fifth Third Bancorp,12,-1,0,0,0,-1,-1,0
+FITBO,Fifth Third Bancorp,12,8,0,0,0,-1,-1,0
+FITBP,Fifth Third Bancorp,12,-1,0,0,0,-1,-1,0
+FIVE,"Five Below, Inc.",12,-1,-1,7,-1,-1,-1,5
+FIVN,"Five9, Inc.",12,-1,12,10,-1,-1,-1,5
+FIXX,"Homology Medicines, Inc.",12,8,12,10,-1,-1,-1,2
+FIZZ,National Beverage Corp.,6,-1,12,10,-1,-1,-1,0
+FKWL,Franklin Wireless Corp.,12,8,12,10,12,-1,-1,5
+FLAC,,0,0,0,0,0,0,0,0
+FLACU,,0,0,0,0,0,0,0,0
+FLACW,,0,0,0,0,0,0,0,0
+FLDM,,0,0,0,0,0,0,0,0
+FLEX,Flex Ltd.,12,-1,-1,4,-1,-1,-1,5
+FLGT,"Fulgent Genetics, Inc.",12,8,12,10,7,-1,-1,5
+FLIC,The First of Long Island Corporation,12,8,0,0,0,-1,-1,2
+FLIR,,0,0,0,0,0,0,0,0
+FLL,"Full House Resorts, Inc.",10,-1,-1,7,-1,-1,-1,5
+FLMN,,0,0,0,0,0,0,0,0
+FLNT,"Fluent, Inc.",12,8,12,7,-1,-1,-1,5
+FLUX,"Flux Power Holdings, Inc.",6,-1,-1,4,-1,-1,-1,5
+FLWS,"1-800-FLOWERS.COM, Inc.",12,8,-1,7,-1,-1,-1,5
+FLXN,,0,0,0,0,0,0,0,0
+FLXS,"Flexsteel Industries, Inc.",12,8,6,10,-1,-1,-1,0
+FMAO,"Farmers & Merchants Bancorp, Inc.",6,8,0,0,0,-1,-1,2
+FMBH,"First Mid Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+FMBI,,0,0,0,0,0,0,0,0
+FMBIO,,0,0,0,0,0,0,0,0
+FMBIP,,0,0,0,0,0,0,0,0
+FMNB,Farmers National Banc Corp.,6,-1,0,0,0,-1,-1,2
+FMTX,,0,0,0,0,0,0,0,0
+FNCB,"FNCB Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+FNCH,"Finch Therapeutics Group, Inc.",12,10,12,10,-1,-1,-1,5
+FNHC,,0,0,0,0,0,0,0,0
+FNKO,"Funko, Inc.",12,-1,-1,2,-1,-1,-1,2
+FNLC,"The First Bancorp, Inc.",12,-1,0,0,0,-1,-1,0
+FNWB,First Northwest Bancorp,12,8,0,0,0,-1,-1,2
+FOCS,Focus Financial Partners Inc.,10,-1,12,10,-1,-1,-1,2
+FOLD,"Amicus Therapeutics, Inc.",6,-1,12,10,-1,-1,-1,5
+FONR,FONAR Corporation,12,8,12,10,-1,-1,-1,0
+FORA,Forian Inc.,-1,-1,12,10,-1,-1,-1,5
+FORD,"Forward Industries, Inc.",8,-1,6,4,-1,-1,-1,0
+FORE,,0,0,0,0,0,0,0,0
+FOREU,,0,0,0,0,0,0,0,0
+FOREW,,0,0,0,0,0,0,0,0
+FORM,"FormFactor, Inc.",10,-1,12,10,-1,-1,-1,5
+FORR,"Forrester Research, Inc.",12,-1,-1,2,-1,-1,-1,5
+FORTY,Formula Systems (1985) Ltd.,6,-1,12,4,-1,-1,-1,0
+FOSL,"Fossil Group, Inc.",12,10,6,10,-1,-1,-1,2
+FOX,Fox Corporation,12,-1,12,7,-1,-1,-1,0
+FOXA,Fox Corporation,12,-1,12,7,-1,-1,-1,2
+FOXF,Fox Factory Holding Corp.,2,-1,12,10,-1,-1,-1,5
+FOXW,,0,0,0,0,0,0,0,0
+FOXWU,,0,0,0,0,0,0,0,0
+FOXWW,,0,0,0,0,0,0,0,0
+FPAY,"FlexShopper, Inc.",12,-1,12,10,-1,-1,-1,5
+FPRX,,0,0,0,0,0,0,0,0
+FRAF,Franklin Financial Services Corporation,10,-1,0,0,0,-1,-1,0
+FRBA,First Bank,12,8,0,0,0,-1,-1,5
+FRBK,"Republic First Bancorp, Inc.",12,12,0,0,0,-1,-1,2
+FREE,"Whole Earth Brands, Inc.",10,8,6,10,-1,-1,-1,5
+FREEW,Whole Earth Brands Inc,0,0,0,0,0,0,0,0
+FREQ,"Frequency Therapeutics, Inc.",12,10,12,10,-1,-1,-1,2
+FRG,"Franchise Group, Inc.",6,-1,-1,4,-1,-1,-1,5
+FRGAP,"Franchise Group, Inc.",12,-1,-1,4,-1,-1,-1,0
+FRGI,"Fiesta Restaurant Group, Inc.",12,-1,10,4,-1,-1,-1,5
+FRHC,Freedom Holding Corp.,12,-1,6,4,-1,-1,-1,0
+FRLN,Freeline Therapeutics Holdings plc,10,10,12,10,-1,-1,-1,5
+FRME,First Merchants Corporation,12,8,0,0,0,-1,-1,5
+FROG,JFrog Ltd.,12,-1,12,10,-1,-1,-1,5
+FRONU,,0,0,0,0,0,0,0,0
+FRPH,"FRP Holdings, Inc.",12,-1,12,10,-1,-1,-1,0
+FRPT,"Freshpet, Inc.",4,-1,12,10,-1,-1,-1,5
+FRSGU,,0,0,0,0,0,0,0,0
+FRST,Primis Financial Corp.,12,8,0,0,0,-1,-1,10
+FRSX,Foresight Autonomous Holdings Ltd.,6,-1,12,10,-1,-1,-1,5
+FRTA,,0,0,0,0,0,0,0,0
+FRWAU,,0,0,0,0,0,0,0,0
+FSBW,"FS Bancorp, Inc.",10,8,0,0,0,-1,-1,5
+FSEA,"First Seacoast Bancorp, Inc.",12,10,0,0,0,-1,-1,0
+FSFG,"First Savings Financial Group, Inc.",12,8,0,0,0,-1,-1,5
+FSII,,0,0,0,0,0,0,0,0
+FSLR,"First Solar, Inc.",12,-1,12,10,-1,-1,-1,5
+FSRV,,0,0,0,0,0,0,0,0
+FSRVU,,0,0,0,0,0,0,0,0
+FSRVW,,0,0,0,0,0,0,0,0
+FSRXU,FinServ Acquisition Corp. II,12,0,-1,-1,0,-1,0,0
+FSSI,,0,0,0,0,0,0,0,0
+FSSIU,,0,0,0,0,0,0,0,0
+FSSIW,,0,0,0,0,0,0,0,0
+FSTR,L.B. Foster Company,12,-1,10,10,-1,-1,-1,5
+FSTX,,0,0,0,0,0,0,0,0
+FSV,FirstService Corporation,10,-1,12,7,-1,-1,-1,5
+FTAAU,FTAC Athena Acquisition Corp.,0,0,0,0,0,0,0,0
+FTCV,,0,0,0,0,0,0,0,0
+FTCVU,,0,0,0,0,0,0,0,0
+FTCVW,,0,0,0,0,0,0,0,0
+FTDR,"Frontdoor, Inc.",10,-1,10,4,-1,-1,2,2
+FTEK,"Fuel Tech, Inc.",8,8,12,10,19,-1,-1,5
+FTFT,Future FinTech Group Inc.,8,10,12,10,-1,-1,-1,0
+FTHM,Fathom Holdings Inc.,6,-1,6,4,-1,-1,-1,5
+FTIV,,0,0,0,0,0,0,0,0
+FTIVU,,0,0,0,0,0,0,0,0
+FTIVW,,0,0,0,0,0,0,0,0
+FTNT,"Fortinet, Inc.",12,-1,12,4,-1,-1,0,5
+FTOC,,0,0,0,0,0,0,0,0
+FTOCU,,0,0,0,0,0,0,0,0
+FTOCW,,0,0,0,0,0,0,0,0
+FULC,"Fulcrum Therapeutics, Inc.",12,8,12,10,-1,-1,-1,5
+FULT,Fulton Financial Corporation,10,8,0,0,0,-1,-1,2
+FULTP,Fulton Financial Corporation,12,-1,0,0,0,-1,-1,0
+FUNC,First United Corporation,12,8,0,0,0,-1,-1,2
+FUND,"Sprott Focus Trust, Inc.",12,8,6,10,0,-1,-1,0
+FUSB,"First US Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+FUSN,Fusion Pharmaceuticals Inc.,12,8,12,10,-1,-1,-1,5
+FUTU,Futu Holdings Limited,12,10,10,4,-1,-1,-1,5
+FUV,"Arcimoto, Inc.",12,10,-1,-1,-1,-1,-1,5
+FVAM,5:01 Acquisition Corp.,0,0,12,10,0,0,0,0
+FVCB,"FVCBankcorp, Inc.",10,-1,0,0,0,-1,-1,5
+FVE,,0,0,0,0,0,0,0,0
+FWAA,,0,0,0,0,0,0,0,0
+FWONA,Formula One Group,12,-1,12,7,-1,-1,-1,5
+FWONK,Formula One Group,12,-1,12,7,-1,-1,-1,5
+FWP,,0,0,0,0,0,0,0,0
+FWRD,Forward Air Corporation,12,-1,10,4,-1,-1,-1,5
+FXNC,First National Corporation,12,8,0,0,0,-1,-1,2
+GABC,"German American Bancorp, Inc.",-1,-1,0,0,0,-1,-1,2
+GAIA,"Gaia, Inc.",12,8,-1,-1,-1,-1,-1,5
+GAIN,Gladstone Investment Corporation,-1,8,12,4,-1,-1,-1,2
+GAINL,Gladstone Investment Corporation 8.00% Notes due 2028,0,0,0,0,0,0,0,0
+GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,0,0,0,0,0,0,0,0
+GALT,Galectin Therapeutics Inc.,-1,0,12,7,0,-1,0,5
+GAMCU,Golden Arrow Merger Corp.,12,0,-1,-1,0,0,0,0
+GAN,GAN Limited,12,-1,12,7,-1,-1,-1,5
+GANX,"Gain Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+GASS,StealthGas Inc.,12,10,10,10,-1,-1,-1,5
+GBCI,"Glacier Bancorp, Inc.",4,-1,0,0,0,-1,-1,2
+GBDC,"Golub Capital BDC, Inc.",10,8,12,10,-1,-1,-1,5
+GBIO,Generation Bio Co.,-1,8,12,10,-1,-1,-1,5
+GBLI,"Global Indemnity Group, LLC",10,8,6,4,4,-1,-1,0
+GBLIL,,0,0,0,0,0,0,0,0
+GBNH,Greenbrook TMS Inc.,12,0,-1,-1,0,-1,0,5
+GBNY,"Generations Bancorp NY, Inc.",12,8,0,0,0,-1,-1,0
+GBOX,,0,0,0,0,0,0,0,0
+GBRGU,,0,0,0,0,0,0,0,0
+GBS,,0,0,0,0,0,0,0,0
+GBT,,0,0,0,0,0,0,0,0
+GCAC,,0,0,0,0,0,0,0,0
+GCACU,,0,0,0,0,0,0,0,0
+GCACW,,0,0,0,0,0,0,0,0
+GCBC,"Greene County Bancorp, Inc.",12,-1,0,0,0,-1,-1,0
+GCMG,"Grosvenor Capital Management, L.P.",6,0,6,2,0,-1,0,5
+GCMGW,GCM Grosvenor Inc.,0,0,0,0,0,0,0,0
+GDEN,"Golden Entertainment, Inc.",12,-1,6,10,-1,-1,-1,5
+GDRX,"GoodRx Holdings, Inc.",10,-1,12,10,-1,-1,-1,5
+GDS,GDS Holdings Limited,8,12,10,4,-1,-1,-1,5
+GDYN,"Grid Dynamics Holdings, Inc.",8,-1,12,10,-1,-1,-1,5
+GDYNW,,0,0,0,0,0,0,0,0
+GECC,Great Elm Capital Corp.,12,8,-1,-1,-1,-1,-1,2
+GECCM,,0,0,0,0,0,0,0,0
+GECCN,,0,0,0,0,0,0,0,0
+GEG,"Great Elm Group, Inc.",12,8,12,10,-1,-1,-1,2
+GENC,"Gencor Industries, Inc.",10,-1,12,10,12,-1,-1,10
+GENE,Genetic Technologies Limited,12,-1,12,10,-1,-1,-1,0
+GEOS,Geospace Technologies Corporation,12,-1,12,10,12,-1,-1,0
+GERN,Geron Corporation,10,-1,12,10,-1,-1,-1,10
+GEVO,"Gevo, Inc.",6,10,12,10,-1,-1,-1,5
+GFED,,0,0,0,0,0,0,0,0
+GFN,,0,0,0,0,0,0,0,0
+GFNCP,,0,0,0,0,0,0,0,0
+GGAL,Grupo Financiero Galicia S.A.,12,12,0,0,0,-1,-1,2
+GGMCU,,0,0,0,0,0,0,0,0
+GGPIU,,0,0,0,0,0,0,0,0
+GH,"Guardant Health, Inc.",12,-1,12,10,-1,-1,-1,5
+GHAC,,0,0,0,0,0,0,0,0
+GHACU,Gaming & Hospitality Acquisition Corp.,0,0,0,0,0,0,0,0
+GHACW,,0,0,0,0,0,0,0,0
+GHSI,"Guardion Health Sciences, Inc.",-1,-1,12,10,0,-1,-1,5
+GHVI,,0,0,0,0,0,0,0,0
+GHVIU,,0,0,0,0,0,0,0,0
+GHVIW,,0,0,0,0,0,0,0,0
+GIFI,"Gulf Island Fabrication, Inc.",12,8,12,10,19,-1,-1,0
+GIG,,0,0,0,0,0,0,0,0
+GIGGU,,0,0,0,0,0,0,0,0
+GIGGW,,0,0,0,0,0,0,0,0
+GIGM,GigaMedia Limited,12,10,12,10,19,-1,-1,0
+GIII,"G-III Apparel Group, Ltd.",10,8,10,10,-1,-1,-1,2
+GIIXU,,0,0,0,0,0,0,0,0
+GILD,"Gilead Sciences, Inc.",12,-1,6,4,-1,-1,-1,5
+GILT,Gilat Satellite Networks Ltd.,12,-1,12,7,19,-1,-1,5
+GLAD,Gladstone Capital Corporation,12,-1,10,4,-1,-1,-1,2
+GLAQ,,0,0,0,0,0,0,0,0
+GLAQU,,0,0,0,0,0,0,0,0
+GLAQW,,0,0,0,0,0,0,0,0
+GLBLU,,0,0,0,0,0,0,0,0
+GLBS,Globus Maritime Limited,4,12,12,10,-1,-1,-1,5
+GLBZ,Glen Burnie Bancorp,12,-1,0,0,0,-1,-1,0
+GLDD,Great Lakes Dredge & Dock Corporation,12,-1,6,4,-1,-1,-1,5
+GLG,"TD Holdings, Inc.",12,12,-1,10,7,-1,-1,0
+GLHAU,,0,0,0,0,0,0,0,0
+GLMD,Galmed Pharmaceuticals Ltd.,12,12,12,10,0,-1,-1,5
+GLNG,Golar LNG Limited,12,-1,12,10,-1,-1,-1,5
+GLPG,Galapagos NV,6,-1,12,10,12,-1,-1,2
+GLPI,"Gaming and Leisure Properties, Inc.",12,-1,12,10,-1,-1,-1,5
+GLRE,"Greenlight Capital Re, Ltd.",10,8,-1,7,-1,-1,-1,2
+GLSI,"Greenwich LifeSciences, Inc.",2,-1,12,10,0,-1,-1,5
+GLTO,"Galecto, Inc.",12,10,12,10,19,-1,-1,5
+GLUU,,0,0,0,0,0,0,0,0
+GLYC,"GlycoMimetics, Inc.",8,-1,12,10,4,-1,-1,5
+GMAB,Genmab A/S,10,8,12,10,-1,-1,-1,5
+GMBL,"Esports Entertainment Group, Inc.",12,0,-1,-1,0,-1,0,2
+GMBLW,"Esports Entertainment Group, Inc.",0,0,0,0,0,0,0,0
+GMBT,,0,0,0,0,0,0,0,0
+GMBTU,,0,0,0,0,0,0,0,0
+GMBTW,,0,0,0,0,0,0,0,0
+GMDA,Gamida Cell Ltd.,12,0,12,10,0,-1,0,5
+GMII,,0,0,0,0,0,0,0,0
+GMIIU,,0,0,0,0,0,0,0,0
+GMIIW,,0,0,0,0,0,0,0,0
+GMLP,,0,0,0,0,0,0,0,0
+GMLPP,,0,0,0,0,0,0,0,0
+GMTX,,0,0,0,0,0,0,0,0
+GNAC,,0,0,0,0,0,0,0,0
+GNACU,,0,0,0,0,0,0,0,0
+GNACW,,0,0,0,0,0,0,0,0
+GNCA,,0,0,0,0,0,0,0,0
+GNFT,Genfit S.A.,12,-1,12,10,-1,-1,-1,0
+GNLN,"Greenlane Holdings, Inc.",12,12,-1,4,-1,-1,-1,2
+GNMK,,0,0,0,0,0,0,0,0
+GNOG,,0,0,0,0,0,0,0,0
+GNPX,"Genprex, Inc.",10,-1,12,10,0,-1,-1,2
+GNRS,The Greenrose Holding Company Inc.,12,12,-1,-1,-1,-1,6,0
+GNRSU,The Greenrose Holding Company Inc.,12,12,-1,-1,-1,-1,6,0
+GNRSW,The Greenrose Holding Company Inc.,0,0,0,0,0,0,0,0
+GNSS,Genasys Inc.,12,-1,12,10,-1,-1,-1,10
+GNTX,Gentex Corporation,12,-1,12,10,12,-1,-1,5
+GNTY,"Guaranty Bancshares, Inc.",10,-1,0,0,0,-1,-1,5
+GNUS,,0,0,0,0,0,0,0,0
+GO,Grocery Outlet Holding Corp.,10,-1,-1,4,-1,-1,-1,2
+GOCO,"GoHealth, Inc.",-1,8,12,7,-1,-1,-1,5
+GOEV,Canoo Inc.,12,-1,-1,-1,-1,-1,-1,5
+GOEVW,Canoo Inc.,0,12,-1,-1,-1,-1,-1,0
+GOGL,Golden Ocean Group Limited,10,8,6,4,-1,-1,-1,5
+GOGO,Gogo Inc.,10,-1,12,10,-1,-1,0,5
+GOOD,Gladstone Commercial Corporation,10,-1,12,10,-1,-1,-1,5
+GOODM,,0,0,0,0,0,0,0,0
+GOODN,Gladstone Commercial Corporation,12,-1,12,10,-1,-1,-1,0
+GOOG,Alphabet Inc.,12,-1,12,10,-1,-1,-1,5
+GOOGL,Alphabet Inc.,12,-1,12,10,-1,-1,-1,5
+GOSS,"Gossamer Bio, Inc.",8,0,12,10,0,-1,0,5
+GOVX,"GeoVax Labs, Inc.",12,8,12,10,0,-1,-1,5
+GOVXW,"GeoVax Labs, Inc.",0,0,0,0,0,0,0,0
+GP,GreenPower Motor Company Inc.,10,-1,-1,10,-1,-1,-1,5
+GPAC,Global Partner Acquisition Corp II,12,0,-1,-1,0,-1,0,0
+GPACU,Global Partner Acquisition Corp II,-1,0,-1,-1,0,-1,0,0
+GPACW,Global Partner Acquisition Corp II,0,0,0,0,0,0,0,0
+GPP,Green Plains Partners LP,12,0,10,4,0,-1,12,2
+GPRE,Green Plains Inc.,8,-1,6,7,-1,-1,-1,5
+GPRO,"GoPro, Inc.",12,8,12,10,-1,-1,-1,5
+GRAY,,0,0,0,0,0,0,0,0
+GRBK,"Green Brick Partners, Inc.",12,-1,6,10,-1,-1,-1,2
+GRCL,Gracell Biotechnologies Inc.,12,12,12,10,-1,-1,-1,5
+GRCY,,0,0,0,0,0,0,0,0
+GRCYU,,0,0,0,0,0,0,0,0
+GRCYW,,0,0,0,0,0,0,0,0
+GRFS,"Grifols, S.A.",6,-1,6,10,-1,-1,-1,5
+GRIN,Grindrod Shipping Holdings Ltd.,12,8,12,7,-1,-1,-1,5
+GRMN,Garmin Ltd.,12,-1,12,10,4,-1,-1,0
+GRNQ,Greenpro Capital Corp.,12,8,12,7,19,-1,-1,2
+GRNV,,0,0,0,0,0,0,0,0
+GRNVR,,0,0,0,0,0,0,0,0
+GRNVU,,0,0,0,0,0,0,0,0
+GRNVW,,0,0,0,0,0,0,0,0
+GROW,"U.S. Global Investors, Inc.",12,8,12,10,12,-1,-1,0
+GRPN,"Groupon, Inc.",12,0,-1,-1,0,-1,-1,2
+GRSV,,0,0,0,0,0,0,0,0
+GRSVU,,0,0,0,0,0,0,0,0
+GRSVW,,0,0,0,0,0,0,0,0
+GRTS,"Gritstone bio, Inc.",2,-1,12,10,-1,-1,-1,5
+GRTX,"Galera Therapeutics, Inc.",12,0,12,10,0,-1,0,2
+GRVY,"Gravity Co., Ltd.",12,12,12,10,12,-1,-1,0
+GRWG,GrowGeneration Corp.,12,8,12,10,-1,-1,-1,5
+GSAQ,,0,0,0,0,0,0,0,0
+GSAQU,,0,0,0,0,0,0,0,0
+GSAQW,,0,0,0,0,0,0,0,0
+GSBC,"Great Southern Bancorp, Inc.",10,-1,0,0,0,-1,-1,2
+GSEVU,,0,0,0,0,0,0,0,0
+GSHD,"Goosehead Insurance, Inc",12,-1,10,4,0,-1,0,2
+GSIT,"GSI Technology, Inc.",12,-1,12,10,4,-1,-1,0
+GSKY,"GreenSky, Inc.",0,0,0,0,0,0,0,2
+GSM,Ferroglobe PLC,12,-1,12,10,-1,-1,-1,5
+GSMG,Glory Star New Media Group Holdings Limited,12,12,12,10,7,-1,-1,5
+GSMGW,Glory Star New Media Group Holdings Limited,0,12,12,10,7,-1,-1,0
+GT,The Goodyear Tire & Rubber Company,12,8,-1,4,-1,-1,-1,5
+GTBP,"GT Biopharma, Inc.",12,8,12,10,19,-1,-1,5
+GTEC,Greenland Technologies Holding Corporation,12,8,12,10,-1,-1,-1,5
+GTH,Genetron Holdings Limited,12,12,12,7,-1,-1,-1,5
+GTHX,"G1 Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+GTIM,Good Times Restaurants Inc.,12,-1,-1,-1,-1,-1,-1,5
+GTPAU,,0,0,0,0,0,0,0,0
+GTPBU,,0,0,0,0,0,0,0,0
+GTYH,,0,0,0,0,0,0,0,0
+GURE,"Gulf Resources, Inc.",12,12,12,10,-1,-1,-1,0
+GVP,"GSE Systems, Inc.",12,8,6,2,-1,-1,-1,5
+GWAC,,0,0,0,0,0,0,0,0
+GWACW,,0,0,0,0,0,0,0,0
+GWGH,,0,0,0,0,0,0,0,0
+GWPH,,0,0,0,0,0,0,0,0
+GWRS,"Global Water Resources, Inc.",12,-1,-1,-1,-1,-1,-1,10
+GXGX,,0,0,0,0,0,0,0,0
+GXGXU,,0,0,0,0,0,0,0,0
+GXGXW,,0,0,0,0,0,0,0,0
+GXIIU,,0,0,0,0,0,0,0,0
+GYRO,"Gyrodyne, LLC",12,10,0,0,-1,0,0,0
+HA,"Hawaiian Holdings, Inc.",12,-1,10,4,-1,-1,-1,2
+HAAC,,0,0,0,0,0,0,0,0
+HAACU,Health Assurance Acquisition Corp.,0,0,0,0,0,0,0,0
+HAACW,,0,0,0,0,0,0,0,0
+HAFC,Hanmi Financial Corporation,12,8,0,0,0,-1,-1,2
+HAIN,"The Hain Celestial Group, Inc.",12,8,6,10,-1,-1,-1,5
+HALL,"Hallmark Financial Services, Inc.",12,10,-1,-1,-1,-1,-1,2
+HALO,"Halozyme Therapeutics, Inc.",10,-1,12,10,-1,-1,2,5
+HAPP,,0,0,0,0,0,0,0,0
+HARP,"Harpoon Therapeutics, Inc.",12,-1,12,7,-1,-1,-1,5
+HAS,"Hasbro, Inc.",12,-1,-1,4,-1,-1,-1,5
+HAYN,"Haynes International, Inc.",12,-1,12,10,-1,-1,-1,5
+HBAN,Huntington Bancshares Incorporated,12,8,0,0,0,-1,-1,2
+HBANN,,0,0,0,0,0,0,0,0
+HBANO,,0,0,0,0,0,0,0,0
+HBANP,Huntington Bancshares Incorporated,12,-1,0,0,0,-1,-1,0
+HBCP,"Home Bancorp, Inc.",10,8,0,0,0,-1,-1,5
+HBIO,"Harvard Bioscience, Inc.",10,-1,6,10,-1,-1,-1,5
+HBMD,,0,0,0,0,0,0,0,0
+HBNC,"Horizon Bancorp, Inc.",10,8,0,0,0,-1,-1,5
+HBP,,0,0,0,0,0,0,0,0
+HBT,"HBT Financial, Inc.",12,-1,0,0,0,-1,-1,2
+HCAP,,0,0,0,0,0,0,0,0
+HCAQ,,0,0,0,0,0,0,0,0
+HCAR,,0,0,0,0,0,0,0,0
+HCARU,Healthcare Services Acquisition Corporation,0,0,0,0,0,0,0,0
+HCARW,,0,0,0,0,0,0,0,0
+HCAT,"Health Catalyst, Inc.",12,-1,12,10,-1,-1,-1,5
+HCCC,,0,0,0,0,0,0,0,0
+HCCCU,,0,0,0,0,0,0,0,0
+HCCCW,,0,0,0,0,0,0,0,0
+HCCI,"Heritage-Crystal Clean, Inc",12,-1,12,7,-1,-1,-1,5
+HCDI,"Harbor Custom Development, Inc.",12,10,-1,-1,-1,-1,-1,5
+HCIC,,0,0,0,0,0,0,0,0
+HCICU,,0,0,0,0,0,0,0,0
+HCICW,,0,0,0,0,0,0,0,0
+HCII,,0,0,0,0,0,0,0,0
+HCIIU,,0,0,0,0,0,0,0,0
+HCIIW,,0,0,0,0,0,0,0,0
+HCKT,"The Hackett Group, Inc.",12,-1,12,7,-1,-1,-1,5
+HCM,HUTCHMED (China) Limited,8,-1,12,10,-1,-1,-1,5
+HCSG,"Healthcare Services Group, Inc.",12,-1,12,10,-1,-1,-1,2
+HDSN,"Hudson Technologies, Inc.",12,-1,10,10,-1,-1,-1,5
+HEAR,Turtle Beach Corporation,10,-1,-1,10,-1,-1,-1,5
+HEC,,0,0,0,0,0,0,0,0
+HECCU,,0,0,0,0,0,0,0,0
+HECCW,,0,0,0,0,0,0,0,0
+HEES,"H&E Equipment Services, Inc.",12,-1,10,7,-1,-1,-1,5
+HELE,Helen of Troy Limited,-1,-1,6,7,-1,-1,-1,5
+HEPA,"Hepion Pharmaceuticals, Inc.",4,8,12,10,0,-1,-1,5
+HERAU,,0,0,0,0,0,0,0,0
+HFBL,"Home Federal Bancorp, Inc. of Louisiana",12,8,0,0,0,-1,-1,0
+HFFG,HF Foods Group Inc.,10,8,-1,4,-1,-1,-1,0
+HFWA,Heritage Financial Corporation,12,8,0,0,0,-1,-1,2
+HGBL,Heritage Global Inc.,12,-1,10,7,-1,-1,-1,5
+HGEN,"Humanigen, Inc.",12,0,-1,-1,0,-1,0,2
+HGSH,,0,0,0,0,0,0,0,0
+HHR,,0,0,0,0,0,0,0,0
+HIBB,"Hibbett, Inc.",12,-1,-1,4,-1,-1,-1,5
+HIFS,Hingham Institution for Savings,2,8,0,0,0,-1,-1,0
+HIHO,Highway Holdings Limited,12,8,12,10,-1,-1,-1,0
+HIIIU,,0,0,0,0,0,0,0,0
+HIMX,"Himax Technologies, Inc.",8,8,-1,7,-1,-1,-1,5
+HJLI,,0,0,0,0,0,0,0,0
+HLAH,,0,0,0,0,0,0,0,0
+HLAHU,,0,0,0,0,0,0,0,0
+HLAHW,,0,0,0,0,0,0,0,0
+HLG,,0,0,0,0,0,0,0,0
+HLIO,"Helios Technologies, Inc.",12,-1,12,10,-1,-1,-1,10
+HLIT,Harmonic Inc.,12,-1,-1,4,-1,-1,-1,5
+HLNE,Hamilton Lane Incorporated,10,-1,12,10,-1,-1,-1,2
+HLXA,,0,0,0,0,0,0,0,0
+HMCO,,0,0,0,0,0,0,0,0
+HMCOU,,0,0,0,0,0,0,0,0
+HMCOW,,0,0,0,0,0,0,0,0
+HMHC,,0,0,0,0,0,0,0,0
+HMNF,"HMN Financial, Inc.",12,8,0,0,0,-1,-1,0
+HMPT,Home Point Capital Inc.,0,0,0,0,0,0,0,2
+HMST,"HomeStreet, Inc.",12,10,0,0,0,-1,-1,2
+HMTV,,0,0,0,0,0,0,0,0
+HNNA,"Hennessy Advisors, Inc.",10,8,12,10,-1,-1,-1,5
+HNRG,Hallador Energy Company,10,-1,-1,-1,-1,-1,-1,2
+HOFT,Hooker Furnishings Corporation,10,8,12,10,-1,-1,-1,10
+HOFV,Hall of Fame Resort & Entertainment Company,-1,12,-1,-1,-1,-1,-1,10
+HOFVW,"Hall of Fame Village, LLC",0,0,0,0,0,0,0,0
+HOL,,0,0,0,0,0,0,0,0
+HOLI,Hollysys Automation Technologies Ltd.,12,-1,12,10,-1,-1,-1,5
+HOLUU,,0,0,0,0,0,0,0,0
+HOLUW,,0,0,0,0,0,0,0,0
+HOLX,"Hologic, Inc.",12,-1,12,10,-1,-1,-1,5
+HOMB,"Home Bancshares, Inc. (Conway, AR)",10,-1,0,0,0,-1,-1,5
+HONE,"HarborOne Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+HOOK,HOOKIPA Pharma Inc.,12,10,12,10,-1,-1,-1,5
+HOPE,"Hope Bancorp, Inc.",12,8,0,0,0,-1,-1,2
+HOTH,"Hoth Therapeutics, Inc.",12,8,12,10,0,-1,-1,5
+HOVNP,"Hovnanian Enterprises, Inc. PFD DEP1/1000A",0,0,0,0,0,0,0,0
+HPK,"HighPeak Energy, Inc.",8,-1,-1,-1,-1,-1,-1,2
+HPKEW,"HighPeak Energy, Inc.",0,0,0,0,0,0,0,0
+HQI,"HireQuest, Inc.",10,-1,12,4,-1,-1,-1,10
+HQY,"HealthEquity, Inc.",10,-1,12,10,-1,-1,-1,10
+HRMY,"Harmony Biosciences Holdings, Inc.",6,-1,12,10,-1,-1,-1,5
+HROW,"Harrow Health, Inc.",8,-1,12,10,-1,-1,-1,5
+HRTX,"Heron Therapeutics, Inc.",2,0,12,7,0,-1,0,5
+HRZN,Horizon Technology Finance Corporation,12,-1,-1,-1,-1,-1,-1,2
+HSAQ,,0,0,0,0,0,0,0,0
+HSDT,"Helius Medical Technologies, Inc.",12,-1,12,10,7,-1,-1,5
+HSIC,"Henry Schein, Inc.",12,-1,-1,7,-1,-1,-1,2
+HSII,"Heidrick & Struggles International, Inc.",12,-1,12,7,-1,-1,-1,5
+HSKA,,0,0,0,0,0,0,0,0
+HSON,"Hudson Global, Inc.",10,-1,12,10,-1,-1,-1,5
+HST,"Host Hotels & Resorts, Inc.",12,-1,12,10,-1,-1,-1,5
+HSTM,"HealthStream, Inc.",12,-1,6,4,-1,-1,-1,5
+HSTO,Histogen Inc.,12,12,12,10,-1,-1,-1,10
+HTBI,"HomeTrust Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+HTBK,Heritage Commerce Corp,12,8,0,0,0,-1,-1,5
+HTBX,,0,0,0,0,0,0,0,0
+HTGM,,0,0,0,0,0,0,0,0
+HTHT,H World Group Limited,10,8,-1,-1,-1,-1,-1,5
+HTIA,"Healthcare Trust, Inc.",12,-1,12,10,-1,-1,-1,0
+HTLD,"Heartland Express, Inc.",12,-1,10,4,-1,-1,-1,2
+HTLF,"Heartland Financial USA, Inc.",12,8,0,0,0,-1,-1,5
+HTLFP,"Heartland Financial USA, Inc.",12,8,0,0,0,-1,-1,0
+HTOO,Fusion Fuel Green PLC,12,10,-1,7,-1,-1,-1,2
+HTOOW,Fusion Fuel Green PLC,0,12,-1,7,-1,-1,-1,0
+HUBG,"Hub Group, Inc.",12,-1,12,7,-1,-1,-1,5
+HUDI,"Huadi International Group Co., Ltd.",12,8,12,10,-1,-1,-1,0
+HUGE,FSD Pharma Inc.,12,-1,12,7,-1,-1,-1,5
+HUIZ,Huize Holding Limited,6,12,10,4,-1,-1,-1,5
+HURC,"Hurco Companies, Inc.",12,8,10,10,-1,-1,-1,0
+HURN,Huron Consulting Group Inc.,12,-1,12,7,-1,-1,-1,10
+HUSN,,0,0,0,0,0,0,0,0
+HVBC,,0,0,0,0,0,0,0,0
+HWBK,"Hawthorn Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+HWC,Hancock Whitney Corporation,12,8,0,0,0,-1,-1,5
+HWCC,,0,0,0,0,0,0,0,0
+HWCPZ,,0,0,0,0,0,0,0,0
+HWKN,"Hawkins, Inc.",12,-1,12,10,-1,-1,-1,5
+HX,,0,0,0,0,0,0,0,0
+HYACU,,0,0,0,0,0,0,0,0
+HYFM,"Hydrofarm Holdings Group, Inc.",12,12,12,10,-1,-1,-1,2
+HYMC,Hycroft Mining Holding Corporation,10,-1,12,10,-1,-1,-1,2
+HYMCL,Hycroft Mining Holding Corporation,0,12,12,10,-1,-1,-1,0
+HYMCW,Hycroft Mining Holding Corporation,0,12,12,10,-1,-1,-1,0
+HYMCZ,,0,0,0,0,0,0,0,0
+HYRE,,0,0,0,0,0,0,0,0
+HYW,Hywin Holdings Ltd.,12,12,12,4,-1,-1,-1,5
+HZNP,Horizon Therapeutics Public Limited Company,12,-1,12,10,-1,-1,-1,2
+IAC,IAC Inc.,12,8,12,10,-1,-1,-1,5
+IART,Integra LifeSciences Holdings Corporation,12,-1,12,10,-1,-1,-1,2
+IBCP,Independent Bank Corporation,12,-1,0,0,0,-1,-1,2
+IBEX,IBEX Limited,12,-1,12,10,-1,-1,-1,5
+IBKR,"Interactive Brokers Group, Inc.",12,-1,10,4,-1,-1,-1,5
+IBOC,International Bancshares Corporation,12,-1,0,0,0,-1,-1,0
+IBRX,"ImmunityBio, Inc.",6,0,-1,-1,0,-1,0,5
+IBTX,"Independent Bank Group, Inc.",10,8,0,0,0,-1,-1,5
+ICAD,"iCAD, Inc.",12,-1,12,10,-1,-1,-1,5
+ICBK,,0,0,0,0,0,0,0,0
+ICCC,ImmuCell Corporation,12,-1,-1,10,-1,-1,-1,5
+ICCH,"ICC Holdings, Inc.",4,8,-1,-1,-1,-1,-1,0
+ICFI,"ICF International, Inc.",12,-1,10,4,-1,-1,-1,5
+ICHR,"Ichor Holdings, Ltd.",8,-1,12,10,-1,-1,-1,5
+ICLK,iClick Interactive Asia Group Limited,12,10,10,4,-1,-1,-1,10
+ICLR,ICON Public Limited Company,12,-1,10,4,-1,-1,-1,5
+ICMB,"Investcorp Credit Management BDC, Inc.",12,8,-1,4,-1,-1,-1,2
+ICON,,0,0,0,0,0,0,0,0
+ICPT,"Intercept Pharmaceuticals, Inc.",4,-1,12,10,-1,-1,0,2
+ICUI,"ICU Medical, Inc.",10,-1,6,10,-1,-1,-1,5
+IDBA,IDEX Biometrics ASA,0,0,0,0,0,0,0,5
+IDCC,"InterDigital, Inc.",6,-1,12,10,-1,-1,-1,10
+IDEX,"Ideanomics, Inc.",12,10,-1,-1,-1,-1,-1,2
+IDN,"Intellicheck, Inc.",12,-1,12,10,0,-1,-1,5
+IDRA,,0,0,0,0,0,0,0,0
+IDXX,"IDEXX Laboratories, Inc.",10,-1,6,4,-1,-1,2,5
+IDYA,"IDEAYA Biosciences, Inc.",6,-1,12,10,12,-1,-1,10
+IEA,,0,0,0,0,0,0,0,0
+IEC,,0,0,0,0,0,0,0,0
+IEP,Icahn Enterprises L.P.,10,-1,10,7,-1,-1,-1,10
+IESC,"IES Holdings, Inc.",12,-1,12,7,-1,-1,-1,0
+IFMK,iFresh Inc.,12,12,-1,-1,-1,-1,-1,0
+IFRX,InflaRx N.V.,12,-1,12,10,12,-1,-1,10
+IGAC,,0,0,0,0,0,0,0,0
+IGACU,,0,0,0,0,0,0,0,0
+IGACW,,0,0,0,0,0,0,0,0
+IGIC,International General Insurance Holdings Ltd.,12,-1,-1,2,0,-1,-1,10
+IGICW,International General Insurance Holdings Ltd.,0,0,0,0,0,0,0,0
+IGMS,"IGM Biosciences, Inc.",-1,-1,12,10,-1,-1,-1,5
+IGNY,,0,0,0,0,0,0,0,0
+IGNYU,,0,0,0,0,0,0,0,0
+IHRT,"iHeartMedia, Inc.",10,0,12,7,0,-1,-1,2
+III,"Information Services Group, Inc.",12,-1,12,10,-1,-1,-1,10
+IIII,,0,0,0,0,0,0,0,0
+IIIIU,,0,0,0,0,0,0,0,0
+IIIIW,,0,0,0,0,0,0,0,0
+IIIV,"i3 Verticals, Inc.",10,-1,-1,2,-1,-1,-1,5
+IIN,,0,0,0,0,0,0,0,0
+IIVIP,,0,0,0,0,0,0,0,0
+IKNA,"Ikena Oncology, Inc.",6,-1,12,10,-1,-1,-1,10
+IKNX,,0,0,0,0,0,0,0,0
+IKT,"Inhibikase Therapeutics, Inc.",12,10,12,10,7,-1,-1,5
+ILMN,"Illumina, Inc.",12,-1,10,4,-1,-1,-1,2
+ILPT,Industrial Logistics Properties Trust,12,10,12,10,-1,-1,-1,2
+IMAB,I-Mab,12,12,12,10,-1,-1,-1,5
+IMAC,,0,0,0,0,0,0,0,0
+IMACW,"IMAC Holdings, Inc.",0,0,0,0,0,0,0,0
+IMCC,IM Cannabis Corp.,12,10,-1,4,-1,-1,-1,5
+IMCR,Immunocore Holdings plc,2,-1,12,10,-1,-1,-1,5
+IMGN,"ImmunoGen, Inc.",10,-1,12,10,-1,-1,-1,5
+IMKTA,"Ingles Markets, Incorporated",12,-1,10,10,-1,-1,-1,0
+IMMP,Immutep Limited,12,-1,12,10,12,-1,-1,10
+IMMR,Immersion Corporation,12,-1,12,10,12,-1,-1,5
+IMNM,"Immunome, Inc.",10,-1,12,4,7,-1,-1,5
+IMOS,ChipMOS TECHNOLOGIES INC.,12,12,12,10,-1,-1,-1,0
+IMRA,,0,0,0,0,0,0,0,0
+IMRN,Immuron Limited,10,8,12,10,12,-1,-1,5
+IMTE,Integrated Media Technology Limited,12,12,10,10,-1,-1,-1,0
+IMTX,Immatics N.V.,-1,-1,12,10,-1,-1,-1,10
+IMTXW,immatics biotechnologies GmbH,0,0,0,0,0,0,0,0
+IMUX,"Immunic, Inc.",8,8,12,10,-1,-1,-1,5
+IMV,,0,0,0,0,0,0,0,0
+IMVT,"Immunovant, Inc.",12,-1,12,10,12,-1,-1,5
+IMXI,"International Money Express, Inc.",12,-1,12,10,-1,-1,-1,5
+INBK,First Internet Bancorp,12,10,0,0,0,-1,-1,2
+INBKZ,,0,0,0,0,0,0,0,0
+INBX,"Inhibrx, Inc.",8,0,12,10,0,-1,0,5
+INCY,Incyte Corporation,12,-1,12,10,12,-1,-1,5
+INDB,Independent Bank Corp.,12,8,0,0,0,-1,-1,2
+INFI,"Infinity Pharmaceuticals, Inc.",12,0,12,7,0,-1,0,2
+INFN,Infinera Corporation,-1,-1,6,7,-1,-1,-1,5
+INGN,"Inogen, Inc.",12,10,12,10,-1,-1,-1,2
+INKA,,0,0,0,0,0,0,0,0
+INKAU,,0,0,0,0,0,0,0,0
+INKAW,,0,0,0,0,0,0,0,0
+INM,InMed Pharmaceuticals Inc.,12,12,12,10,-1,-1,-1,2
+INMB,"INmune Bio, Inc.",-1,-1,12,10,-1,-1,-1,10
+INMD,InMode Ltd.,10,-1,12,10,12,-1,-1,5
+INNV,InnovAge Holding Corp.,8,-1,12,4,-1,-1,-1,2
+INO,"Inovio Pharmaceuticals, Inc.",10,8,12,10,-1,-1,-1,2
+INOD,Innodata Inc.,12,-1,10,4,-1,-1,-1,0
+INOV,,0,0,0,0,0,0,0,0
+INPX,Inpixon,12,8,6,4,-1,-1,-1,0
+INSE,"Inspired Entertainment, Inc.",12,0,6,7,0,-1,0,5
+INSG,Inseego Corp.,6,0,6,4,0,-1,0,2
+INSM,Insmed Incorporated,8,0,12,10,0,-1,0,5
+INTC,Intel Corporation,12,-1,10,7,-1,-1,-1,2
+INTG,The InterGroup Corporation,12,0,12,10,0,-1,0,0
+INTU,Intuit Inc.,12,-1,10,4,-1,-1,-1,5
+INTZ,Intrusion Inc.,10,0,-1,-1,0,-1,0,5
+INVA,"Innoviva, Inc.",2,-1,12,10,-1,-1,-1,2
+INVE,"Identiv, Inc.",12,-1,12,10,-1,-1,-1,5
+INVO,"INVO Bioscience, Inc.",12,0,-1,-1,0,-1,-1,2
+INVZ,Innoviz Technologies Ltd.,12,-1,12,10,-1,-1,-1,5
+INVZW,Innoviz Technologies Ltd.,0,0,0,0,0,0,0,0
+INZY,"Inozyme Pharma, Inc.",12,-1,12,10,-1,-1,-1,5
+IONS,"Ionis Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,5
+IOSP,Innospec Inc.,12,-1,12,10,-1,-1,-1,5
+IOVA,"Iovance Biotherapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+IPA,ImmunoPrecise Antibodies Ltd.,12,8,12,10,-1,-1,-1,5
+IPAR,"Inter Parfums, Inc.",12,-1,12,10,-1,-1,-1,5
+IPDN,"Professional Diversity Network, Inc.",6,-1,-1,2,-1,-1,-1,0
+IPGP,IPG Photonics Corporation,12,-1,12,10,12,-1,-1,2
+IPHA,Innate Pharma S.A.,10,-1,12,10,-1,-1,-1,5
+IPHI,,0,0,0,0,0,0,0,0
+IPLDP,,0,0,0,0,0,0,0,0
+IPVIU,,0,0,0,0,0,0,0,0
+IPWR,Ideal Power Inc.,12,-1,12,10,7,-1,-1,5
+IQ,"iQIYI, Inc.",10,10,-1,-1,-1,-1,-1,5
+IRBT,iRobot Corporation,6,-1,-1,4,-1,-1,-1,2
+IRCP,,0,0,0,0,0,0,0,0
+IRDM,Iridium Communications Inc.,12,-1,12,10,-1,-1,-1,5
+IRIX,IRIDEX Corporation,12,-1,12,10,-1,-1,-1,5
+IRMD,IRadimed Corporation,12,-1,12,10,-1,-1,-1,5
+IROQ,"IF Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+IRTC,"iRhythm Technologies, Inc.",10,-1,12,10,-1,-1,-1,5
+IRWD,"Ironwood Pharmaceuticals, Inc.",10,0,6,4,0,-1,-1,5
+ISBC,,0,0,0,0,0,0,0,0
+ISEE,,0,0,0,0,0,0,0,0
+ISIG,"Lendway, Inc.",0,0,0,0,0,0,0,0
+ISLE,,0,0,0,0,0,0,0,0
+ISLEW,,0,0,0,0,0,0,0,0
+ISNS,,0,0,0,0,0,0,0,0
+ISRG,"Intuitive Surgical, Inc.",12,-1,12,10,0,-1,-1,5
+ISSC,"Innovative Solutions and Support, Inc.",12,-1,10,10,-1,-1,-1,10
+ISTR,Investar Holding Corporation,12,10,0,0,0,-1,-1,5
+ISUN,"iSun, Inc.",12,10,-1,2,-1,-1,-1,5
+ITAC,,0,0,0,0,0,0,0,0
+ITACU,,0,0,0,0,0,0,0,0
+ITACW,,0,0,0,0,0,0,0,0
+ITCI,"Intra-Cellular Therapies, Inc.",12,-1,12,10,-1,-1,-1,5
+ITHX,,0,0,0,0,0,0,0,0
+ITHXU,,0,0,0,0,0,0,0,0
+ITHXW,,0,0,0,0,0,0,0,0
+ITI,"Iteris, Inc.",12,-1,12,7,-1,-1,-1,5
+ITIC,Investors Title Company,12,-1,12,10,-1,-1,-1,0
+ITMR,,0,0,0,0,0,0,0,0
+ITOS,"iTeos Therapeutics, Inc.",12,8,12,10,12,-1,-1,5
+ITQ,,0,0,0,0,0,0,0,0
+ITQRU,,0,0,0,0,0,0,0,0
+ITRI,"Itron, Inc.",12,-1,6,7,-1,-1,-1,2
+ITRM,Iterum Therapeutics plc,12,-1,12,10,-1,-1,-1,2
+ITRN,Ituran Location and Control Ltd.,12,-1,6,7,-1,-1,-1,5
+IVA,Inventiva S.A.,12,-1,12,10,-1,-1,-1,0
+IVAC,"Intevac, Inc.",12,8,12,10,-1,-1,-1,5
+IZEA,"IZEA Worldwide, Inc.",12,10,12,10,12,-1,-1,10
+JACK,Jack in the Box Inc.,12,0,-1,-1,0,-1,0,2
+JAGX,"Jaguar Health, Inc.",12,8,-1,2,-1,-1,-1,10
+JAKK,"JAKKS Pacific, Inc.",12,-1,6,4,-1,-1,-1,10
+JAMF,Jamf Holding Corp.,8,-1,6,2,-1,-1,-1,5
+JAN,JanOne Inc.,12,12,-1,-1,0,-1,-1,0
+JAZZ,Jazz Pharmaceuticals plc,10,-1,12,10,-1,-1,-1,5
+JBHT,"J.B. Hunt Transport Services, Inc.",12,-1,6,4,-1,-1,-1,5
+JBLU,JetBlue Airways Corporation,12,10,-1,-1,-1,-1,-1,2
+JBSS,"John B. Sanfilippo & Son, Inc.",12,-1,6,10,-1,-1,-1,10
+JCIC,,0,0,0,0,0,0,0,0
+JCICU,,0,0,0,0,0,0,0,0
+JCICW,,0,0,0,0,0,0,0,0
+JCOM,,0,0,0,0,0,0,0,0
+JCS,,0,0,0,0,0,0,0,0
+JCTCF,Jewett-Cameron Trading Company Ltd.,12,8,6,10,-1,-1,-1,0
+JD,"JD.com, Inc.",12,12,6,4,-1,-1,-1,5
+JFIN,Jiayin Group Inc.,12,12,12,10,12,-1,2,5
+JFU,9F Inc.,12,12,12,10,12,-1,-1,2
+JG,Aurora Mobile Limited,12,12,-1,-1,-1,-1,-1,2
+JJSF,J&J Snack Foods Corp.,6,-1,12,10,-1,-1,-1,5
+JKHY,"Jack Henry & Associates, Inc.",12,-1,6,4,-1,-1,-1,5
+JMPNL,,0,0,0,0,0,0,0,0
+JNCE,,0,0,0,0,0,0,0,0
+JOAN,JOANN Inc.,6,0,-1,4,0,-1,0,2
+JOBS,,0,0,0,0,0,0,0,0
+JOFF,,0,0,0,0,0,0,0,0
+JOFFU,,0,0,0,0,0,0,0,0
+JOFFW,,0,0,0,0,0,0,0,0
+JOUT,Johnson Outdoors Inc.,8,-1,12,10,-1,-1,-1,10
+JRJC,,0,0,0,0,0,0,0,0
+JRSH,"Jerash Holdings (US), Inc.",12,8,12,10,-1,-1,-1,5
+JRVR,"James River Group Holdings, Ltd.",12,8,-1,10,-1,-1,-1,5
+JSM,Navient Corporation SR NT 6% 121543,0,0,0,0,0,0,0,0
+JUPW,"Jupiter Wellness, Inc.",12,-1,12,7,-1,-1,-1,0
+JUPWW,"Jupiter Wellness, Inc.",0,0,0,0,0,0,0,0
+JVA,"Coffee Holding Co., Inc.",12,12,-1,10,-1,-1,-1,0
+JWEL,Jowell Global Ltd.,12,10,-1,7,-1,-1,-1,0
+JYAC,,0,0,0,0,0,0,0,0
+JYNT,The Joint Corp.,10,-1,-1,2,-1,-1,-1,5
+KAIIU,,0,0,0,0,0,0,0,0
+KAIR,,0,0,0,0,0,0,0,0
+KAIRU,,0,0,0,0,0,0,0,0
+KAIRW,,0,0,0,0,0,0,0,0
+KALA,"KALA BIO, Inc.",12,-1,12,10,-1,-1,0,10
+KALU,Kaiser Aluminum Corporation,10,-1,12,10,-1,-1,-1,2
+KALV,"KalVista Pharmaceuticals, Inc.",2,-1,12,10,-1,-1,-1,10
+KARO,Karooooo Ltd.,12,10,10,4,-1,-1,-1,5
+KBAL,,0,0,0,0,0,0,0,0
+KBNT,"Kubient, Inc.",12,10,12,10,12,-1,-1,5
+KBNTW,"Kubient, Inc.",0,0,0,0,0,0,0,0
+KBSF,,0,0,0,0,0,0,0,0
+KC,Kingsoft Cloud Holdings Limited,10,12,6,4,-1,-1,-1,2
+KDMN,,0,0,0,0,0,0,0,0
+KDNY,"Chinook Therapeutics, Inc.",0,0,0,0,0,0,0,5
+KDP,Keurig Dr Pepper Inc.,12,-1,-1,-1,-1,-1,-1,5
+KE,"Kimball Electronics, Inc.",12,-1,6,7,-1,-1,-1,5
+KELYA,"Kelly Services, Inc.",12,8,12,7,-1,-1,-1,5
+KELYB,"Kelly Services, Inc.",12,8,12,7,-1,-1,-1,0
+KEQU,Kewaunee Scientific Corporation,12,-1,10,10,-1,-1,-1,0
+KERN,Akerna Corp.,12,0,-1,-1,0,-1,-1,2
+KERNW,Akerna Corp.,0,0,0,0,0,0,0,0
+KFFB,Kentucky First Federal Bancorp,12,8,0,0,0,-1,-1,0
+KFRC,Kforce Inc.,2,-1,12,10,-1,-1,-1,5
+KHC,The Kraft Heinz Company,12,8,-1,2,-1,-1,-1,2
+KIDS,OrthoPediatrics Corp.,2,-1,12,10,12,-1,-1,5
+KIIIU,,0,0,0,0,0,0,0,0
+KIN,,0,0,0,0,0,0,0,0
+KINS,"Kingstone Companies, Inc.",12,8,-1,-1,-1,-1,-1,2
+KINZ,,0,0,0,0,0,0,0,0
+KINZU,,0,0,0,0,0,0,0,0
+KINZW,,0,0,0,0,0,0,0,0
+KIRK,"Kirkland's, Inc.",6,0,-1,2,0,-1,-1,5
+KLAC,KLA Corporation,12,-1,12,10,-1,-1,2,5
+KLAQ,,0,0,0,0,0,0,0,0
+KLAQU,,0,0,0,0,0,0,0,0
+KLAQW,,0,0,0,0,0,0,0,0
+KLDO,"Kaleido Biosciences, Inc.",-1,12,12,4,-1,-1,-1,0
+KLIC,"Kulicke and Soffa Industries, Inc.",6,-1,12,10,-1,-1,-1,2
+KLXE,"KLX Energy Services Holdings, Inc.",10,-1,12,7,-1,0,0,5
+KMDA,Kamada Ltd.,12,-1,6,7,-1,-1,-1,5
+KMPH,,0,0,0,0,0,0,0,0
+KNDI,"Kandi Technologies Group, Inc.",6,8,12,10,-1,-1,-1,5
+KNSA,"Kiniksa Pharmaceuticals, Ltd.",6,-1,12,10,-1,-1,-1,5
+KNSL,"Kinsale Capital Group, Inc.",10,-1,-1,-1,-1,-1,-1,5
+KNTE,Kinnate Biopharma Inc.,12,10,12,10,7,-1,-1,5
+KOD,Kodiak Sciences Inc.,10,10,12,10,-1,-1,-1,0
+KOPN,Kopin Corporation,12,-1,12,10,-1,-1,-1,10
+KOR,Corvus Gold Inc.,0,0,0,0,0,0,0,0
+KOSS,Koss Corporation,12,8,12,10,-1,-1,-1,0
+KPTI,Karyopharm Therapeutics Inc.,6,0,12,10,0,-1,0,5
+KRBP,"Kiromic BioPharma, Inc.",12,0,-1,-1,0,-1,-1,0
+KRKR,36Kr Holdings Inc.,12,12,12,7,-1,-1,-1,10
+KRMD,"KORU Medical Systems, Inc.",10,-1,12,10,-1,-1,-1,5
+KRNL,"Kernel Group Holdings, Inc.",12,0,-1,-1,0,-1,0,0
+KRNLU,"Kernel Group Holdings, Inc.",12,0,-1,-1,0,-1,0,0
+KRNLW,"Kernel Group Holdings, Inc.",0,0,0,0,0,0,0,0
+KRNT,Kornit Digital Ltd.,12,-1,12,10,-1,-1,-1,5
+KRNY,Kearny Financial Corp.,10,8,0,0,0,-1,-1,2
+KRON,"Kronos Bio, Inc.",-1,10,12,10,-1,-1,-1,5
+KROS,"Keros Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,10
+KRTX,"Karuna Therapeutics, Inc.",10,-1,12,10,19,-1,-1,5
+KRUS,"Kura Sushi USA, Inc.",4,-1,12,10,-1,-1,-1,5
+KRYS,"Krystal Biotech, Inc.",10,-1,12,10,19,-1,-1,5
+KSICU,,0,0,0,0,0,0,0,0
+KSMT,,0,0,0,0,0,0,0,0
+KSMTU,,0,0,0,0,0,0,0,0
+KSMTW,,0,0,0,0,0,0,0,0
+KSPN,Kaspien Holdings Inc.,12,0,-1,2,0,-1,-1,5
+KTCC,Key Tronic Corporation,12,10,10,10,-1,-1,-1,0
+KTOS,"Kratos Defense & Security Solutions, Inc.",12,-1,12,10,-1,-1,-1,5
+KTRA,"Kintara Therapeutics, Inc.",12,0,6,4,0,-1,-1,5
+KURA,"Kura Oncology, Inc.",6,-1,12,10,-1,-1,-1,5
+KURI,,0,0,0,0,0,0,0,0
+KURIU,,0,0,0,0,0,0,0,0
+KURIW,,0,0,0,0,0,0,0,0
+KVHI,"KVH Industries, Inc.",12,8,12,10,12,-1,-1,5
+KVSA,Khosla Ventures Acquisition Co.,10,0,-1,-1,0,-1,0,0
+KVSB,,0,0,0,0,0,0,0,0
+KVSC,,0,0,0,0,0,0,0,0
+KXIN,Kaixin Auto Holdings,12,8,12,10,-1,-1,-1,0
+KYMR,"Kymera Therapeutics, Inc.",-1,-1,12,10,-1,-1,-1,5
+KZIA,Kazia Therapeutics Limited,12,-1,-1,4,-1,-1,-1,5
+KZR,"Kezar Life Sciences, Inc.",10,10,12,10,-1,-1,-1,5
+LABP,"Landos Biopharma, Inc.",12,10,12,10,0,-1,-1,2
+LACQ,,0,0,0,0,0,0,0,0
+LACQU,,0,0,0,0,0,0,0,0
+LACQW,,0,0,0,0,0,0,0,0
+LAKE,"Lakeland Industries, Inc.",12,8,12,10,-1,-1,-1,5
+LAMR,Lamar Advertising Company,10,-1,-1,-1,-1,-1,-1,2
+LANC,Lancaster Colony Corporation,12,-1,10,10,-1,-1,-1,2
+LAND,Gladstone Land Corporation,10,8,12,10,-1,-1,-1,5
+LANDM,Gladstone Land Corporation,12,-1,12,10,-1,-1,-1,0
+LANDO,Gladstone Land Corporation,12,8,12,10,-1,-1,-1,0
+LARK,"Landmark Bancorp, Inc.",10,8,0,0,0,-1,-1,0
+LASR,"nLIGHT, Inc.",12,-1,12,10,-1,-1,-1,5
+LATN,,0,0,0,0,0,0,0,0
+LATNU,,0,0,0,0,0,0,0,0
+LATNW,,0,0,0,0,0,0,0,0
+LAUR,"Laureate Education, Inc.",10,-1,-1,-1,-1,-1,-1,5
+LAWS,,0,0,0,0,0,0,0,0
+LAZR,"Luminar Technologies, Inc.",4,0,12,10,0,-1,0,5
+LAZY,"Lazydays Holdings, Inc.",10,10,-1,4,-1,-1,-1,5
+LBAI,"Lakeland Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+LBC,Luther Burbank Corporation,10,8,0,0,0,-1,-1,5
+LBPH,"Longboard Pharmaceuticals, Inc.",8,-1,12,10,19,-1,-1,5
+LBPS,,0,0,0,0,0,0,0,0
+LBPSW,,0,0,0,0,0,0,0,0
+LBRDA,Liberty Broadband Corporation,12,-1,12,10,-1,-1,-1,5
+LBRDK,Liberty Broadband Corporation,10,-1,12,10,-1,-1,-1,5
+LBRDP,Liberty Broadband Corporation,12,10,12,10,-1,-1,-1,0
+LBTYA,Liberty Global plc,12,10,12,4,-1,-1,-1,5
+LBTYB,Liberty Global plc,12,10,12,4,-1,-1,-1,0
+LBTYK,Liberty Global plc,12,10,12,4,-1,-1,-1,5
+LCAAU,L Catterton Asia Acquisition Corp,12,0,-1,-1,0,-1,0,0
+LCAHU,"Landcadia Holdings IV, Inc.",12,0,-1,-1,0,-1,0,0
+LCAP,,0,0,0,0,0,0,0,0
+LCAPU,,0,0,0,0,0,0,0,0
+LCAPW,,0,0,0,0,0,0,0,0
+LCNB,LCNB Corp.,-1,8,0,0,0,-1,-1,2
+LCUT,"Lifetime Brands, Inc.",12,8,6,10,-1,-1,-1,10
+LCY,,0,0,0,0,0,0,0,0
+LCYAU,,0,0,0,0,0,0,0,0
+LCYAW,,0,0,0,0,0,0,0,0
+LDHAU,,0,0,0,0,0,0,0,0
+LE,"Lands' End, Inc.",6,8,-1,7,-1,-1,-1,2
+LECO,"Lincoln Electric Holdings, Inc.",10,-1,10,10,-1,-1,-1,5
+LEDS,SemiLEDs Corporation,12,-1,-1,2,-1,-1,-1,0
+LEGAU,,0,0,0,0,0,0,0,0
+LEGH,Legacy Housing Corporation,8,-1,6,10,7,-1,-1,5
+LEGN,Legend Biotech Corporation,2,-1,12,10,-1,-1,-1,5
+LEGO,,0,0,0,0,0,0,0,0
+LEGOU,,0,0,0,0,0,0,0,0
+LEGOW,,0,0,0,0,0,0,0,0
+LESL,"Leslie's, Inc.",10,0,-1,7,0,-1,0,2
+LEVL,,0,0,0,0,0,0,0,0
+LEVLP,,0,0,0,0,0,0,0,0
+LEXX,Lexaria Bioscience Corp.,12,-1,12,10,-1,-1,-1,5
+LEXXW,Lexaria Bioscience Corp.,0,0,0,0,0,0,0,0
+LFMD,"LifeMD, Inc.",10,0,-1,-1,0,-1,0,5
+LFTR,,0,0,0,0,0,0,0,0
+LFTRU,,0,0,0,0,0,0,0,0
+LFTRW,,0,0,0,0,0,0,0,0
+LFUS,"Littelfuse, Inc.",12,-1,12,10,-1,-1,-1,2
+LFVN,LifeVantage Corporation,12,-1,10,10,-1,-1,-1,5
+LGAC,,0,0,0,0,0,0,0,0
+LGACU,,0,0,0,0,0,0,0,0
+LGACW,,0,0,0,0,0,0,0,0
+LGHL,Lion Group Holding Ltd.,12,12,10,4,-1,-1,-1,0
+LGHLW,Lion Financial Group Limited,0,0,0,0,0,0,0,0
+LGIH,"LGI Homes, Inc.",2,-1,6,10,-1,-1,-1,2
+LGND,Ligand Pharmaceuticals Incorporated,10,-1,12,10,7,-1,-1,5
+LGVN,Longeveron Inc.,12,-1,12,10,-1,-1,-1,5
+LHAA,,0,0,0,0,0,0,0,0
+LHCG,,0,0,0,0,0,0,0,0
+LHDX,,0,0,0,0,0,0,0,0
+LI,Li Auto Inc.,10,8,12,7,-1,-1,-1,5
+LIFE,"aTyr Pharma, Inc.",12,8,12,10,-1,-1,-1,5
+LILA,Liberty Latin America Ltd.,12,8,6,4,-1,-1,-1,5
+LILAK,Liberty Latin America Ltd.,10,8,6,4,-1,-1,-1,5
+LINC,Lincoln Educational Services Corporation,12,-1,12,10,-1,-1,-1,5
+LIND,"Lindblad Expeditions Holdings, Inc.",6,0,-1,2,0,-1,0,5
+LINK,"Interlink Electronics, Inc.",12,-1,12,10,7,-1,-1,5
+LIQT,"LiqTech International, Inc.",8,-1,12,10,-1,-1,-1,5
+LITE,Lumentum Holdings Inc.,10,-1,12,10,-1,-1,-1,5
+LIVE,Live Ventures Incorporated,12,8,-1,10,-1,-1,-1,5
+LIVK,,0,0,0,0,0,0,0,0
+LIVKU,,0,0,0,0,0,0,0,0
+LIVKW,,0,0,0,0,0,0,0,0
+LIVN,LivaNova PLC,10,-1,12,10,-1,-1,-1,5
+LIVX,,0,0,0,0,0,0,0,0
+LIXT,"Lixte Biotechnology Holdings, Inc.",12,0,12,10,0,-1,-1,0
+LIXTW,"Lixte Biotechnology Holdings, Inc.",0,0,0,0,0,0,0,0
+LIZI,Lizhi Inc.,12,12,12,10,-1,-1,-1,10
+LJAQ,,0,0,0,0,0,0,0,0
+LJAQU,,0,0,0,0,0,0,0,0
+LJAQW,,0,0,0,0,0,0,0,0
+LJPC,,0,0,0,0,0,0,0,0
+LKCO,Luokung Technology Corp.,2,12,-1,-1,-1,-1,-1,0
+LKFN,Lakeland Financial Corporation,-1,-1,0,0,0,-1,-1,2
+LKQ,LKQ Corporation,12,-1,10,10,-1,-1,-1,5
+LLIT,,0,0,0,0,0,0,0,0
+LLNW,,0,0,0,0,0,0,0,0
+LMACA,,0,0,0,0,0,0,0,0
+LMACU,,0,0,0,0,0,0,0,0
+LMACW,,0,0,0,0,0,0,0,0
+LMAO,,0,0,0,0,0,0,0,0
+LMAOU,,0,0,0,0,0,0,0,0
+LMAOW,,0,0,0,0,0,0,0,0
+LMAT,"LeMaitre Vascular, Inc.",10,-1,12,10,-1,-1,-1,5
+LMB,"Limbach Holdings, Inc.",12,-1,12,7,-1,-1,-1,5
+LMFA,"LM Funding America, Inc.",12,12,12,10,12,-1,-1,5
+LMNL,Liminal BioSciences Inc.,12,-1,12,10,-1,-1,-1,2
+LMNR,Limoneira Company,8,-1,6,4,-1,-1,-1,5
+LMNX,,0,0,0,0,0,0,0,0
+LMPX,"LMP Automotive Holdings, Inc.",12,12,-1,4,-1,-1,-1,5
+LMRK,,0,0,0,0,0,0,0,0
+LMRKN,,0,0,0,0,0,0,0,0
+LMRKO,,0,0,0,0,0,0,0,0
+LMRKP,,0,0,0,0,0,0,0,0
+LMST,,0,0,0,0,0,0,0,0
+LNDC,,0,0,0,0,0,0,0,0
+LNSR,"LENSAR, Inc.",8,-1,12,10,-1,-1,-1,10
+LNT,Alliant Energy Corporation,12,-1,-1,-1,-1,-1,-1,5
+LNTH,"Lantheus Holdings, Inc.",10,-1,12,10,-1,-1,-1,5
+LOAN,"Manhattan Bridge Capital, Inc.",12,-1,12,10,-1,-1,-1,2
+LOB,"Live Oak Bancshares, Inc.",10,-1,0,0,0,-1,-1,2
+LOCO,"El Pollo Loco Holdings, Inc.",12,-1,-1,-1,-1,-1,-1,2
+LOGC,,0,0,0,0,0,0,0,0
+LOGI,Logitech International S.A.,10,-1,12,10,-1,-1,-1,5
+LOOP,"Loop Industries, Inc.",-1,-1,12,10,-1,-1,-1,10
+LOPE,"Grand Canyon Education, Inc.",12,-1,12,10,-1,-1,-1,10
+LORL,,0,0,0,0,0,0,0,0
+LOTZ,,0,0,0,0,0,0,0,0
+LOTZW,,0,0,0,0,0,0,0,0
+LOVE,The Lovesac Company,4,-1,6,7,-1,-1,-1,10
+LPCN,Lipocine Inc.,12,8,12,10,12,-1,-1,10
+LPLA,LPL Financial Holdings Inc.,12,-1,12,10,-1,-1,-1,5
+LPRO,Open Lending Corporation,10,-1,12,10,-1,-1,-1,5
+LPSN,"LivePerson, Inc.",12,-1,10,4,-1,-1,-1,2
+LPTH,"LightPath Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+LPTX,"Leap Therapeutics, Inc.",12,10,12,10,12,-1,-1,5
+LQDA,Liquidia Corporation,10,-1,12,10,-1,-1,-1,5
+LQDT,"Liquidity Services, Inc.",8,-1,6,4,-1,-1,-1,10
+LRCX,Lam Research Corporation,12,-1,12,10,-1,-1,-1,5
+LRMR,"Larimar Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+LSAQ,,0,0,0,0,0,0,0,0
+LSBK,"Lake Shore Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+LSCC,Lattice Semiconductor Corporation,10,-1,12,10,-1,-1,-1,5
+LSEA,Landsea Homes Corporation,12,8,-1,10,-1,-1,-1,5
+LSEAW,Landsea Homes Corporation,0,0,0,0,0,0,0,0
+LSTR,"Landstar System, Inc.",10,-1,12,7,-1,-1,-1,2
+LSXMA,The Liberty SiriusXM Group,12,8,-1,-1,-1,-1,-1,5
+LSXMB,The Liberty SiriusXM Group,12,8,-1,-1,-1,-1,-1,0
+LSXMK,The Liberty SiriusXM Group,10,8,-1,-1,-1,-1,-1,5
+LTBR,Lightbridge Corporation,12,-1,12,10,0,-1,-1,0
+LTRN,Lantern Pharma Inc.,10,8,12,10,12,-1,-1,2
+LTRPA,"Liberty TripAdvisor Holdings, Inc.",12,0,12,7,-1,-1,-1,2
+LTRPB,"Liberty TripAdvisor Holdings, Inc.",10,0,12,7,-1,-1,-1,0
+LTRX,"Lantronix, Inc.",12,-1,6,10,-1,-1,-1,5
+LULU,Lululemon Athletica Inc.,12,-1,6,10,-1,-1,-1,5
+LUMO,"Lumos Pharma, Inc.",4,8,12,10,12,-1,-1,5
+LUNA,Luna Innovations Incorporated,10,-1,12,10,-1,-1,-1,5
+LUNG,Pulmonx Corporation,10,-1,12,10,-1,-1,-1,5
+LUXA,,0,0,0,0,0,0,0,0
+LUXAU,,0,0,0,0,0,0,0,0
+LUXAW,,0,0,0,0,0,0,0,0
+LVRAU,,0,0,0,0,0,0,0,0
+LVTX,LAVA Therapeutics N.V.,12,8,12,10,-1,-1,-1,10
+LWAC,,0,0,0,0,0,0,0,0
+LWACU,,0,0,0,0,0,0,0,0
+LWACW,,0,0,0,0,0,0,0,0
+LWAY,"Lifeway Foods, Inc.",12,-1,12,10,-1,-1,-1,2
+LX,LexinFintech Holdings Ltd.,12,12,10,7,-1,-1,-1,5
+LXEH,"Lixiang Education Holding Co., Ltd.",12,12,12,10,-1,-1,-1,0
+LXRX,"Lexicon Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,5
+LYFT,"Lyft, Inc.",12,-1,-1,2,-1,-1,-1,2
+LYL,,0,0,0,0,0,0,0,0
+LYRA,"Lyra Therapeutics, Inc.",12,-1,12,10,7,-1,-1,10
+LYTS,LSI Industries Inc.,12,-1,10,7,-1,-1,-1,5
+MAAC,,0,0,0,0,0,0,0,0
+MAACU,,0,0,0,0,0,0,0,0
+MAACW,,0,0,0,0,0,0,0,0
+MACA,Moringa Acquisition Corp,12,0,-1,10,0,-1,0,0
+MACAU,Moringa Acquisition Corp,-1,0,-1,10,0,-1,0,0
+MACK,"Merrimack Pharmaceuticals, Inc.",-1,-1,12,10,0,-1,-1,2
+MACQU,,0,0,0,0,0,0,0,0
+MACU,,0,0,0,0,0,0,0,0
+MACUU,,0,0,0,0,0,0,0,0
+MACUW,,0,0,0,0,0,0,0,0
+MAGS,,0,0,0,0,0,0,0,0
+MANH,"Manhattan Associates, Inc.",12,-1,10,4,-1,-1,-1,5
+MANT,,0,0,0,0,0,0,0,0
+MAR,"Marriott International, Inc.",12,0,-1,-1,0,-1,6,2
+MARA,"Marathon Digital Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+MARK,"Remark Holdings, Inc.",10,0,-1,-1,0,-1,0,0
+MARPS,Marine Petroleum Trust,12,-1,0,0,0,-1,2,0
+MASI,Masimo Corporation,12,-1,6,10,-1,-1,-1,5
+MASS,908 Devices Inc.,8,-1,12,10,-1,-1,-1,10
+MAT,"Mattel, Inc.",12,-1,10,10,-1,-1,-1,5
+MATW,Matthews International Corporation,12,-1,-1,7,-1,-1,-1,5
+MAXN,"Maxeon Solar Technologies, Ltd.",12,-1,10,7,-1,-1,-1,5
+MAYS,"J.W. Mays, Inc.",10,-1,12,10,-1,-1,-1,0
+MBCN,Middlefield Banc Corp.,6,-1,0,0,0,-1,-1,2
+MBII,,0,0,0,0,0,0,0,0
+MBIN,Merchants Bancorp,10,-1,0,0,0,-1,-1,10
+MBINN,Merchants Bancorp,12,8,0,0,0,-1,-1,0
+MBINO,Merchants Bancorp,12,8,0,0,0,-1,-1,0
+MBINP,Merchants Bancorp,12,8,0,0,0,-1,-1,0
+MBIO,"Mustang Bio, Inc.",12,-1,10,7,-1,-1,-1,5
+MBNKP,Medallion Bank,12,0,0,0,0,-1,-1,0
+MBOT,Microbot Medical Inc.,12,-1,12,10,-1,-1,-1,5
+MBRX,"Moleculin Biotech, Inc.",12,10,12,10,12,-1,-1,5
+MBTCU,Nocturne Acquisition Corporation,-1,0,-1,-1,0,-1,0,0
+MBUU,"Malibu Boats, Inc.",10,-1,-1,4,7,-1,-1,5
+MBWM,Mercantile Bank Corporation,12,-1,0,0,0,-1,-1,5
+MCAD,,0,0,0,0,0,0,0,0
+MCADR,,0,0,0,0,0,0,0,0
+MCADU,,0,0,0,0,0,0,0,0
+MCBC,Macatawa Bank Corporation,12,-1,0,0,0,-1,-1,5
+MCBS,"MetroCity Bankshares, Inc.",8,-1,0,0,0,-1,-1,2
+MCFE,,0,0,0,0,0,0,0,0
+MCFT,"MasterCraft Boat Holdings, Inc.",12,-1,10,7,-1,-1,-1,5
+MCHP,Microchip Technology Incorporated,12,-1,-1,4,-1,-1,-1,5
+MCHX,"Marchex, Inc.",12,-1,12,10,-1,-1,-1,5
+MCMJ,,0,0,0,0,0,0,0,0
+MCMJW,,0,0,0,0,0,0,0,0
+MCRB,"Seres Therapeutics, Inc.",6,-1,12,10,-1,-1,-1,5
+MCRI,"Monarch Casino & Resort, Inc.",12,-1,-1,-1,-1,-1,-1,5
+MDB,"MongoDB, Inc.",12,-1,12,10,-1,-1,-1,5
+MDCA,,0,0,0,0,0,0,0,0
+MDGL,"Madrigal Pharmaceuticals, Inc.",10,-1,12,10,-1,-1,-1,5
+MDGS,Medigus Ltd.,12,12,12,4,-1,-1,-1,0
+MDIA,MediaCo Holding Inc.,12,10,12,10,-1,-1,-1,0
+MDJH,MDJM Ltd,12,-1,12,10,0,-1,-1,0
+MDLZ,"Mondelez International, Inc.",12,-1,-1,-1,-1,-1,-1,5
+MDNA,Medicenna Therapeutics Corp.,12,8,12,10,0,-1,-1,5
+MDRR,"Medalist Diversified REIT, Inc.",12,8,12,10,-1,-1,-1,5
+MDRRP,"Medalist Diversified REIT, Inc.",12,-1,12,10,-1,-1,-1,0
+MDRX,Veradigm Inc.,8,-1,12,10,-1,-1,-1,2
+MDVL,"MedAvail Holdings, Inc.",12,10,12,10,-1,-1,-1,5
+MDWD,MediWound Ltd.,12,-1,12,10,7,-1,-1,5
+MDWT,Midwest Holding Inc.,12,-1,12,10,-1,-1,-1,2
+MDXG,"MiMedx Group, Inc.",10,0,12,10,-1,-1,-1,5
+MEDP,"Medpace Holdings, Inc.",12,-1,-1,-1,-1,-1,-1,5
+MEDS,"TRxADE HEALTH, Inc.",12,0,-1,-1,0,-1,-1,5
+MEIP,"MEI Pharma, Inc.",8,-1,12,10,-1,-1,-1,5
+MELI,"MercadoLibre, Inc.",12,-1,-1,4,-1,-1,-1,5
+MEOH,Methanex Corporation,10,-1,12,7,-1,-1,-1,5
+MERC,Mercer International Inc.,10,8,12,10,-1,-1,-1,5
+MESA,"Mesa Air Group, Inc.",12,12,-1,2,-1,-1,-1,2
+MESO,Mesoblast Limited,12,10,12,7,-1,-1,-1,2
+METC,"Ramaco Resources, Inc.",12,-1,-1,4,-1,-1,-1,5
+METX,BTC Digital Ltd.,12,12,6,4,-1,-1,-1,5
+METXW,Meten EdtechX Education Group Ltd.,0,0,0,0,0,0,0,0
+MFH,Mercurity Fintech Holding Inc.,12,-1,12,10,-1,-1,-1,0
+MFIN,Medallion Financial Corp.,-1,10,12,10,-1,-1,-1,2
+MFINL,,0,0,0,0,0,0,0,0
+MFNC,,0,0,0,0,0,0,0,0
+MGEE,"MGE Energy, Inc.",12,-1,-1,4,-1,-1,-1,0
+MGI,,0,0,0,0,0,0,0,0
+MGIC,Magic Software Enterprises Ltd.,12,-1,12,7,-1,-1,-1,10
+MGLN,,0,0,0,0,0,0,0,0
+MGNI,"Magnite, Inc.",12,-1,10,4,-1,-1,-1,5
+MGNX,"MacroGenics, Inc.",4,-1,12,10,-1,-1,-1,5
+MGPI,"MGP Ingredients, Inc.",-1,-1,12,10,-1,-1,-1,5
+MGRC,McGrath RentCorp,12,-1,6,4,-1,-1,-1,10
+MGTA,"Magenta Therapeutics, Inc.",12,8,12,10,0,-1,-1,2
+MGTX,MeiraGTx Holdings plc,8,-1,12,7,-1,-1,-1,5
+MGYR,"Magyar Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+MHLD,"Maiden Holdings, Ltd.",12,8,-1,10,-1,-1,-1,2
+MICT,,0,0,0,0,0,0,0,0
+MIDD,The Middleby Corporation,8,-1,6,10,-1,-1,-1,5
+MIK,,0,0,0,0,0,0,0,0
+MILE,,0,0,0,0,0,0,0,0
+MILEW,,0,0,0,0,0,0,0,0
+MIME,,0,0,0,0,0,0,0,0
+MIND,"MIND Technology, Inc.",12,0,-1,10,-1,-1,-1,2
+MINDP,"MIND Technology, Inc.",12,0,-1,10,-1,-1,-1,0
+MIRM,"Mirum Pharmaceuticals, Inc.",8,-1,12,10,-1,-1,-1,10
+MIST,Morningstar US Industrials,0,0,0,0,0,0,0,5
+MITC,,0,0,0,0,0,0,0,0
+MITK,"Mitek Systems, Inc.",12,-1,12,10,-1,-1,-1,5
+MITO,,0,0,0,0,0,0,0,0
+MKD,,0,0,0,0,0,0,0,0
+MKGI,,0,0,0,0,0,0,0,0
+MKSI,"MKS Instruments, Inc.",10,-1,12,10,-1,-1,-1,5
+MKTX,MarketAxess Holdings Inc.,12,-1,12,10,-1,-1,-1,2
+MKTY,,0,0,0,0,0,0,0,0
+MLAB,"Mesa Laboratories, Inc.",6,-1,12,10,-1,-1,-1,5
+MLAC,,0,0,0,0,0,0,0,0
+MLACU,,0,0,0,0,0,0,0,0
+MLACW,,0,0,0,0,0,0,0,0
+MLCO,Melco Resorts & Entertainment Limited,12,0,12,4,0,-1,0,5
+MLHR,,0,0,0,0,0,0,0,0
+MLND,,0,0,0,0,0,0,0,0
+MMAC,,0,0,0,0,0,0,0,0
+MMLP,Martin Midstream Partners L.P.,12,0,-1,4,0,-1,0,2
+MMSI,"Merit Medical Systems, Inc.",12,-1,12,10,-1,-1,-1,5
+MMYT,MakeMyTrip Limited,12,-1,10,7,-1,-1,-1,5
+MNDO,MIND C.T.I. Ltd,12,-1,12,10,-1,-1,-1,0
+MNKD,MannKind Corporation,4,0,12,10,0,-1,0,5
+MNOV,"MediciNova, Inc.",-1,-1,12,10,19,-1,-1,5
+MNPR,Monopar Therapeutics Inc.,12,-1,12,10,0,-1,-1,5
+MNRO,"Monro, Inc.",10,-1,-1,-1,-1,-1,-1,2
+MNSB,"MainStreet Bancshares, Inc.",10,8,0,0,0,-1,-1,5
+MNSBP,"MainStreet Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+MNST,Monster Beverage Corporation,12,-1,12,10,12,-1,-1,5
+MNTK,"Montauk Renewables, Inc.",6,-1,12,10,-1,-1,-1,2
+MNTX,"Manitex International, Inc.",12,-1,-1,4,-1,-1,-1,5
+MODV,ModivCare Inc.,12,-1,-1,-1,-1,-1,-1,10
+MOFG,"MidWestOne Financial Group, Inc.",12,8,0,0,0,-1,-1,5
+MOGO,Mogo Inc.,12,10,12,10,-1,-1,-1,10
+MOHO,,0,0,0,0,0,0,0,0
+MOMO,Hello Group Inc.,12,12,12,10,-1,-1,-1,5
+MON,,0,0,0,0,0,0,0,0
+MONCU,,0,0,0,0,0,0,0,0
+MONCW,,0,0,0,0,0,0,0,0
+MOR,MorphoSys AG,12,-1,12,10,-1,-1,12,2
+MORF,"Morphic Holding, Inc.",8,-1,12,10,12,-1,-1,5
+MORN,"Morningstar, Inc.",12,-1,6,2,-1,-1,-1,2
+MOSY,,0,0,0,0,0,0,0,0
+MOTN,,0,0,0,0,0,0,0,0
+MOTNW,,0,0,0,0,0,0,0,0
+MOTS,"Motus GI Holdings, Inc.",12,0,12,10,0,-1,-1,5
+MOVE,Movano Inc.,12,-1,12,10,-1,-1,-1,0
+MOXC,Moxian (BVI) Inc,12,-1,12,10,0,-1,-1,0
+MPAA,"Motorcar Parts of America, Inc.",10,10,-1,4,-1,-1,-1,5
+MPACU,,0,0,0,0,0,0,0,0
+MPB,"Mid Penn Bancorp, Inc.",12,8,0,0,0,-1,-1,10
+MPWR,"Monolithic Power Systems, Inc.",12,-1,12,10,12,-1,-1,5
+MRAC,,0,0,0,0,0,0,0,0
+MRACU,,0,0,0,0,0,0,0,0
+MRACW,,0,0,0,0,0,0,0,0
+MRAM,"Everspin Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+MRBK,Meridian Corporation,12,8,0,0,0,-1,-1,5
+MRCC,Monroe Capital Corporation,12,8,12,10,-1,-1,-1,2
+MRCY,"Mercury Systems, Inc.",12,-1,12,10,-1,-1,-1,2
+MREO,Mereo BioPharma Group plc,12,-1,12,10,-1,-1,-1,5
+MRIN,Marin Software Incorporated,12,10,12,10,-1,-1,-1,0
+MRKR,"Marker Therapeutics, Inc.",12,-1,12,10,0,-1,-1,5
+MRLN,,0,0,0,0,0,0,0,0
+MRM,MEDIROM Healthcare Technologies Inc.,12,0,-1,-1,0,-1,0,0
+MRNA,"Moderna, Inc.",12,-1,12,10,-1,-1,-1,5
+MRNS,"Marinus Pharmaceuticals, Inc.",10,-1,12,10,-1,-1,-1,5
+MRSN,"Mersana Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,2
+MRTN,"Marten Transport, Ltd.",12,-1,12,7,12,-1,-1,5
+MRTX,"Mirati Therapeutics, Inc.",8,-1,12,10,-1,-1,-1,5
+MRUS,Merus N.V.,2,-1,12,10,-1,-1,-1,10
+MRVI,"Maravai LifeSciences Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+MRVL,"Marvell Technology, Inc.",12,-1,-1,4,-1,-1,-1,5
+MSAC,,0,0,0,0,0,0,0,0
+MSACW,,0,0,0,0,0,0,0,0
+MSBI,"Midland States Bancorp, Inc.",12,8,0,0,0,-1,-1,2
+MSDAU,,0,0,0,0,0,0,0,0
+MSEX,Middlesex Water Company,10,-1,-1,-1,-1,-1,-1,10
+MSFT,Microsoft Corporation,12,-1,12,7,-1,-1,-1,5
+MSGM,Motorsport Games Inc.,12,-1,-1,-1,-1,-1,-1,2
+MSON,,0,0,0,0,0,0,0,0
+MSTR,MicroStrategy Incorporated,12,-1,-1,2,-1,-1,-1,5
+MSVB,"Mid-Southern Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+MTAC,MedTech Acquisition Corporation,0,0,0,0,0,0,0,0
+MTACU,MedTech Acquisition Corporation,0,0,0,0,0,0,0,0
+MTACW,MedTech Acquisition Corporation,0,0,0,0,0,0,0,0
+MTBC,,0,0,0,0,0,0,0,0
+MTBCP,,0,0,0,0,0,0,0,0
+MTC,"MMTec, Inc.",12,12,12,10,-1,-1,-1,0
+MTCH,"Match Group, Inc.",12,0,12,10,0,-1,0,5
+MTCR,,0,0,0,0,0,0,0,0
+MTEM,"Molecular Templates, Inc.",10,0,-1,-1,0,-1,-1,10
+MTEX,"Mannatech, Incorporated",12,-1,-1,4,-1,-1,-1,0
+MTLS,Materialise NV,12,-1,12,10,-1,-1,-1,5
+MTP,,0,0,0,0,0,0,0,0
+MTRX,Matrix Service Company,12,-1,12,4,-1,-1,-1,10
+MTSI,"MACOM Technology Solutions Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+MTSL,,0,0,0,0,0,0,0,0
+MU,"Micron Technology, Inc.",12,-1,12,10,-1,-1,-1,5
+MUDS,,0,0,0,0,0,0,0,0
+MUDSU,,0,0,0,0,0,0,0,0
+MUDSW,,0,0,0,0,0,0,0,0
+MVBF,MVB Financial Corp.,12,-1,0,0,0,-1,-1,5
+MVIS,"MicroVision, Inc.",-1,-1,12,10,-1,-1,-1,2
+MWK,,0,0,0,0,0,0,0,0
+MXIM,,0,0,0,0,0,0,0,0
+MYFW,"First Western Financial, Inc.",8,8,0,0,0,-1,-1,2
+MYGN,"Myriad Genetics, Inc.",8,-1,10,4,-1,-1,-1,2
+MYRG,MYR Group Inc.,12,-1,12,4,-1,-1,-1,5
+MYSZ,"My Size, Inc.",12,8,6,4,-1,-1,-1,5
+MYT,,0,0,0,0,0,0,0,0
+NAAC,,0,0,0,0,0,0,0,0
+NAACU,,0,0,0,0,0,0,0,0
+NAACW,,0,0,0,0,0,0,0,0
+NAII,"Natural Alternatives International, Inc.",12,10,12,10,-1,-1,-1,0
+NAKD,,0,0,0,0,0,0,0,0
+NAOV,"NanoVibronix, Inc.",12,-1,-1,7,-1,-1,-1,5
+NARI,"Inari Medical, Inc.",10,-1,12,10,-1,-1,-1,5
+NATH,"Nathan's Famous, Inc.",12,0,12,10,0,-1,0,0
+NATI,National Instruments Corporation,12,-1,12,10,-1,-1,-1,2
+NATR,"Nature's Sunshine Products, Inc.",12,-1,10,10,-1,-1,-1,5
+NAVI,Navient Corporation,10,8,12,10,-1,-1,-1,2
+NBEV,,0,0,0,0,0,0,0,0
+NBIX,"Neurocrine Biosciences, Inc.",12,-1,12,10,-1,-1,-1,5
+NBLX,,0,0,0,0,0,0,0,0
+NBN,Northeast Bank,12,-1,0,0,0,-1,-1,0
+NBRV,Nabriva Therapeutics plc,0,0,0,0,0,0,0,0
+NBSE,"NeuBase Therapeutics, Inc.",12,12,12,10,-1,-1,-1,2
+NBSTU,Newbury Street Acquisition Corporation,12,0,-1,-1,0,-1,0,0
+NBTB,NBT Bancorp Inc.,12,-1,0,0,0,-1,-1,5
+NBTX,Nanobiotix S.A.,12,0,-1,-1,0,-1,0,10
+NCBS,,0,0,0,0,0,0,0,0
+NCMI,"National CineMedia, Inc.",12,0,12,10,0,-1,0,2
+NCNA,NuCana plc,12,-1,12,10,4,-1,-1,5
+NCNO,"nCino, Inc.",8,-1,6,4,-1,-1,-1,5
+NCSM,"NCS Multistage Holdings, Inc.",12,8,12,10,-1,-1,-1,2
+NCTY,The9 Limited,12,10,-1,-1,-1,-1,-1,0
+NDACU,,0,0,0,0,0,0,0,0
+NDAQ,"Nasdaq, Inc.",12,-1,-1,7,-1,-1,-1,5
+NDLS,Noodles & Company,12,-1,-1,-1,-1,-1,-1,5
+NDRA,ENDRA Life Sciences Inc.,12,-1,12,10,-1,-1,-1,5
+NDRAW,,0,0,0,0,0,0,0,0
+NDSN,Nordson Corporation,10,-1,12,10,-1,-1,-1,5
+NEBC,,0,0,0,0,0,0,0,0
+NEBCU,,0,0,0,0,0,0,0,0
+NEBCW,,0,0,0,0,0,0,0,0
+NEO,"NeoGenomics, Inc.",10,-1,12,10,-1,-1,-1,5
+NEOG,Neogen Corporation,10,-1,12,10,-1,-1,-1,5
+NEON,Neonode Inc.,12,-1,12,10,12,-1,-1,5
+NEPH,"Nephros, Inc.",12,-1,12,10,-1,-1,-1,5
+NEPT,Neptune Wellness Solutions Inc.,12,0,-1,-1,0,-1,-1,2
+NERV,"Minerva Neurosciences, Inc.",12,0,12,10,0,-1,0,2
+NESR,National Energy Services Reunited Corp.,12,8,6,4,-1,-1,-1,5
+NESRW,National Energy Services Reunited Corp.,0,0,0,0,0,0,0,0
+NETE,,0,0,0,0,0,0,0,0
+NEWA,,0,0,0,0,0,0,0,0
+NEWT,"NewtekOne, Inc.",-1,-1,12,10,-1,-1,-1,2
+NEWTL,Newtek Business Services Corp.,0,0,0,0,0,0,0,0
+NEWTZ,Newtek Business Services Corp. 5.50% Notes Due 2026,0,0,0,0,0,0,0,0
+NEXI,"NexImmune, Inc.",12,10,12,10,-1,-1,-1,5
+NEXT,NextDecade Corporation,12,0,6,4,12,-1,-1,5
+NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",12,8,0,0,0,-1,-1,2
+NFE,New Fortress Energy Inc.,8,-1,-1,-1,-1,-1,-1,5
+NFLX,"Netflix, Inc.",12,-1,10,4,-1,-1,-1,5
+NGAC,,0,0,0,0,0,0,0,0
+NGACU,,0,0,0,0,0,0,0,0
+NGACW,,0,0,0,0,0,0,0,0
+NGCAU,,0,0,0,0,0,0,0,0
+NGM,"NGM Biopharmaceuticals, Inc.",10,10,12,10,19,-1,-1,5
+NGMS,NeoGames S.A.,12,-1,6,4,-1,-1,-1,2
+NH,,0,0,0,0,0,0,0,0
+NHIC,,0,0,0,0,0,0,0,0
+NHICU,,0,0,0,0,0,0,0,0
+NHICW,,0,0,0,0,0,0,0,0
+NHTC,Natural Health Trends Corp.,12,-1,12,10,-1,-1,-1,0
+NICE,NICE Ltd.,10,-1,12,10,-1,-1,-1,5
+NICK,"Nicholas Financial, Inc.",-1,10,12,10,-1,-1,-1,0
+NISN,"Nisun International Enterprise Development Group Co., Ltd",12,12,12,10,-1,-1,-1,0
+NIU,Niu Technologies,12,12,10,7,-1,-1,-1,5
+NKLA,Nikola Corporation,12,-1,12,7,-1,-1,-1,2
+NKSH,"National Bankshares, Inc.",10,-1,0,0,0,-1,-1,2
+NKTR,Nektar Therapeutics,12,8,12,10,-1,-1,-1,2
+NKTX,"Nkarta, Inc.",8,12,12,10,-1,-1,-1,5
+NLOK,,0,0,0,0,0,0,0,0
+NLSP,NLS Pharmaceutics AG,12,-1,12,10,0,-1,-1,5
+NLSPW,NLS Pharmaceutics AG,0,0,0,0,0,0,0,0
+NLTX,"Neoleukin Therapeutics, Inc.",12,10,12,10,-1,-1,-1,2
+NMFC,New Mountain Finance Corporation,8,8,12,10,-1,-1,-1,5
+NMIH,"NMI Holdings, Inc.",12,-1,6,7,-1,-1,-1,5
+NMMC,,0,0,0,0,0,0,0,0
+NMMCW,,0,0,0,0,0,0,0,0
+NMRD,Nemaura Medical Inc.,12,0,-1,-1,0,-1,0,5
+NMRK,"Newmark Group, Inc.",12,8,-1,2,-1,-1,-1,2
+NNBR,"NN, Inc.",-1,8,10,10,-1,-1,-1,5
+NNDM,Nano Dimension Ltd.,8,8,12,10,12,-1,-1,5
+NNOX,Nano-X Imaging Ltd.,10,-1,12,10,4,-1,-1,5
+NOAC,,0,0,0,0,0,0,0,0
+NOACU,,0,0,0,0,0,0,0,0
+NOACW,,0,0,0,0,0,0,0,0
+NODK,"NI Holdings, Inc.",12,-1,-1,-1,12,-1,-1,0
+NOTV,"Inotiv, Inc.",12,10,6,7,-1,-1,-1,5
+NOVT,Novanta Inc.,6,-1,12,10,-1,-1,-1,5
+NRAC,Northern Revival Acquisition Corporation,12,0,-1,-1,0,-1,0,0
+NRACU,Northern Revival Acquisition Corporation,12,0,-1,-1,0,-1,0,0
+NRACW,Noble Rock Acquisition Corporation,0,0,0,0,0,0,0,0
+NRBO,"NeuroBo Pharmaceuticals, Inc.",12,8,12,10,0,-1,-1,10
+NRC,National Research Corporation,8,-1,10,4,-1,-1,-1,2
+NRIM,"Northrim BanCorp, Inc.",12,8,0,0,0,-1,-1,10
+NRIX,"Nurix Therapeutics, Inc.",2,-1,12,10,-1,-1,-1,5
+NSEC,,0,0,0,0,0,0,0,0
+NSIT,"Insight Enterprises, Inc.",6,-1,10,4,-1,-1,-1,2
+NSSC,"Napco Security Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+NSTG,"NanoString Technologies, Inc.",10,0,12,10,0,-1,-1,5
+NSYS,Nortech Systems Incorporated,12,8,10,10,-1,-1,-1,0
+NTAP,"NetApp, Inc.",12,-1,10,4,-1,-1,2,2
+NTCT,"NetScout Systems, Inc.",12,8,12,4,-1,-1,-1,2
+NTEC,,0,0,0,0,0,0,0,0
+NTES,"NetEase, Inc.",12,8,12,10,-1,-1,-1,5
+NTGR,"NETGEAR, Inc.",12,8,12,10,-1,-1,-1,5
+NTIC,Northern Technologies International Corporation,12,-1,12,10,-1,-1,-1,5
+NTLA,"Intellia Therapeutics, Inc.",6,-1,12,10,-1,-1,-1,5
+NTNX,"Nutanix, Inc.",12,0,12,7,0,-1,0,5
+NTRA,"Natera, Inc.",10,-1,12,10,-1,-1,-1,5
+NTRS,Northern Trust Corporation,12,-1,0,0,0,-1,-1,2
+NTRSO,Northern Trust Corporation,12,10,0,0,0,-1,-1,0
+NTUS,,0,0,0,0,0,0,0,0
+NTWK,"NetSol Technologies, Inc.",8,8,12,10,-1,-1,-1,0
+NUAN,,0,0,0,0,0,0,0,0
+NURO,"NeuroMetrix, Inc.",12,10,12,10,19,-1,-1,5
+NUVA,"NuVasive, Inc.",6,-1,-1,4,-1,-1,-1,2
+NUZE,"NuZee, Inc.",12,-1,12,10,-1,-1,-1,5
+NVAX,"Novavax, Inc.",12,0,-1,-1,0,-1,0,2
+NVCN,,0,0,0,0,0,0,0,0
+NVCR,NovoCure Limited,12,-1,12,10,-1,-1,-1,5
+NVDA,NVIDIA Corporation,12,-1,12,10,-1,-1,-1,5
+NVEC,NVE Corporation,10,-1,12,10,12,-1,-1,0
+NVEE,"NV5 Global, Inc.",12,-1,12,7,-1,-1,-1,5
+NVFY,"Nova LifeStyle, Inc.",12,8,-1,7,-1,-1,-1,0
+NVIV,InVivo Therapeutics Holdings Corp.,12,10,12,10,-1,-1,-1,0
+NVMI,Nova Ltd.,10,-1,12,10,-1,-1,-1,5
+NVOS,"Novo Integrated Sciences, Inc.",12,-1,-1,-1,-1,-1,-1,0
+NVSAU,,0,0,0,0,0,0,0,0
+NVVE,Nuvve Holding Corp.,12,8,12,10,-1,-1,-1,5
+NVVEW,Nuvve Holding Corp.,0,0,0,0,0,0,0,0
+NWBI,"Northwest Bancshares, Inc.",2,8,0,0,0,-1,-1,2
+NWE,NorthWestern Corporation,12,-1,-1,2,-1,-1,-1,2
+NWFL,Norwood Financial Corp.,6,-1,0,0,0,-1,-1,0
+NWL,Newell Brands Inc.,12,-1,-1,4,-1,-1,-1,5
+NWLI,"National Western Life Group, Inc.",12,8,12,10,12,-1,-1,0
+NWPX,Northwest Pipe Company,12,8,12,10,-1,-1,-1,5
+NWS,News Corporation,12,-1,10,4,-1,-1,-1,0
+NWSA,News Corporation,12,-1,10,4,-1,-1,-1,5
+NXGN,"NextGen Healthcare, Inc.",12,-1,12,10,-1,-1,-1,2
+NXPI,NXP Semiconductors N.V.,12,-1,10,7,-1,-1,-1,5
+NXST,"Nexstar Media Group, Inc.",12,-1,12,7,-1,-1,-1,5
+NXTC,"NextCure, Inc.",10,10,12,10,-1,-1,-1,5
+NXTD,,0,0,0,0,0,0,0,0
+NYMT,"New York Mortgage Trust, Inc.",12,8,12,10,-1,-1,-1,2
+NYMTM,"New York Mortgage Trust, Inc.",12,-1,12,10,-1,-1,-1,0
+NYMTN,"New York Mortgage Trust, Inc.",12,-1,12,10,-1,-1,-1,0
+NYMTO,,0,0,0,0,0,0,0,0
+NYMTP,,0,0,0,0,0,0,0,0
+OAS,,0,0,0,0,0,0,0,0
+OBAS,,0,0,0,0,0,0,0,0
+OBCI,,0,0,0,0,0,0,0,0
+OBLG,"Oblong, Inc.",12,12,12,10,12,-1,-1,5
+OBLN,,0,0,0,0,0,0,0,0
+OBNK,,0,0,0,0,0,0,0,0
+OBSV,,0,0,0,0,0,0,0,0
+OCAX,OCA Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+OCAXU,OCA Acquisition Corp.,12,0,-1,-1,0,-1,0,0
+OCAXW,OCA Acquisition Corp.,0,0,0,0,0,0,0,0
+OCC,Optical Cable Corporation,12,8,6,10,-1,-1,-1,0
+OCCI,"OFS Credit Company, Inc.",12,8,12,10,-1,-1,-1,10
+OCCIP,,0,0,0,0,0,0,0,0
+OCDX,,0,0,0,0,0,0,0,0
+OCFC,OceanFirst Financial Corp.,12,8,0,0,0,-1,-1,5
+OCFCP,OceanFirst Financial Corp.,12,8,0,0,0,-1,-1,0
+OCG,Oriental Culture Holding LTD,12,10,12,10,12,-1,-1,5
+OCGN,"Ocugen, Inc.",8,-1,12,10,-1,-1,-1,5
+OCSL,Oaktree Specialty Lending Corporation,12,-1,12,10,-1,-1,-1,5
+OCUL,"Ocular Therapeutix, Inc.",10,-1,12,10,-1,-1,-1,5
+OCUP,"Ocuphire Pharma, Inc.",10,-1,12,10,0,-1,-1,5
+OCX,OncoCyte Corporation,4,8,12,10,-1,-1,-1,2
+ODFL,"Old Dominion Freight Line, Inc.",12,-1,10,4,4,-1,-1,2
+ODP,The ODP Corporation,2,-1,-1,2,-1,-1,-1,5
+ODT,,0,0,0,0,0,0,0,0
+OEG,,0,0,0,0,0,0,0,0
+OEPW,,0,0,0,0,0,0,0,0
+OEPWU,One Equity Partners Open Water I Corp.,0,0,0,0,0,0,0,0
+OEPWW,,0,0,0,0,0,0,0,0
+OESX,"Orion Energy Systems, Inc.",12,-1,10,7,-1,-1,-1,5
+OFED,Oconee Federal Financial Corp.,12,8,0,0,0,-1,-1,0
+OFIX,Orthofix Medical Inc.,12,8,10,10,-1,-1,-1,5
+OFLX,"Omega Flex, Inc.",-1,-1,12,10,-1,-1,-1,0
+OFS,OFS Capital Corporation,12,8,10,4,-1,-1,-1,5
+OFSSG,,0,0,0,0,0,0,0,0
+OGI,Organigram Holdings Inc.,12,10,12,10,12,-1,-1,5
+OHPAU,,0,0,0,0,0,0,0,0
+OIIM,,0,0,0,0,0,0,0,0
+OKTA,"Okta, Inc.",12,-1,12,7,-1,-1,-1,5
+OLB,"The OLB Group, Inc.",12,10,-1,-1,-1,-1,-1,5
+OLED,Universal Display Corporation,10,-1,12,10,4,-1,-1,5
+OLK,Olink Holding AB (publ),6,-1,12,10,7,-1,-1,5
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",12,-1,10,10,-1,-1,-1,5
+OLMA,"Olema Pharmaceuticals, Inc.",10,-1,12,10,19,-1,-1,5
+OM,"Outset Medical, Inc.",4,-1,12,10,-1,-1,-1,5
+OMAB,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",12,8,10,4,-1,-1,-1,2
+OMCL,"Omnicell, Inc.",12,-1,12,10,-1,-1,-1,5
+OMEG,,0,0,0,0,0,0,0,0
+OMER,Omeros Corporation,-1,-1,12,10,-1,-1,0,2
+OMEX,"Odyssey Marine Exploration, Inc.",2,0,-1,-1,0,-1,0,5
+OMP,,0,0,0,0,0,0,0,0
+ON,ON Semiconductor Corporation,10,-1,12,10,-1,-1,-1,5
+ONB,Old National Bancorp,10,8,-1,-1,-1,-1,-1,5
+ONCR,"Oncorus, Inc.",12,12,12,4,-1,-1,-1,2
+ONCT,"Oncternal Therapeutics, Inc.",12,10,12,10,12,-1,-1,2
+ONCY,Oncolytics Biotech Inc.,12,-1,12,10,4,-1,-1,5
+ONDS,Ondas Holdings Inc.,10,8,-1,-1,-1,-1,-1,5
+ONEM,,0,0,0,0,0,0,0,0
+ONEW,OneWater Marine Inc.,8,8,-1,4,-1,-1,-1,5
+ONTX,"Onconova Therapeutics, Inc.",12,8,12,10,0,-1,-1,10
+ONVO,"Organovo Holdings, Inc.",8,8,12,10,-1,-1,-1,2
+OPBK,OP Bancorp,12,8,0,0,0,-1,-1,5
+OPCH,"Option Care Health, Inc.",12,-1,12,7,-1,-1,-1,10
+OPEN,Opendoor Technologies Inc.,12,-1,12,10,-1,-1,-1,2
+OPENW,,0,0,0,0,0,0,0,0
+OPGN,"OpGen, Inc.",12,10,-1,-1,-1,-1,-1,2
+OPHC,"OptimumBank Holdings, Inc.",12,10,0,0,0,-1,-1,0
+OPI,Office Properties Income Trust,12,12,10,4,-1,-1,-1,2
+OPINI,,0,0,0,0,0,0,0,0
+OPINL,Office Properties Income Trust,0,0,0,0,0,0,0,0
+OPK,"OPKO Health, Inc.",4,8,12,7,-1,-1,-1,10
+OPNT,,0,0,0,0,0,0,0,0
+OPOF,Old Point Financial Corporation,12,8,0,0,0,-1,-1,0
+OPRA,Opera Limited,12,-1,12,10,12,-1,-1,5
+OPRT,Oportun Financial Corporation,12,8,12,10,-1,-1,-1,5
+OPRX,OptimizeRx Corporation,12,-1,12,10,12,-1,-1,5
+OPT,Opthea Limited,10,0,12,10,0,-1,-1,10
+OPTN,"OptiNose, Inc.",4,0,-1,-1,0,-1,0,5
+OPTT,"Ocean Power Technologies, Inc.",6,8,12,10,-1,-1,-1,0
+ORBC,,0,0,0,0,0,0,0,0
+ORGO,Organogenesis Holdings Inc.,10,-1,12,10,-1,-1,-1,5
+ORGS,Orgenesis Inc.,12,8,-1,-1,-1,-1,-1,5
+ORIC,"ORIC Pharmaceuticals, Inc.",-1,-1,12,10,-1,-1,-1,10
+ORLY,"O'Reilly Automotive, Inc.",12,0,-1,-1,0,-1,0,5
+ORMP,Oramed Pharmaceuticals Inc.,12,8,12,10,12,-1,-1,2
+ORPH,,0,0,0,0,0,0,0,0
+ORRF,"Orrstown Financial Services, Inc.",12,8,0,0,0,-1,-1,5
+ORTX,Orchard Therapeutics plc,12,-1,12,10,-1,-1,-1,5
+OSBC,"Old Second Bancorp, Inc.",12,-1,0,0,0,-1,-1,10
+OSIS,"OSI Systems, Inc.",12,-1,6,4,-1,-1,-1,5
+OSMT,,0,0,0,0,0,0,0,0
+OSN,,0,0,0,0,0,0,0,0
+OSPN,OneSpan Inc.,10,-1,12,7,-1,-1,-1,5
+OSS,"One Stop Systems, Inc.",12,8,12,10,-1,-1,-1,2
+OSTK,"Overstock.com, Inc.",12,-1,12,7,-1,-1,-1,2
+OSTR,,0,0,0,0,0,0,0,0
+OSTRU,,0,0,0,0,0,0,0,0
+OSTRW,,0,0,0,0,0,0,0,0
+OSUR,"OraSure Technologies, Inc.",12,-1,12,10,-1,-1,-1,2
+OSW,OneSpaWorld Holdings Limited,12,-1,6,7,-1,-1,-1,5
+OTEX,Open Text Corporation,-1,-1,-1,-1,-1,-1,-1,5
+OTIC,,0,0,0,0,0,0,0,0
+OTLK,"Outlook Therapeutics, Inc.",12,0,-1,2,0,-1,-1,5
+OTRA,,0,0,0,0,0,0,0,0
+OTRAU,,0,0,0,0,0,0,0,0
+OTRAW,,0,0,0,0,0,0,0,0
+OTRK,"Ontrak, Inc.",8,-1,-1,4,-1,-1,-1,5
+OTRKP,"Ontrak, Inc.",12,-1,-1,4,-1,-1,-1,0
+OTTR,Otter Tail Corporation,2,-1,10,7,-1,-1,-1,2
+OVBC,Ohio Valley Banc Corp.,6,8,0,0,0,-1,-1,0
+OVID,Ovid Therapeutics Inc.,8,-1,12,10,-1,-1,-1,5
+OVLY,Oak Valley Bancorp,10,-1,0,0,0,-1,-1,0
+OXBR,Oxbridge Re Holdings Limited,12,10,12,10,19,-1,-1,0
+OXBRW,Oxbridge Re Holdings Limited,0,12,12,10,19,-1,-1,0
+OXLC,Oxford Lane Capital Corp.,12,-1,-1,-1,-1,-1,-1,10
+OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,0,0,0,0,0,0,0,0
+OXLCM,Oxford Lane Capital Corp.,12,-1,-1,-1,-1,-1,-1,0
+OXLCO,Oxford Lane Capital Corp.,12,-1,-1,-1,-1,-1,-1,0
+OXLCP,Oxford Lane Capital Corp.,12,-1,-1,-1,-1,-1,-1,0
+OXSQ,Oxford Square Capital Corp.,12,-1,12,10,-1,-1,-1,2
+OXSQL,Oxford Square Capital Corp. 6.50% NT 24,0,0,0,0,0,0,0,0
+OXSQZ,,0,0,0,0,0,0,0,0
+OYST,,0,0,0,0,0,0,0,0
+OZK,Bank OZK,4,8,0,0,0,-1,-1,2
+OZON,Ozon Holdings PLC,0,0,0,0,0,0,0,10
+PAA,"Plains All American Pipeline, L.P.",12,-1,6,4,-1,-1,-1,5
+PAAS,Pan American Silver Corp.,10,-1,6,10,-1,-1,-1,5
+PACB,"Pacific Biosciences of California, Inc.",8,-1,12,10,-1,-1,-1,5
+PACW,PacWest Bancorp,10,10,0,0,0,-1,-1,2
+PACX,,0,0,0,0,0,0,0,0
+PACXU,,0,0,0,0,0,0,0,0
+PACXW,,0,0,0,0,0,0,0,0
+PAE,,0,0,0,0,0,0,0,0
+PAEWW,,0,0,0,0,0,0,0,0
+PAGP,"Plains GP Holdings, L.P.",10,-1,6,4,-1,-1,-1,5
+PAHC,Phibro Animal Health Corporation,12,-1,12,10,-1,-1,-1,2
+PAIC,,0,0,0,0,0,0,0,0
+PAICU,,0,0,0,0,0,0,0,0
+PAICW,,0,0,0,0,0,0,0,0
+PANA,,0,0,0,0,0,0,0,0
+PANL,"Pangaea Logistics Solutions, Ltd.",10,8,10,7,-1,-1,-1,5
+PAQC,,0,0,0,0,0,0,0,0
+PAQCU,,0,0,0,0,0,0,0,0
+PAQCW,,0,0,0,0,0,0,0,0
+PASG,"Passage Bio, Inc.",12,12,12,10,-1,-1,-1,10
+PATI,"Patriot Transportation Holding, Inc.",12,8,12,10,-1,-1,-1,0
+PATK,"Patrick Industries, Inc.",8,-1,6,10,-1,-1,-1,5
+PAVM,PAVmed Inc.,12,0,6,2,0,-1,-1,5
+PAVMW,PAVmed Inc.,0,0,0,0,0,0,0,0
+PAVMZ,PAVmed Inc,0,0,0,0,0,0,0,0
+PAX,Patria Investments Limited,8,-1,10,4,-1,-1,-1,5
+PAYA,,0,0,0,0,0,0,0,0
+PAYAW,,0,0,0,0,0,0,0,0
+PAYS,"PaySign, Inc.",10,-1,-1,4,-1,-1,-1,10
+PAYX,"Paychex, Inc.",10,-1,-1,4,-1,-1,-1,2
+PBCT,,0,0,0,0,0,0,0,0
+PBFS,"Pioneer Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+PBHC,"Pathfinder Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+PBIP,,0,0,0,0,0,0,0,0
+PBLA,"Panbela Therapeutics, Inc.",12,8,-1,4,-1,-1,0,5
+PBPB,Potbelly Corporation,10,-1,-1,-1,-1,-1,0,2
+PBTS,"Powerbridge Technologies Co., Ltd.",12,12,6,10,-1,-1,-1,5
+PBYI,"Puma Biotechnology, Inc.",4,-1,12,7,-1,-1,-1,2
+PCAR,PACCAR Inc,12,-1,12,10,-1,-1,-1,2
+PCB,PCB Bancorp,10,8,0,0,0,-1,-1,2
+PCH,PotlatchDeltic Corporation,10,-1,12,10,-1,-1,-1,5
+PCOM,,0,0,0,0,0,0,0,0
+PCRX,"Pacira BioSciences, Inc.",8,-1,12,10,-1,-1,-1,5
+PCSA,"Processa Pharmaceuticals, Inc.",12,8,12,10,4,-1,-1,5
+PCSB,,0,0,0,0,0,0,0,0
+PCT,"PureCycle Technologies, Inc.",8,-1,-1,4,-1,-1,-1,5
+PCTI,"PCTEL, Inc.",12,-1,12,10,-1,-1,-1,5
+PCTTU,"PureCycle Technologies, Inc.",12,-1,-1,4,-1,-1,-1,0
+PCTTW,"PureCycle Technologies, Inc.",0,0,0,0,0,0,0,0
+PCTY,Paylocity Holding Corporation,10,-1,-1,4,-1,-1,-1,5
+PCVX,"Vaxcyte, Inc.",2,-1,12,10,19,-1,-1,10
+PCYG,"Park City Group, Inc.",-1,-1,12,10,7,-1,-1,5
+PCYO,Pure Cycle Corporation,12,-1,12,10,-1,-1,-1,0
+PDCE,"PDC Energy, Inc.",0,0,0,0,0,0,0,5
+PDCO,"Patterson Companies, Inc.",12,-1,-1,7,-1,-1,-1,2
+PDD,PDD Holdings Inc.,12,8,12,7,-1,-1,-1,5
+PDEX,"Pro-Dex, Inc.",12,-1,12,10,-1,-1,-1,0
+PDFS,"PDF Solutions, Inc.",12,-1,12,10,-1,-1,-1,5
+PDLB,"Ponce Financial Group, Inc.",10,8,0,0,0,-1,-1,10
+PDSB,PDS Biotechnology Corporation,8,-1,12,10,-1,-1,-1,5
+PEBK,"Peoples Bancorp of North Carolina, Inc.",12,-1,0,0,0,-1,-1,0
+PEBO,Peoples Bancorp Inc.,8,8,0,0,0,-1,-1,2
+PEGA,Pegasystems Inc.,12,-1,12,7,-1,-1,-1,0
+PENN,"PENN Entertainment, Inc.",12,8,12,4,-1,-1,-1,5
+PEP,"PepsiCo, Inc.",12,-1,-1,2,-1,-1,-1,5
+PERI,Perion Network Ltd.,12,-1,12,10,19,-1,-1,5
+PESI,"Perma-Fix Environmental Services, Inc.",12,-1,6,4,-1,-1,-1,0
+PETQ,"PetIQ, Inc.",12,-1,12,10,-1,-1,-1,5
+PETS,"PetMed Express, Inc.",8,-1,10,7,7,-1,-1,5
+PETZ,"TDH Holdings, Inc.",12,8,12,10,-1,-1,-1,0
+PFBC,Preferred Bank,6,-1,0,0,0,-1,-1,5
+PFBI,,0,0,0,0,0,0,0,0
+PFC,Premier Financial Corp.,12,8,0,0,0,-1,-1,5
+PFG,"Principal Financial Group, Inc.",12,-1,-1,4,-1,-1,-1,2
+PFHD,,0,0,0,0,0,0,0,0
+PFIE,"Profire Energy, Inc.",12,-1,12,10,12,-1,-1,5
+PFIN,"P&F Industries, Inc.",12,8,6,10,-1,-1,-1,0
+PFIS,Peoples Financial Services Corp.,12,8,0,0,0,-1,-1,2
+PFLT,PennantPark Floating Rate Capital Ltd.,12,8,12,10,-1,-1,-1,2
+PFMT,Performant Financial Corporation,6,-1,12,10,-1,-1,-1,5
+PFPT,,0,0,0,0,0,0,0,0
+PFSW,"PFSweb, Inc.",12,-1,12,7,-1,-1,-1,2
+PFX,PhenixFIN Corporation,12,8,12,7,-1,-1,-1,2
+PGC,Peapack-Gladstone Financial Corporation,12,8,0,0,0,-1,-1,5
+PGEN,"Precigen, Inc.",8,-1,12,10,-1,-1,-1,5
+PGNY,"Progyny, Inc.",10,-1,12,10,-1,-1,-1,10
+PHAR,Pharming Group N.V.,12,-1,12,10,-1,-1,-1,0
+PHAS,,0,0,0,0,0,0,0,0
+PHAT,"Phathom Pharmaceuticals, Inc.",10,-1,12,10,-1,-1,-1,5
+PHIO,Phio Pharmaceuticals Corp.,12,10,12,10,19,-1,-1,0
+PHIOW,Phio Pharmaceuticals Corp.,0,0,0,0,0,0,0,0
+PHUN,"Phunware, Inc.",10,-1,-1,-1,-1,-1,-1,5
+PHUNW,Phunware Inc.,0,0,0,0,0,0,0,0
+PHVS,Pharvaris N.V.,12,-1,12,10,12,-1,-1,5
+PI,"Impinj, Inc.",10,-1,12,10,-1,-1,-1,5
+PINC,"Premier, Inc.",12,-1,-1,2,-1,-1,-1,2
+PIRS,"Pieris Pharmaceuticals, Inc.",12,8,12,7,-1,-1,-1,5
+PIXY,"ShiftPixy, Inc.",12,0,-1,-1,0,-1,0,5
+PKBK,"Parke Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+PKOH,Park-Ohio Holdings Corp.,12,8,6,10,-1,-1,-1,2
+PLAB,"Photronics, Inc.",12,-1,12,10,4,-1,-1,5
+PLAY,"Dave & Buster's Entertainment, Inc.",12,-1,-1,-1,-1,-1,-1,5
+PLBC,Plumas Bancorp,10,-1,0,0,0,-1,-1,5
+PLBY,"PLBY Group, Inc.",6,-1,-1,4,-1,-1,-1,5
+PLCE,"The Children's Place, Inc.",10,-1,-1,2,-1,-1,-1,5
+PLL,Piedmont Lithium Inc.,10,-1,12,10,12,-1,-1,5
+PLMIU,Plum Acquisition Corp. I,12,0,-1,-1,0,-1,0,0
+PLMR,"Palomar Holdings, Inc.",12,-1,-1,-1,-1,-1,-1,5
+PLPC,Preformed Line Products Company,12,-1,12,10,-1,-1,-1,0
+PLRX,"Pliant Therapeutics, Inc.",4,-1,12,10,-1,-1,-1,10
+PLSE,"Pulse Biosciences, Inc.",10,-1,12,10,-1,-1,-1,2
+PLTK,Playtika Holding Corp.,12,0,12,10,0,-1,0,5
+PLUG,Plug Power Inc.,8,-1,12,10,-1,-1,-1,5
+PLUS,ePlus inc.,12,-1,10,7,-1,-1,-1,5
+PLXP,,0,0,0,0,0,0,0,0
+PLXS,Plexus Corp.,12,-1,-1,4,-1,-1,-1,5
+PLYA,Playa Hotels & Resorts N.V.,12,-1,12,10,-1,-1,-1,5
+PMBC,,0,0,0,0,0,0,0,0
+PMD,Psychemedics Corporation,12,-1,10,4,-1,-1,-1,0
+PME,,0,0,0,0,0,0,0,0
+PMGMU,Priveterra Acquisition Corp. II,12,0,-1,-1,0,-1,0,0
+PMVP,"PMV Pharmaceuticals, Inc.",2,-1,12,10,-1,-1,-1,10
+PNBK,"Patriot National Bancorp, Inc.",12,8,0,0,0,-1,-1,2
+PNFP,"Pinnacle Financial Partners, Inc.",12,8,0,0,0,-1,-1,5
+PNFPP,"Pinnacle Financial Partners, Inc.",12,10,0,0,0,-1,-1,0
+PNNT,PennantPark Investment Corporation,12,8,12,10,-1,-1,-1,2
+PNNTG,,0,0,0,0,0,0,0,0
+PNRG,PrimeEnergy Resources Corporation,12,-1,6,2,12,-1,-1,0
+PNTG,"The Pennant Group, Inc.",12,-1,6,4,-1,-1,-1,5
+POAI,Predictive Oncology Inc.,10,8,12,10,-1,-1,-1,5
+PODD,Insulet Corporation,12,-1,12,10,-1,-1,-1,5
+POLA,"Polar Power, Inc.",12,8,-1,10,-1,-1,-1,5
+POOL,Pool Corporation,2,-1,6,10,-1,-1,-1,5
+POSH,,0,0,0,0,0,0,0,0
+POWI,"Power Integrations, Inc.",8,-1,12,10,0,-1,-1,5
+POWL,"Powell Industries, Inc.",12,-1,12,7,12,-1,-1,2
+POWW,"AMMO, Inc.",8,8,12,10,-1,-1,-1,5
+PPBI,"Pacific Premier Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+PPBT,Purple Biotech Ltd.,2,8,12,10,12,-1,-1,5
+PPC,Pilgrim's Pride Corporation,12,-1,6,7,-1,-1,-1,5
+PPD,,0,0,0,0,0,0,0,0
+PPGH,,0,0,0,0,0,0,0,0
+PPGHW,,0,0,0,0,0,0,0,0
+PPIH,"Perma-Pipe International Holdings, Inc.",12,-1,10,7,-1,-1,-1,0
+PPSI,"Pioneer Power Solutions, Inc.",12,-1,12,10,-1,-1,-1,0
+PPTA,Perpetua Resources Corp.,10,-1,10,4,12,-1,-1,5
+PRAA,"PRA Group, Inc.",12,8,12,10,-1,-1,-1,5
+PRAH,,0,0,0,0,0,0,0,0
+PRAX,"Praxis Precision Medicines, Inc.",12,-1,12,10,-1,-1,-1,5
+PRCH,"Porch Group, Inc.",12,0,-1,4,0,-1,-1,5
+PRCHW,,0,0,0,0,0,0,0,0
+PRDO,Perdoceo Education Corporation,12,-1,12,10,-1,-1,-1,10
+PRFT,"Perficient, Inc.",10,-1,12,10,-1,-1,-1,5
+PRFX,PainReform Ltd.,12,8,12,10,0,-1,-1,5
+PRGS,Progress Software Corporation,6,-1,6,2,-1,-1,-1,5
+PRIM,Primoris Services Corporation,12,-1,12,4,-1,-1,-1,5
+PRLD,Prelude Therapeutics Incorporated,6,8,12,10,12,-1,-1,5
+PROF,Profound Medical Corp.,4,-1,12,10,-1,-1,-1,5
+PROG,,0,0,0,0,0,0,0,0
+PROV,"Provident Financial Holdings, Inc.",8,8,0,0,0,-1,-1,2
+PRPH,"ProPhase Labs, Inc.",10,-1,12,10,-1,-1,-1,5
+PRPL,"Purple Innovation, Inc.",10,-1,-1,4,-1,-1,-1,5
+PRPO,"Precipio, Inc.",12,8,-1,2,-1,-1,-1,5
+PRQR,ProQR Therapeutics N.V.,10,-1,12,10,-1,-1,-1,5
+PRSR,Prospector Capital Corp.,12,0,-1,-1,0,-1,0,0
+PRSRU,Prospector Capital Corp.,12,0,-1,-1,0,-1,0,0
+PRSRW,Prospector Capital Corp.,0,0,0,0,0,0,0,0
+PRTA,Prothena Corporation plc,6,-1,12,10,12,-1,-1,5
+PRTC,PureTech Health plc,12,-1,12,10,-1,-1,-1,10
+PRTG,Portage Biotech Inc.,12,10,12,10,12,-1,-1,5
+PRTH,"Priority Technology Holdings, Inc.",12,0,-1,4,-1,-1,-1,5
+PRTK,"Paratek Pharmaceuticals, Inc.",10,0,-1,-1,0,-1,0,2
+PRTS,"CarParts.com, Inc.",12,-1,-1,7,-1,-1,-1,5
+PRVB,,0,0,0,0,0,0,0,0
+PSAC,,0,0,0,0,0,0,0,0
+PSAGU,Property Solutions Acquisition Corp. II,0,0,0,0,0,0,0,0
+PSEC,Prospect Capital Corporation,8,8,6,2,-1,-1,-1,2
+PSHG,Performance Shipping Inc.,12,12,12,10,-1,-1,-1,5
+PSMT,"PriceSmart, Inc.",10,-1,-1,4,-1,-1,-1,5
+PSNL,"Personalis, Inc.",12,10,12,10,-1,-1,-1,5
+PSTI,,0,0,0,0,0,0,0,0
+PSTV,"Plus Therapeutics, Inc.",12,-1,10,4,-1,-1,-1,5
+PSTX,"Poseida Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,10
+PT,Pintec Technology Holdings Limited,12,0,-1,-1,0,-1,0,0
+PTC,PTC Inc.,12,-1,-1,-1,-1,-1,-1,5
+PTCT,"PTC Therapeutics, Inc.",8,0,10,4,0,-1,0,2
+PTE,,0,0,0,0,0,0,0,0
+PTEN,"Patterson-UTI Energy, Inc.",12,-1,12,7,-1,-1,-1,5
+PTGX,"Protagonist Therapeutics, Inc.",12,-1,12,10,12,-1,-1,5
+PTIC,,0,0,0,0,0,0,0,0
+PTICU,,0,0,0,0,0,0,0,0
+PTMN,Portman Ridge Finance Corporation,12,8,12,10,-1,-1,-1,5
+PTNR,,0,0,0,0,0,0,0,0
+PTON,"Peloton Interactive, Inc.",12,0,10,10,0,-1,-1,2
+PTPI,"Petros Pharmaceuticals, Inc.",12,12,12,7,-1,-1,-1,0
+PTRS,Partners Bancorp,12,8,0,0,0,-1,-1,0
+PTSI,"P.A.M. Transportation Services, Inc.",12,-1,12,10,-1,-1,-1,2
+PTVCA,,0,0,0,0,0,0,0,0
+PTVCB,,0,0,0,0,0,0,0,0
+PTVE,Pactiv Evergreen Inc.,6,-1,6,10,-1,-1,-1,2
+PUBM,"PubMatic, Inc.",12,-1,12,7,-1,-1,-1,5
+PUCK,Goal Acquisitions Corp.,12,0,-1,-1,0,-1,0,0
+PUCKU,Goal Acquisitions Corp.,12,0,-1,-1,0,-1,0,0
+PUCKW,Goal Acquisitions Corp.,0,0,0,0,0,0,0,0
+PULM,"Pulmatrix, Inc.",12,10,12,10,7,-1,-1,0
+PUYI,Puyi Inc.,12,-1,12,10,-1,-1,-1,0
+PVAC,,0,0,0,0,0,0,0,0
+PVBC,"Provident Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+PWFL,"PowerFleet, Inc.",12,8,10,7,-1,-1,-1,10
+PWOD,"Penns Woods Bancorp, Inc.",8,8,0,0,0,-1,-1,0
+PXLW,"Pixelworks, Inc.",12,-1,12,10,-1,-1,-1,5
+PXS,Pyxis Tankers Inc.,12,8,12,10,-1,-1,-1,5
+PXSAP,Pyxis Tankers Inc.,12,-1,12,10,-1,-1,-1,0
+PXSAW,Pyxis Tankers Inc.,0,0,0,0,0,0,0,0
+PYPD,PolyPid Ltd.,12,8,12,10,-1,-1,-1,5
+PYPL,"PayPal Holdings, Inc.",12,-1,-1,4,-1,-1,-1,5
+PYR,PyroGenesis Canada Inc.,12,-1,-1,2,-1,-1,-1,0
+PZZA,"Papa John's International, Inc.",12,0,-1,2,0,-1,0,5
+QADA,,0,0,0,0,0,0,0,0
+QADB,,0,0,0,0,0,0,0,0
+QCOM,QUALCOMM Incorporated,12,-1,12,10,-1,-1,-1,5
+QCRH,"QCR Holdings, Inc.",12,8,0,0,0,-1,-1,5
+QDEL,QuidelOrtho Corporation,12,8,6,7,-1,-1,-1,5
+QELL,,0,0,0,0,0,0,0,0
+QFIN,"Qifu Technology, Inc.",10,12,-1,10,19,-1,-1,10
+QH,Quhuo Limited,12,12,12,4,-1,-1,-1,5
+QIWI,QIWI plc,0,12,12,7,-1,-1,-1,2
+QK,,0,0,0,0,0,0,0,0
+QLGN,"Qualigen Therapeutics, Inc.",12,-1,-1,-1,-1,-1,-1,5
+QLI,Qilian International Holding Group Limited,12,8,12,10,19,-1,-1,0
+QLYS,"Qualys, Inc.",6,-1,12,4,-1,-1,-1,2
+QMCO,Quantum Corporation,12,0,-1,4,0,-1,0,2
+QNST,"QuinStreet, Inc.",10,-1,12,7,7,-1,-1,5
+QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,12,0,0,0,0,0,0,0
+QRHC,Quest Resource Holding Corporation,12,-1,10,4,-1,-1,-1,5
+QRTEA,"Qurate Retail, Inc.",12,10,10,7,-1,-1,-1,2
+QRTEB,"Qurate Retail, Inc.",12,-1,10,7,-1,-1,-1,0
+QRTEP,"Qurate Retail, Inc.",10,-1,10,7,-1,-1,-1,0
+QRVO,"Qorvo, Inc.",12,-1,12,10,-1,-1,-1,2
+QTNT,,0,0,0,0,0,0,0,0
+QTRX,Quanterix Corporation,12,-1,12,10,-1,-1,-1,5
+QTT,,0,0,0,0,0,0,0,0
+QUIK,QuickLogic Corporation,8,-1,10,4,-1,-1,-1,10
+QUMU,,0,0,0,0,0,0,0,0
+QURE,uniQure N.V.,12,8,12,10,-1,-1,-1,5
+RAAC,,0,0,0,0,0,0,0,0
+RADA,,0,0,0,0,0,0,0,0
+RADI,"Radius Global Infrastructure, Inc.",2,-1,12,10,-1,-1,-1,2
+RAIL,"FreightCar America, Inc.",-1,0,-1,4,-1,-1,-1,2
+RAND,Rand Capital Corporation,12,8,12,10,-1,-1,-1,0
+RAPT,"RAPT Therapeutics, Inc.",4,-1,12,10,-1,-1,-1,5
+RARE,Ultragenyx Pharmaceutical Inc.,10,-1,12,10,-1,-1,-1,5
+RAVE,"Rave Restaurant Group, Inc.",12,-1,12,10,-1,-1,-1,0
+RAVN,,0,0,0,0,0,0,0,0
+RBB,RBB Bancorp,12,10,-1,-1,-1,-1,-1,2
+RBBN,Ribbon Communications Inc.,8,-1,6,4,-1,-1,-1,5
+RBCAA,"Republic Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+RBCN,"Rubicon Technology, Inc.",12,-1,12,10,-1,-1,-1,0
+RBKB,"Rhinebeck Bancorp, Inc.",10,8,0,0,0,-1,-1,0
+RBNC,,0,0,0,0,0,0,0,0
+RCEL,"AVITA Medical, Inc.",8,-1,12,10,4,-1,-1,5
+RCII,,0,0,0,0,0,0,0,0
+RCKT,"Rocket Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+RCKY,"Rocky Brands, Inc.",10,10,6,10,-1,-1,-1,2
+RCLF,Rosecliff Acquisition Corp I,12,0,-1,-1,0,-1,0,5
+RCLFU,Rosecliff Acquisition Corp I,-1,0,-1,-1,0,-1,0,0
+RCLFW,Rosecliff Acquisition Corp I,0,0,0,0,0,0,0,0
+RCM,R1 RCM Inc.,10,-1,12,7,-1,-1,-1,5
+RCMT,"RCM Technologies, Inc.",10,-1,10,4,-1,-1,-1,5
+RCON,"Recon Technology, Ltd.",12,12,12,10,-1,-1,-1,2
+RDCM,RADCOM Ltd.,12,-1,12,10,4,-1,-1,5
+RDFN,Redfin Corporation,10,-1,6,4,-1,-1,-1,2
+RDHL,RedHill Biopharma Ltd.,12,8,-1,2,-1,-1,0,5
+RDI,"Reading International, Inc.",12,8,-1,-1,-1,-1,-1,2
+RDIB,"Reading International, Inc.",12,-1,-1,-1,-1,-1,-1,0
+RDNT,"RadNet, Inc.",12,-1,12,4,-1,-1,-1,5
+RDUS,"Schnitzer Steel Industries, Inc.",12,8,6,7,-1,-1,-1,2
+RDVT,"Red Violet, Inc.",-1,-1,12,10,19,-1,-1,0
+RDWR,Radware Ltd.,12,-1,12,10,-1,-1,-1,2
+REAL,"The RealReal, Inc.",12,0,10,4,0,-1,0,5
+REDU,,0,0,0,0,0,0,0,0
+REED,"Reed's, Inc.",12,0,-1,2,0,-1,0,5
+REFR,Research Frontiers Incorporated,-1,-1,12,10,-1,-1,-1,0
+REG,Regency Centers Corporation,12,-1,-1,2,-1,-1,-1,5
+REGI,"Renewable Energy Group, Inc.",0,0,0,0,0,0,0,2
+REGN,"Regeneron Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,5
+REKR,"Rekor Systems, Inc.",12,-1,-1,2,-1,-1,-1,5
+RELI,"Reliance Global Group, Inc.",12,10,10,4,-1,-1,-1,5
+RELIW,"Reliance Global Group, Inc.",0,0,0,0,0,0,0,0
+RELL,"Richardson Electronics, Ltd.",12,8,12,10,7,-1,-1,0
+REPH,,0,0,0,0,0,0,0,0
+REPL,"Replimune Group, Inc.",2,-1,12,10,-1,-1,-1,5
+RESN,,0,0,0,0,0,0,0,0
+RETA,"Reata Pharmaceuticals, Inc.",12,-1,12,10,-1,-1,-1,2
+RETO,"ReTo Eco-Solutions, Inc.",12,8,-1,-1,-1,-1,-1,0
+REYN,Reynolds Consumer Products Inc.,10,-1,10,10,-1,-1,-1,2
+RFIL,"RF Industries, Ltd.",12,8,10,10,-1,-1,-1,5
+RGCO,"RGC Resources, Inc.",12,-1,-1,2,-1,-1,-1,10
+RGEN,Repligen Corporation,6,-1,12,10,-1,-1,-1,5
+RGLD,"Royal Gold, Inc.",10,-1,12,10,-1,-1,-1,2
+RGLS,Regulus Therapeutics Inc.,12,8,12,10,-1,-1,-1,5
+RGNX,REGENXBIO Inc.,6,-1,12,10,-1,-1,-1,5
+RGP,"Resources Connection, Inc.",12,-1,12,10,-1,-1,-1,2
+RIBT,RiceBran Technologies,12,-1,-1,-1,-1,-1,-1,2
+RICK,"RCI Hospitality Holdings, Inc.",10,-1,-1,2,-1,-1,-1,5
+RIGL,"Rigel Pharmaceuticals, Inc.",12,0,12,10,0,-1,0,5
+RILY,"B. Riley Financial, Inc.",4,-1,12,7,-1,-1,-1,0
+RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",0,0,0,0,0,0,0,0
+RILYI,,0,0,0,0,0,0,0,0
+RILYK,"B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",0,0,0,0,0,0,0,0
+RILYL,"B. Riley Financial, Inc.",12,-1,12,7,-1,-1,-1,0
+RILYM,Dow Jones U.S. Toys Total Stock,0,0,0,0,0,0,0,0
+RILYN,,0,0,0,0,0,0,0,0
+RILYO,BRL/CAX,0,0,0,0,0,0,0,0
+RILYP,"B. Riley Financial, Inc.",12,-1,12,7,-1,-1,-1,0
+RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",0,0,0,0,0,0,0,0
+RIOT,"Riot Platforms, Inc.",12,-1,12,10,7,-1,-1,5
+RKDA,"Arcadia Biosciences, Inc.",12,12,12,10,-1,-1,-1,5
+RLAY,"Relay Therapeutics, Inc.",-1,-1,12,10,-1,-1,-1,5
+RLMD,"Relmada Therapeutics, Inc.",10,8,12,10,0,-1,-1,5
+RMBI,"Richmond Mutual Bancorporation, Inc.",12,8,0,0,0,-1,-1,0
+RMBL,"RumbleON, Inc.",10,8,-1,4,-1,-1,-1,5
+RMBS,Rambus Inc.,12,-1,12,10,-1,-1,-1,5
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",12,-1,12,10,-1,-1,-1,0
+RMGC,RMG Acquisition Corp. III,10,0,-1,-1,0,-1,0,0
+RMGCU,RMG Acquisition Corp. III,4,0,-1,-1,0,-1,0,0
+RMGCW,RMG Acquisition Corp. III,0,0,0,0,0,0,0,0
+RMNI,"Rimini Street, Inc.",10,0,-1,2,0,-1,0,5
+RMR,The RMR Group Inc.,12,-1,12,10,-1,-1,-1,2
+RMRM,,0,0,0,0,0,0,0,0
+RMTI,"Rockwell Medical, Inc.",12,-1,10,7,-1,-1,-1,5
+RNA,"Avidity Biosciences, Inc.",-1,8,12,10,7,-1,-1,5
+RNDB,,0,0,0,0,0,0,0,0
+RNET,,0,0,0,0,0,0,0,0
+RNLX,Renalytix Plc,6,-1,12,10,-1,-1,-1,10
+RNST,Renasant Corporation,10,8,0,0,0,-1,-1,2
+RNWK,,0,0,0,0,0,0,0,0
+ROAD,"Construction Partners, Inc.",12,-1,12,7,-1,-1,-1,10
+ROCC,,0,0,0,0,0,0,0,0
+ROCK,"Gibraltar Industries, Inc.",12,-1,6,7,-1,-1,-1,5
+ROIC,Retail Opportunity Investments Corp.,12,-1,-1,-1,-1,-1,-1,5
+ROKU,"Roku, Inc.",12,-1,12,10,-1,-1,-1,2
+ROLL,,0,0,0,0,0,0,0,0
+ROOT,"Root, Inc.",6,8,12,10,-1,-1,-1,2
+ROST,"Ross Stores, Inc.",12,-1,10,7,-1,-1,-1,5
+RP,,0,0,0,0,0,0,0,0
+RPAY,Repay Holdings Corporation,10,8,12,10,-1,-1,-1,5
+RPD,"Rapid7, Inc.",12,0,6,4,0,-1,0,5
+RPRX,Royalty Pharma plc,12,-1,12,10,-1,-1,-1,5
+RPTX,Repare Therapeutics Inc.,6,-1,12,10,7,-1,-1,5
+RRBI,"Red River Bancshares, Inc.",12,-1,0,0,0,-1,-1,10
+RRGB,"Red Robin Gourmet Burgers, Inc.",10,-1,-1,-1,-1,-1,-1,2
+RRR,"Red Rock Resorts, Inc.",10,-1,-1,-1,-1,-1,10,5
+RSSS,"Research Solutions, Inc.",12,-1,12,4,0,-1,-1,5
+RSVA,,0,0,0,0,0,0,0,0
+RTLR,Rattler Midstream LP,0,0,0,0,0,0,0,5
+RUBY,"Rubius Therapeutics, Inc.",12,12,12,10,-1,-1,-1,2
+RUHN,,0,0,0,0,0,0,0,0
+RUN,Sunrun Inc.,12,10,-1,4,-1,-1,-1,5
+RUSHA,"Rush Enterprises, Inc.",6,-1,-1,4,-1,-1,-1,10
+RUSHB,"Rush Enterprises, Inc.",10,-1,-1,4,-1,-1,-1,0
+RUTH,,0,0,0,0,0,0,0,0
+RVMD,"Revolution Medicines, Inc.",4,-1,12,10,-1,-1,-1,5
+RVNC,"Revance Therapeutics, Inc.",8,-1,12,10,-1,-1,-1,5
+RVPH,"Reviva Pharmaceuticals Holdings, Inc.",8,-1,10,4,-1,-1,-1,5
+RVPHW,"Reviva Pharmaceuticals Holdings, Inc.",0,0,0,0,0,0,0,0
+RVSB,"Riverview Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+RWLK,ReWalk Robotics Ltd.,12,8,12,10,7,-1,-1,5
+RXDX,,0,0,0,0,0,0,0,0
+RXT,"Rackspace Technology, Inc.",12,-1,6,4,-1,-1,-1,2
+RYAAY,Ryanair Holdings plc,12,-1,-1,2,-1,-1,-1,10
+RYTM,"Rhythm Pharmaceuticals, Inc.",-1,-1,12,10,12,-1,-1,5
+RZLT,"Rezolute, Inc.",6,10,12,10,4,-1,-1,5
+SABR,Sabre Corporation,12,0,12,4,0,-1,0,2
+SABRP,Sabre Corporation,12,0,12,4,0,-1,0,0
+SAFM,,0,0,0,0,0,0,0,0
+SAFT,"Safety Insurance Group, Inc.",12,-1,-1,-1,-1,-1,-1,0
+SAGE,"Sage Therapeutics, Inc.",10,-1,12,10,12,-1,-1,2
+SAIA,"Saia, Inc.",10,-1,12,10,-1,-1,-1,5
+SAII,,0,0,0,0,0,0,0,0
+SAL,"Salisbury Bancorp, Inc.",0,0,0,0,0,0,0,2
+SALM,"Salem Media Group, Inc.",12,12,-1,-1,-1,-1,-1,10
+SAMG,Silvercrest Asset Management Group Inc.,12,-1,12,10,-1,-1,-1,10
+SANA,"Sana Biotechnology, Inc.",-1,-1,12,10,-1,-1,-1,5
+SANM,Sanmina Corporation,12,-1,10,7,-1,-1,-1,10
+SANW,S&W Seed Company,12,8,-1,4,-1,-1,-1,5
+SASR,"Sandy Spring Bancorp, Inc.",12,8,0,0,0,-1,-1,2
+SATS,EchoStar Corporation,12,10,12,10,-1,-1,-1,5
+SAVA,"Cassava Sciences, Inc.",4,-1,12,10,0,-1,-1,5
+SBAC,SBA Communications Corporation,12,0,-1,-1,0,-1,0,5
+SBBP,,0,0,0,0,0,0,0,0
+SBCF,Seacoast Banking Corporation of Florida,10,8,0,0,0,-1,-1,2
+SBFG,"SB Financial Group, Inc.",12,8,0,0,0,-1,-1,0
+SBGI,"Sinclair, Inc.",10,-1,12,10,-1,-1,-1,2
+SBLK,Star Bulk Carriers Corp.,12,8,10,4,-1,-1,-1,5
+SBNY,Signature Bank,12,12,0,0,0,-1,-1,2
+SBRA,"Sabra Health Care REIT, Inc.",10,-1,-1,2,-1,-1,-1,2
+SBSI,"Southside Bancshares, Inc.",8,-1,0,0,0,-1,-1,2
+SBT,"Sterling Bancorp, Inc. (Southfield, MI)",10,8,0,0,0,-1,-1,5
+SBTX,,0,0,0,0,0,0,0,0
+SBUX,Starbucks Corporation,12,0,-1,2,0,-1,0,5
+SCHL,Scholastic Corporation,12,-1,-1,4,-1,-1,-1,0
+SCHN,"Schnitzer Steel Industries, Inc.",12,8,6,7,-1,-1,-1,2
+SCKT,"Socket Mobile, Inc.",12,10,6,7,-1,-1,-1,5
+SCLE,,0,0,0,0,0,0,0,0
+SCOR,"comScore, Inc.",8,8,-1,-1,-1,-1,-1,5
+SCPH,scPharmaceuticals Inc.,-1,-1,12,10,-1,-1,-1,5
+SCPL,SciPlay Corporation,12,-1,12,10,12,-1,-1,2
+SCPS,Scopus BioPharma Inc.,12,0,-1,-1,0,-1,0,5
+SCR,,0,0,0,0,0,0,0,0
+SCSC,"ScanSource, Inc.",12,8,10,10,-1,-1,-1,10
+SCVL,"Shoe Carnival, Inc.",10,-1,-1,10,-1,-1,-1,5
+SCWX,SecureWorks Corp.,12,-1,-1,-1,7,-1,-1,2
+SCYX,"SCYNEXIS, Inc.",12,8,12,10,-1,-1,-1,5
+SDC,"SmileDirectClub, Inc.",-1,8,12,7,0,-1,0,2
+SDGR,"Schrödinger, Inc.",8,-1,12,10,-1,-1,-1,5
+SEAC,"SeaChange International, Inc.",12,10,12,10,-1,-1,-1,5
+SECO,Secoo Holding Limited,12,12,-1,10,-1,-1,-1,0
+SEDG,"SolarEdge Technologies, Inc.",12,-1,12,10,-1,-1,-1,5
+SEED,Origin Agritech Limited,12,0,-1,-1,0,-1,0,0
+SEEL,"Seelos Therapeutics, Inc.",10,0,-1,-1,0,-1,0,5
+SEER,"Seer, Inc.",12,10,12,10,-1,-1,-1,2
+SEIC,SEI Investments Company,12,-1,12,10,19,-1,-1,2
+SELB,"Selecta Biosciences, Inc.",6,-1,12,10,-1,-1,-1,5
+SELF,"Global Self Storage, Inc.",12,-1,12,10,-1,-1,-1,5
+SENEA,Seneca Foods Corporation,12,8,-1,10,-1,-1,-1,0
+SENEB,Seneca Foods Corporation,12,8,-1,10,-1,-1,-1,0
+SESN,,0,0,0,0,0,0,0,0
+SFBC,"Sound Financial Bancorp, Inc.",12,8,0,0,0,-1,-1,0
+SFBS,"ServisFirst Bancshares, Inc.",-1,-1,0,0,0,-1,-1,2
+SFET,,0,0,0,0,0,0,0,0
+SFIX,"Stitch Fix, Inc.",10,-1,10,7,-1,-1,-1,2
+SFM,"Sprouts Farmers Market, Inc.",2,-1,-1,4,-1,-1,-1,2
+SFNC,Simmons First National Corporation,8,8,0,0,0,-1,-1,2
+SFST,"Southern First Bancshares, Inc.",12,8,0,0,0,-1,-1,2
+SFT,"Shift Technologies, Inc.",2,0,-1,4,0,-1,0,2
+SGA,"Saga Communications, Inc.",12,8,12,10,-1,-1,-1,5
+SGAM,,0,0,0,0,0,0,0,0
+SGAMU,,0,0,0,0,0,0,0,0
+SGAMW,,0,0,0,0,0,0,0,0
+SGBX,Safe & Green Holdings Corp.,12,8,-1,-1,-1,-1,-1,5
+SGC,"Superior Group of Companies, Inc.",12,8,12,10,-1,-1,-1,10
+SGEN,Seagen Inc.,10,-1,12,10,-1,-1,-1,2
+SGH,"SMART Global Holdings, Inc.",8,-1,12,10,-1,-1,-1,5
+SGLB,,0,0,0,0,0,0,0,0
+SGMA,"SigmaTron International, Inc.",12,10,-1,4,-1,-1,-1,0
+SGMO,"Sangamo Therapeutics, Inc.",8,10,12,10,-1,-1,-1,5
+SGMS,,0,0,0,0,0,0,0,0
+SGOC,,0,0,0,0,0,0,0,0
+SGRP,"SPAR Group, Inc.",12,8,12,7,-1,-1,-1,5
+SGRY,"Surgery Partners, Inc.",6,-1,12,7,-1,-1,-1,5
+SGTX,"Sigilon Therapeutics, Inc.",0,0,0,0,0,0,0,2
+SHAC,,0,0,0,0,0,0,0,0
+SHACU,,0,0,0,0,0,0,0,0
+SHACW,,0,0,0,0,0,0,0,0
+SHBI,"Shore Bancshares, Inc.",12,8,0,0,0,-1,-1,5
+SHC,Sotera Health Company,6,-1,12,10,-1,-1,-1,5
+SHEN,Shenandoah Telecommunications Company,10,-1,-1,2,-1,-1,-1,2
+SHIP,Seanergy Maritime Holdings Corp.,0,0,0,0,0,0,0,5
+SHIPW,Seanergy Maritime Holdings Corp.,0,0,0,0,0,0,0,0
+SHLS,"Shoals Technologies Group, Inc.",8,-1,12,10,-1,-1,-1,5
+SHOO,"Steven Madden, Ltd.",10,-1,12,10,-1,-1,-1,5
+SHSP,,0,0,0,0,0,0,0,0
+SHYF,"The Shyft Group, Inc.",12,-1,10,7,-1,-1,-1,5
+SIBN,"SI-BONE, Inc.",12,-1,12,10,-1,-1,-1,5
+SIC,"Select Interior Concepts, Inc.",0,0,0,0,0,0,0,5
+SIEB,Siebert Financial Corp.,10,-1,10,4,-1,-1,-1,0
+SIEN,"Sientra, Inc.",-1,0,-1,4,0,-1,0,5
+SIFY,Sify Technologies Limited,12,12,0,0,-1,0,0,5
+SIGA,"SIGA Technologies, Inc.",6,-1,12,10,19,-1,-1,0
+SIGI,"Selective Insurance Group, Inc.",10,-1,-1,-1,-1,-1,-1,2
+SIGIP,"Selective Insurance Group, Inc.",12,10,-1,-1,-1,-1,-1,0
+SILC,Silicom Ltd.,12,8,12,10,-1,-1,-1,5
+SILK,"Silk Road Medical, Inc",12,-1,12,10,-1,-1,-1,5
+SIMO,Silicon Motion Technology Corporation,12,-1,12,10,0,-1,-1,5
+SINO,,0,0,0,0,0,0,0,0
+SINT,"Sintx Technologies, Inc.",12,12,12,10,-1,-1,-1,5
+SIOX,Sio Gene Therapies Inc.,12,8,12,10,0,-1,-1,10
+SIRI,Sirius XM Holdings Inc.,6,0,-1,-1,0,-1,0,2
+SITM,SiTime Corporation,10,-1,12,10,19,-1,-1,5
+SIVB,,0,0,0,0,0,0,0,0
+SIVBP,,0,0,0,0,0,0,0,0
+SJ,Scienjoy Holding Corporation,12,12,12,10,7,-1,-1,0
+SKYW,"SkyWest, Inc.",12,8,6,4,-1,-1,-1,2
+SLAB,Silicon Laboratories Inc.,12,-1,12,10,-1,-1,-1,5
+SLAMU,Slam Corp.,12,0,-1,-1,0,-1,0,0
+SLCR,,0,0,0,0,0,0,0,0
+SLCT,,0,0,0,0,0,0,0,0
+SLDB,Solid Biosciences Inc.,12,10,12,10,-1,-1,-1,2
+SLGG,"Super League Enterprise, Inc.",12,12,10,4,0,-1,-1,5
+SLGL,Sol-Gel Technologies Ltd.,12,8,12,10,19,-1,-1,10
+SLGN,Silgan Holdings Inc.,12,-1,-1,4,-1,-1,-1,5
+SLM,SLM Corporation,12,-1,10,4,-1,-1,-1,5
+SLMBP,SLM Corporation,12,-1,10,4,-1,-1,-1,0
+SLN,Silence Therapeutics plc,12,-1,12,10,-1,-1,-1,5
+SLNO,"Soleno Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+SLP,"Simulations Plus, Inc.",-1,-1,12,10,12,-1,-1,10
+SLRC,SLR Investment Corp.,12,8,10,4,-1,-1,-1,2
+SLRX,"Salarius Pharmaceuticals, Inc.",12,10,12,10,0,-1,-1,2
+SLS,"SELLAS Life Sciences Group, Inc.",8,-1,10,4,-1,-1,-1,5
+SMBC,"Southern Missouri Bancorp, Inc.",12,-1,0,0,0,-1,-1,5
+SMBK,"SmartFinancial, Inc.",10,8,0,0,0,-1,-1,5
+SMCI,"Super Micro Computer, Inc.",12,-1,10,10,-1,-1,-1,5
+SMED,,0,0,0,0,0,0,0,0
+SMID,Smith-Midland Corporation,12,-1,12,10,-1,-1,-1,0
+SMIT,"Schmitt Industries, Inc.",12,12,-1,-1,-1,-1,-1,0
+SMMF,"Summit Financial Group, Inc.",12,8,0,0,0,-1,-1,2
+SMMT,Summit Therapeutics Inc.,8,-1,12,10,-1,-1,-1,10
+SMPL,The Simply Good Foods Company,12,-1,12,10,-1,-1,-1,5
+SMSI,"Smith Micro Software, Inc.",12,-1,10,4,-1,-1,-1,5
+SMTC,Semtech Corporation,10,-1,10,7,-1,-1,-1,5
+SMTI,Sanara MedTech Inc.,8,-1,12,7,-1,-1,-1,5
+SNBR,Sleep Number Corporation,10,0,-1,-1,0,-1,0,2
+SNCA,,0,0,0,0,0,0,0,0
+SNCR,"Synchronoss Technologies, Inc.",4,-1,6,4,-1,-1,-1,5
+SNCY,"Sun Country Airlines Holdings, Inc.",12,-1,-1,2,-1,-1,-1,5
+SND,"Smart Sand, Inc.",12,10,-1,4,-1,-1,-1,2
+SNDL,SNDL Inc.,12,10,12,10,-1,-1,-1,10
+SNDX,"Syndax Pharmaceuticals, Inc.",8,-1,12,10,12,-1,-1,10
+SNES,"SenesTech, Inc.",12,10,12,10,-1,-1,-1,5
+SNEX,StoneX Group Inc.,12,-1,12,4,-1,-1,-1,0
+SNFCA,Security National Financial Corporation,12,8,12,10,-1,-1,-1,0
+SNGX,"Soligenix, Inc.",12,8,12,10,-1,-1,-1,5
+SNOA,"Sonoma Pharmaceuticals, Inc.",12,8,12,10,-1,-1,-1,10
+SNPS,"Synopsys, Inc.",12,-1,10,4,-1,-1,-1,5
+SNRH,Senior Connect Acquisition Corp. I,0,0,0,0,0,0,0,0
+SNRHU,Senior Connect Acquisition Corp. I,0,0,0,0,0,0,0,0
+SNRHW,Senior Connect Acquisition Corp. I,0,0,0,0,0,0,0,0
+SNSE,"Sensei Biotherapeutics, Inc.",10,10,12,10,-1,-1,-1,5
+SNY,Sanofi,12,-1,-1,4,-1,-1,-1,5
+SOHO,Sotherly Hotels Inc.,12,0,-1,4,-1,-1,-1,2
+SOHOB,Sotherly Hotels Inc.,12,0,-1,4,-1,-1,-1,0
+SOHON,Sotherly Hotels Inc.,12,0,-1,4,-1,-1,-1,0
+SOHOO,Sotherly Hotels Inc.,12,0,-1,4,-1,-1,-1,0
+SOHU,Sohu.com Limited,12,10,12,10,12,-1,-1,5
+SOLO,Electrameccanica Vehicles Corp.,10,8,12,10,-1,-1,-1,5
+SOLOW,Electrameccanica Vehicles Corp. WT EXP 080323,0,0,0,0,0,0,0,0
+SOLY,,0,0,0,0,0,0,0,0
+SONM,"Sonim Technologies, Inc.",12,-1,10,4,19,-1,-1,5
+SONN,"Sonnet BioTherapeutics Holdings, Inc.",12,-1,10,4,-1,-1,-1,5
+SONO,"Sonos, Inc.",10,-1,10,10,-1,-1,-1,5
+SP,SP Plus Corporation,12,-1,-1,-1,-1,-1,-1,0
+SPCB,SuperCom Ltd.,12,8,12,10,-1,-1,-1,5
+SPFI,"South Plains Financial, Inc.",12,-1,0,0,0,-1,-1,5
+SPI,"SPI Energy Co., Ltd.",12,-1,-1,-1,-1,-1,-1,0
+SPKE,,0,0,0,0,0,0,0,0
+SPLK,Splunk Inc.,12,0,12,4,0,-1,0,2
+SPNE,,0,0,0,0,0,0,0,0
+SPNS,Sapiens International Corporation N.V.,12,-1,12,10,-1,-1,-1,2
+SPOK,"Spok Holdings, Inc.",12,-1,10,4,-1,-1,-1,5
+SPPI,"Spectrum Pharmaceuticals, Inc.",0,0,0,0,0,0,0,2
+SPRB,"Spruce Biosciences, Inc.",12,8,12,10,-1,-1,-1,10
+SPRO,"Spero Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+SPRT,,0,0,0,0,0,0,0,0
+SPSC,"SPS Commerce, Inc.",10,-1,12,10,-1,-1,-1,5
+SPT,"Sprout Social, Inc.",4,-1,12,7,-1,-1,-1,5
+SPTN,SpartanNash Company,12,8,-1,7,-1,-1,-1,5
+SPWH,"Sportsman's Warehouse Holdings, Inc.",12,8,-1,4,-1,-1,-1,5
+SPWR,SunPower Corporation,10,-1,-1,7,-1,-1,-1,2
+SQBG,,0,0,0,0,0,0,0,0
+SQFT,"Presidio Property Trust, Inc.",12,12,-1,2,-1,-1,-1,2
+SRAC,,0,0,0,0,0,0,0,0
+SRAX,"SRAX, Inc.",10,-1,-1,-1,-1,-1,-1,5
+SRCE,1st Source Corporation,12,-1,0,0,0,-1,-1,2
+SRCL,"Stericycle, Inc.",12,-1,-1,2,-1,-1,-1,2
+SRDX,"Surmodics, Inc.",12,-1,12,10,-1,-1,-1,10
+SREV,,0,0,0,0,0,0,0,0
+SRNE,,0,0,0,0,0,0,0,0
+SRPT,"Sarepta Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+SRRA,,0,0,0,0,0,0,0,0
+SRRK,Scholar Rock Holding Corporation,6,-1,12,10,-1,-1,-1,5
+SRTS,"Sensus Healthcare, Inc.",12,8,12,10,7,-1,-1,5
+SSB,SouthState Corporation,6,8,0,0,0,-1,-1,5
+SSBI,Summit State Bank,12,-1,0,0,0,-1,-1,0
+SSKN,"STRATA Skin Sciences, Inc.",12,-1,6,7,-1,-1,-1,10
+SSNC,"SS&C Technologies Holdings, Inc.",12,-1,6,4,-1,-1,-1,5
+SSNT,"SilverSun Technologies, Inc.",10,-1,10,4,-1,-1,-1,5
+SSP,The E.W. Scripps Company,10,10,12,7,-1,-1,-1,2
+SSPK,,0,0,0,0,0,0,0,0
+SSRM,SSR Mining Inc.,10,8,12,10,-1,-1,-1,5
+SSSS,SuRo Capital Corp.,12,10,12,10,-1,-1,-1,10
+SSTI,"SoundThinking, Inc.",12,-1,-1,-1,-1,-1,-1,5
+SSYS,Stratasys Ltd.,12,8,12,10,4,-1,-1,5
+STAA,STAAR Surgical Company,10,-1,12,10,-1,-1,-1,5
+STAF,"Staffing 360 Solutions, Inc.",12,12,-1,-1,-1,-1,-1,5
+STAY,,0,0,0,0,0,0,0,0
+STBA,"S&T Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+STCN,"Steel Connect, Inc.",12,0,12,4,-1,-1,-1,0
+STEP,StepStone Group LP,12,-1,10,4,-1,-1,-1,2
+STFC,,0,0,0,0,0,0,0,0
+STIM,"Neuronetics, Inc.",12,8,12,10,-1,-1,-1,5
+STKL,SunOpta Inc.,10,-1,-1,7,-1,-1,-1,10
+STKS,"The ONE Group Hospitality, Inc.",-1,-1,10,4,-1,-1,-1,5
+STLD,"Steel Dynamics, Inc.",12,-1,12,10,-1,-1,-1,2
+STMP,,0,0,0,0,0,0,0,0
+STND,,0,0,0,0,0,0,0,0
+STNE,StoneCo Ltd.,12,12,10,4,-1,-1,-1,2
+STOK,"Stoke Therapeutics, Inc.",-1,8,12,10,4,-1,-1,5
+STRA,"Strategic Education, Inc.",10,-1,10,4,-1,-1,-1,5
+STRL,"Sterling Infrastructure, Inc.",12,-1,10,4,-1,-1,-1,5
+STRM,"Streamline Health Solutions, Inc.",12,-1,-1,-1,-1,-1,-1,5
+STRO,"Sutro Biopharma, Inc.",10,-1,12,10,-1,-1,-1,5
+STRR,"Star Equity Holdings, Inc.",12,10,12,10,-1,-1,-1,5
+STRRP,"Star Equity Holdings, Inc.",12,-1,12,10,-1,-1,-1,0
+STRS,Stratus Properties Inc.,6,-1,-1,10,-1,-1,-1,0
+STRT,Strattec Security Corporation,12,10,10,10,-1,-1,-1,0
+STSA,,0,0,0,0,0,0,0,0
+STTK,"Shattuck Labs, Inc.",2,10,12,10,-1,-1,-1,5
+STX,Seagate Technology Holdings plc,10,0,-1,4,0,-1,0,2
+STXB,,0,0,0,0,0,0,0,0
+SUMO,,0,0,0,0,0,0,0,0
+SUMR,,0,0,0,0,0,0,0,0
+SUNS,,0,0,0,0,0,0,0,0
+SUNW,"Sunworks, Inc.",12,10,6,4,-1,-1,-1,5
+SUPN,"Supernus Pharmaceuticals, Inc.",8,-1,10,7,-1,-1,-1,5
+SURF,"Surface Oncology, Inc.",12,-1,12,10,-1,-1,-1,2
+SV,,0,0,0,0,0,0,0,0
+SVBI,,0,0,0,0,0,0,0,0
+SVC,Service Properties Trust,8,8,6,4,-1,-1,-1,2
+SVFC,,0,0,0,0,0,0,0,0
+SVMK,,0,0,0,0,0,0,0,0
+SVRA,Savara Inc.,10,-1,12,10,-1,-1,-1,5
+SVVC,"Firsthand Technology Value Fund, Inc.",12,10,-1,-1,0,-1,-1,0
+SWAV,"Shockwave Medical, Inc.",12,-1,12,10,-1,-1,-1,5
+SWBI,"Smith & Wesson Brands, Inc.",12,-1,6,10,-1,-1,-1,5
+SWIR,,0,0,0,0,0,0,0,0
+SWKH,SWK Holdings Corporation,10,8,12,10,0,-1,-1,5
+SWKS,"Skyworks Solutions, Inc.",12,-1,12,10,-1,-1,-1,5
+SWTX,"SpringWorks Therapeutics, Inc.",-1,-1,12,10,7,-1,-1,5
+SXTC,"China SXT Pharmaceuticals, Inc.",12,12,12,4,-1,-1,-1,0
+SY,So-Young International Inc.,12,12,12,10,4,-1,-1,10
+SYBT,"Stock Yards Bancorp, Inc.",-1,-1,0,0,0,-1,-1,2
+SYBX,"Synlogic, Inc.",12,-1,12,10,-1,-1,-1,5
+SYKE,,0,0,0,0,0,0,0,0
+SYNA,Synaptics Incorporated,12,-1,12,10,-1,-1,-1,5
+SYNH,"Syneos Health, Inc.",10,-1,10,4,-1,-1,-1,2
+SYNL,,0,0,0,0,0,0,0,0
+SYPR,"Sypris Solutions, Inc.",2,-1,-1,4,-1,-1,-1,2
+SYRS,"Syros Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,5
+SYTA,Siyata Mobile Inc.,12,10,10,7,-1,-1,-1,5
+SYTAW,Siyata Mobile Inc.,0,0,0,0,0,0,0,0
+TA,,0,0,0,0,0,0,0,0
+TACO,"Del Taco Restaurants, Inc.",0,0,0,0,0,0,0,2
+TACT,TransAct Technologies Incorporated,12,-1,12,10,-1,-1,-1,5
+TAIT,Taitron Components Incorporated,12,-1,12,10,0,-1,-1,0
+TANH,Tantech Holdings Ltd,12,12,12,10,-1,-1,-1,0
+TAOP,Taoping Inc.,12,10,-1,4,-1,-1,-1,5
+TARA,"Protara Therapeutics, Inc.",12,12,12,10,-1,-1,-1,10
+TARS,"Tarsus Pharmaceuticals, Inc.",6,-1,12,10,-1,-1,-1,10
+TAST,"Carrols Restaurant Group, Inc.",12,-1,-1,-1,-1,-1,-1,10
+TATT,TAT Technologies Ltd.,12,8,6,10,-1,-1,-1,0
+TAYD,"Taylor Devices, Inc.",12,-1,12,10,0,-1,-1,0
+TBBK,"The Bancorp, Inc.",8,-1,0,0,0,-1,-1,5
+TBCP,Thunder Bridge Capital Partners III Inc.,12,0,-1,-1,0,-1,0,0
+TBCPU,Thunder Bridge Capital Partners III Inc.,-1,0,-1,-1,0,-1,0,0
+TBCPW,Thunder Bridge Capital Partners III Inc.,0,0,0,0,0,0,0,0
+TBIO,"Telesis Bio, Inc.",10,-1,12,10,-1,-1,-1,5
+TBK,,0,0,0,0,0,0,0,0
+TBLT,"ToughBuilt Industries, Inc.",12,10,-1,2,-1,-1,-1,5
+TBLTW,"ToughBuilt Industries, Inc. WT EXP 110923",0,0,0,0,0,0,0,0
+TBNK,Territorial Bancorp Inc.,12,10,0,0,0,-1,-1,2
+TBPH,"Theravance Biopharma, Inc.",-1,-1,12,10,-1,-1,0,5
+TC,TuanChe Limited,12,12,12,7,-1,-1,-1,2
+TCACW,,0,0,0,0,0,0,0,0
+TCBI,"Texas Capital Bancshares, Inc.",12,-1,0,0,0,-1,-1,2
+TCBIL,,0,0,0,0,0,0,0,0
+TCBIO,"Texas Capital Bancshares, Inc.",12,10,0,0,0,-1,-1,0
+TCBIP,,0,0,0,0,0,0,0,0
+TCBK,TriCo Bancshares,10,8,0,0,0,-1,-1,5
+TCDA,,0,0,0,0,0,0,0,0
+TCF,,0,0,0,0,0,0,0,0
+TCFCP,,0,0,0,0,0,0,0,0
+TCMD,"Tactile Systems Technology, Inc.",12,-1,12,10,-1,-1,-1,10
+TCOM,Trip.com Group Limited,12,12,6,4,-1,-1,-1,5
+TCON,"TRACON Pharmaceuticals, Inc.",12,0,-1,-1,0,-1,0,5
+TCPC,BlackRock TCP Capital Corp.,12,8,12,10,-1,-1,-1,5
+TCRR,,0,0,0,0,0,0,0,0
+TCX,Tucows Inc.,-1,-1,6,7,-1,-1,-1,2
+TDAC,,0,0,0,0,0,0,0,0
+TDACU,,0,0,0,0,0,0,0,0
+TDUP,ThredUp Inc.,6,-1,6,4,-1,-1,-1,5
+TEAM,Atlassian Corporation,12,-1,12,4,-1,-1,-1,0
+TECH,Bio-Techne Corporation,12,-1,12,10,-1,-1,-1,5
+TECTP,"Tectonic Financial, Inc.",12,8,0,0,0,-1,-1,0
+TEDU,"Tarena International, Inc.",10,0,-1,-1,0,-1,0,5
+TEKK,,0,0,0,0,0,0,0,0
+TEKKU,,0,0,0,0,0,0,0,0
+TELA,"TELA Bio, Inc.",8,-1,12,10,-1,-1,-1,5
+TELL,Tellurian Inc.,8,-1,6,4,-1,-1,-1,2
+TENB,"Tenable Holdings, Inc.",12,-1,12,7,-1,-1,-1,5
+TENX,"Tenax Therapeutics, Inc.",12,8,12,10,-1,-1,-1,5
+TER,"Teradyne, Inc.",12,-1,12,10,-1,-1,-1,5
+TERN,"Terns Pharmaceuticals, Inc.",6,-1,12,10,12,-1,-1,5
+TFFP,"TFF Pharmaceuticals, Inc.",12,-1,12,10,19,-1,-1,5
+TFSL,TFS Financial Corporation,6,-1,0,0,0,-1,-1,5
+TGA,,0,0,0,0,0,0,0,0
+TGLS,Tecnoglass Inc.,12,-1,12,10,-1,-1,-1,10
+TGTX,"TG Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+TH,Target Hospitality Corp.,6,-1,-1,-1,-1,-1,-1,10
+THBR,,0,0,0,0,0,0,0,0
+THCA,,0,0,0,0,0,0,0,0
+THCAW,,0,0,0,0,0,0,0,0
+THCBU,,0,0,0,0,0,0,0,0
+THCBW,,0,0,0,0,0,0,0,0
+THFF,First Financial Corporation,12,8,0,0,0,-1,-1,2
+THMAW,,0,0,0,0,0,0,0,0
+THMO,"ThermoGenesis Holdings, Inc.",12,8,-1,2,-1,-1,-1,0
+THRM,Gentherm Incorporated,10,-1,12,10,-1,-1,-1,5
+THRY,"Thryv Holdings, Inc.",6,-1,10,4,-1,-1,-1,5
+THTX,Theratechnologies Inc.,12,0,-1,-1,0,-1,0,5
+THWWW,Target Hospitality Corp.,0,0,0,0,0,0,0,0
+TIG,,0,0,0,0,0,0,0,0
+TIGO,Millicom International Cellular S.A.,10,8,-1,2,-1,-1,-1,5
+TIGR,UP Fintech Holding Limited,12,-1,10,4,-1,-1,-1,5
+TIL,"Instil Bio, Inc.",12,12,12,10,-1,-1,-1,5
+TILE,"Interface, Inc.",12,-1,12,10,-1,-1,-1,5
+TIPT,Tiptree Inc.,12,-1,-1,2,-1,-1,-1,0
+TIRX,Tian Ruixiang Holdings Ltd,12,12,12,10,12,-1,-1,0
+TITN,Titan Machinery Inc.,12,-1,-1,4,-1,-1,-1,5
+TLC,,0,0,0,0,0,0,0,0
+TLGT,,0,0,0,0,0,0,0,0
+TLIS,Talis Biomedical Corporation,12,12,12,10,-1,-1,-1,0
+TLMD,,0,0,0,0,0,0,0,0
+TLMDW,,0,0,0,0,0,0,0,0
+TLND,,0,0,0,0,0,0,0,0
+TLRY,"Tilray Brands, Inc.",12,10,10,7,-1,-1,-1,2
+TLS,Telos Corporation,12,8,12,10,-1,-1,-1,5
+TLSA,Tiziana Life Sciences Ltd,12,-1,12,10,7,-1,-1,5
+TMDI,,0,0,0,0,0,0,0,0
+TMDX,"TransMedics Group, Inc.",10,-1,12,10,-1,-1,-1,5
+TMKR,Priveterra Acquisition Corp. II,12,0,0,0,0,0,0,0
+TMKRU,Priveterra Acquisition Corp. II,12,0,-1,-1,0,-1,0,0
+TMKRW,Tastemaker Acquisition Corp.,0,0,0,0,0,0,0,0
+TMTS,,0,0,0,0,0,0,0,0
+TMTSW,,0,0,0,0,0,0,0,0
+TMUS,"T-Mobile US, Inc.",10,-1,-1,2,-1,-1,-1,5
+TNDM,"Tandem Diabetes Care, Inc.",10,-1,12,10,-1,-1,-1,5
+TNXP,Tonix Pharmaceuticals Holding Corp.,12,12,12,10,12,-1,-1,5
+TOMZ,"TOMI Environmental Solutions, Inc.",12,-1,12,10,-1,-1,-1,5
+TOPS,Top Ships Inc.,12,-1,-1,-1,-1,-1,-1,5
+TOUR,Tuniu Corporation,10,12,10,4,-1,-1,-1,10
+TOWN,TowneBank,12,8,0,0,0,-1,-1,2
+TPCO,,0,0,0,0,0,0,0,0
+TPIC,"TPI Composites, Inc.",10,0,12,7,-1,-1,-1,5
+TPTX,,0,0,0,0,0,0,0,0
+TRCH,,0,0,0,0,0,0,0,0
+TREE,"LendingTree, Inc.",12,8,12,10,-1,-1,-1,5
+TRHC,"Tabula Rasa HealthCare, Inc.",12,0,10,7,0,-1,0,2
+TRIB,Trinity Biotech plc,12,0,10,10,0,-1,0,0
+TRIL,,0,0,0,0,0,0,0,0
+TRIN,Trinity Capital Inc.,12,-1,6,2,-1,-1,-1,5
+TRIP,"Tripadvisor, Inc.",12,-1,12,7,-1,-1,-1,2
+TRIT,,0,0,0,0,0,0,0,0
+TRITW,,0,0,0,0,0,0,0,0
+TRMB,Trimble Inc.,12,-1,-1,4,-1,-1,-1,5
+TRMD,TORM plc,12,-1,12,7,-1,-1,-1,10
+TRMK,Trustmark Corporation,10,8,0,0,0,-1,-1,2
+TRMT,,0,0,0,0,0,0,0,0
+TRNS,"Transcat, Inc.",12,-1,12,10,-1,-1,-1,5
+TROW,"T. Rowe Price Group, Inc.",4,-1,12,7,-1,-1,-1,2
+TRS,TriMas Corporation,12,-1,12,10,-1,-1,-1,5
+TRST,TrustCo Bank Corp NY,12,8,0,0,0,-1,-1,0
+TRUE,"TrueCar, Inc.",12,-1,12,10,-1,-1,-1,2
+TRUP,"Trupanion, Inc.",-1,-1,12,7,-1,-1,-1,5
+TRVG,trivago N.V.,12,8,12,10,-1,-1,-1,2
+TRVI,"Trevi Therapeutics, Inc.",-1,-1,12,10,7,-1,-1,10
+TRVN,"Trevena, Inc.",12,8,12,10,-1,-1,-1,5
+TSBK,"Timberland Bancorp, Inc.",8,8,0,0,0,-1,-1,0
+TSC,,0,0,0,0,0,0,0,0
+TSCBP,,0,0,0,0,0,0,0,0
+TSCO,Tractor Supply Company,8,-1,-1,7,-1,-1,-1,5
+TSEM,Tower Semiconductor Ltd.,12,-1,12,10,-1,-1,-1,5
+TSHA,"Taysha Gene Therapies, Inc.",12,0,6,4,0,-1,0,5
+TSIA,,0,0,0,0,0,0,0,0
+TSIBU,Tishman Speyer Innovation Corp. II,0,0,0,0,0,0,0,0
+TSLA,"Tesla, Inc.",12,-1,6,7,-1,-1,-1,2
+TSRI,"TSR, Inc.",12,-1,12,10,-1,-1,-1,0
+TTD,"The Trade Desk, Inc.",12,-1,12,7,-1,-1,-1,5
+TTEC,"TTEC Holdings, Inc.",10,-1,12,7,-1,-1,-1,5
+TTEK,"Tetra Tech, Inc.",12,-1,10,4,-1,-1,-1,5
+TTGT,"TechTarget, Inc.",12,-1,12,10,-1,-1,-1,2
+TTMI,"TTM Technologies, Inc.",12,8,12,10,-1,-1,-1,5
+TTNP,"Titan Pharmaceuticals, Inc.",12,0,-1,-1,0,-1,-1,2
+TTOO,"T2 Biosystems, Inc.",12,0,-1,-1,0,-1,0,2
+TTWO,"Take-Two Interactive Software, Inc.",12,-1,-1,2,-1,-1,-1,5
+TURN,180 Degree Capital Corp.,12,8,12,10,12,-1,-1,0
+TUSK,"Mammoth Energy Services, Inc.",10,10,12,10,-1,-1,-1,10
+TVAC,,0,0,0,0,0,0,0,0
+TVACU,,0,0,0,0,0,0,0,0
+TVACW,,0,0,0,0,0,0,0,0
+TVTX,"Travere Therapeutics, Inc.",8,-1,12,10,-1,-1,-1,5
+TVTY,,0,0,0,0,0,0,0,0
+TW,Tradeweb Markets Inc.,12,-1,12,10,12,-1,-1,5
+TWCT,,0,0,0,0,0,0,0,0
+TWCTU,,0,0,0,0,0,0,0,0
+TWCTW,,0,0,0,0,0,0,0,0
+TWIN,"Twin Disc, Incorporated",12,-1,-1,10,-1,-1,-1,2
+TWLVU,Twelve Seas Investment Company II,12,0,-1,-1,0,-1,0,0
+TWNK,"Hostess Brands, Inc.",12,-1,12,7,-1,-1,-1,2
+TWNKW,"Hostess Brands, Inc.",0,0,0,0,0,0,0,0
+TWOU,"2U, Inc.",10,8,-1,2,-1,-1,-1,5
+TWST,Twist Bioscience Corporation,4,-1,12,10,-1,-1,-1,5
+TXG,"10x Genomics, Inc.",10,-1,12,10,-1,-1,-1,5
+TXMD,"TherapeuticsMD, Inc.",2,8,10,4,-1,-1,11,2
+TXN,Texas Instruments Incorporated,12,-1,12,10,-1,-1,-1,2
+TXRH,"Texas Roadhouse, Inc.",12,-1,-1,-1,-1,-1,-1,5
+TYME,,0,0,0,0,0,0,0,0
+TZOO,Travelzoo,12,-1,6,2,-1,-1,2,5
+TZPS,,0,0,0,0,0,0,0,0
+TZPSU,,0,0,0,0,0,0,0,0
+UAL,"United Airlines Holdings, Inc.",12,-1,6,2,-1,-1,-1,5
+UBCP,"United Bancorp, Inc.",12,-1,0,0,0,-1,-1,5
+UBFO,United Security Bancshares,12,-1,0,0,0,-1,-1,0
+UBOH,"United Bancshares, Inc.",12,8,0,0,0,-1,-1,0
+UBSI,"United Bankshares, Inc.",12,8,0,0,0,-1,-1,2
+UBX,"Unity Biotechnology, Inc.",4,8,12,10,-1,-1,-1,5
+UCBI,"United Community Banks, Inc.",8,8,0,0,0,-1,-1,5
+UCBIO,"United Community Banks, Inc.",12,8,0,0,0,-1,-1,0
+UCL,uCloudlink Group Inc.,12,-1,10,4,-1,-1,-1,5
+UCTT,"Ultra Clean Holdings, Inc.",12,-1,12,10,-1,-1,-1,5
+UEIC,Universal Electronics Inc.,12,8,6,7,-1,-1,-1,5
+UEPS,,0,0,0,0,0,0,0,0
+UFCS,"United Fire Group, Inc.",12,8,-1,-1,-1,-1,-1,2
+UFPI,"UFP Industries, Inc.",12,-1,12,10,-1,-1,-1,5
+UFPT,"UFP Technologies, Inc.",12,-1,12,10,-1,-1,-1,10
+UG,"United-Guardian, Inc.",12,-1,12,10,0,-1,-1,0
+UGRO,"urban-gro, Inc.",12,8,6,4,-1,-1,-1,5
+UHAL,U-Haul Holding Company,2,-1,12,10,-1,-1,-1,2
+UIHC,United Insurance Holdings Corp.,0,0,0,0,0,0,0,2
+UK,Ucommune International Ltd,12,12,-1,-1,-1,-1,-1,0
+UKOMW,Ucommune International Ltd,0,0,0,0,0,0,0,0
+ULBI,Ultralife Corporation,12,-1,12,10,-1,-1,-1,5
+ULCC,"Frontier Group Holdings, Inc.",12,-1,-1,-1,-1,-1,-1,5
+ULH,"Universal Logistics Holdings, Inc.",12,-1,12,7,-1,-1,-1,2
+ULTA,"Ulta Beauty, Inc.",12,-1,-1,7,-1,-1,-1,5
+UMBF,UMB Financial Corporation,12,-1,0,0,0,-1,-1,2
+UMPQ,,0,0,0,0,0,0,0,0
+UNAM,Unico American Corporation,12,12,-1,-1,0,-1,-1,0
+UNB,"Union Bankshares, Inc.",12,-1,0,0,0,-1,-1,0
+UNIT,Uniti Group Inc.,8,0,-1,-1,0,-1,0,2
+UNTY,"Unity Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+UONE,"Urban One, Inc.",12,8,12,10,-1,-1,-1,0
+UONEK,"Urban One, Inc.",8,8,12,10,-1,-1,-1,0
+UPC,Universe Pharmaceuticals INC,12,12,12,10,-1,-1,-1,0
+UPLD,"Upland Software, Inc.",12,8,12,10,-1,-1,-1,5
+UPST,"Upstart Holdings, Inc.",12,-1,12,10,-1,-1,-1,0
+UPWK,Upwork Inc.,12,-1,12,10,-1,-1,-1,5
+URBN,"Urban Outfitters, Inc.",12,-1,-1,4,-1,-1,-1,2
+URGN,UroGen Pharma Ltd.,12,0,12,10,0,-1,0,5
+USAK,,0,0,0,0,0,0,0,0
+USAP,"Universal Stainless & Alloy Products, Inc.",12,8,6,10,-1,-1,-1,5
+USAT,,0,0,0,0,0,0,0,0
+USAU,U.S. Gold Corp.,12,-1,12,10,12,-1,-1,5
+USCR,,0,0,0,0,0,0,0,0
+USEG,U.S. Energy Corp.,12,10,-1,-1,-1,-1,-1,5
+USIO,"Usio, Inc.",12,-1,-1,4,-1,-1,-1,5
+USLM,"United States Lime & Minerals, Inc.",12,-1,12,10,7,-1,-1,0
+USWS,,0,0,0,0,0,0,0,0
+UTHR,United Therapeutics Corporation,12,-1,12,10,-1,-1,-1,5
+UTMD,"Utah Medical Products, Inc.",12,-1,12,10,12,-1,-1,0
+UTME,UTime Limited,12,12,-1,2,-1,-1,-1,0
+UTSI,UTStarcom Holdings Corp.,12,8,12,10,-1,-1,-1,0
+UVSP,Univest Financial Corporation,12,8,0,0,0,-1,-1,2
+UXIN,Uxin Limited,6,0,-1,-1,0,-1,0,2
+VABK,Virginia National Bankshares Corporation,8,-1,0,0,0,-1,-1,0
+VACQ,,0,0,0,0,0,0,0,0
+VACQW,,0,0,0,0,0,0,0,0
+VALU,"Value Line, Inc.",12,-1,12,10,-1,-1,-1,0
+VAQC,Vector Acquisition Corporation II,12,0,-1,-1,0,-1,0,0
+VBFC,Village Bank and Trust Financial Corp.,12,-1,0,0,0,-1,-1,0
+VBIV,VBI Vaccines Inc.,12,8,6,4,-1,-1,-1,10
+VBLT,Vascular Biogenics Ltd.,12,8,12,10,0,-1,-1,2
+VBTX,"Veritex Holdings, Inc.",8,8,0,0,0,-1,-1,5
+VC,Visteon Corporation,12,-1,12,7,-1,-1,-1,5
+VCEL,Vericel Corporation,2,-1,12,10,-1,-1,-1,5
+VCNX,"Vaccinex, Inc.",12,0,-1,2,0,-1,-1,10
+VCTR,"Victory Capital Holdings, Inc.",12,-1,12,7,-1,-1,-1,5
+VCVC,,0,0,0,0,0,0,0,0
+VCVCW,,0,0,0,0,0,0,0,0
+VCYT,"Veracyte, Inc.",10,-1,12,10,19,-1,-1,5
+VECO,Veeco Instruments Inc.,6,-1,12,10,-1,-1,-1,5
+VELOU,,0,0,0,0,0,0,0,0
+VENAU,,0,0,0,0,0,0,0,0
+VEON,VEON Ltd.,12,-1,-1,2,-1,-1,-1,2
+VERB,"Verb Technology Company, Inc.",12,0,-1,-1,0,-1,-1,5
+VERBW,"Verb Technology Company, Inc.",0,0,0,0,0,0,0,0
+VERI,"Veritone, Inc.",8,-1,6,2,-1,-1,-1,2
+VERO,Venus Concept Inc.,6,0,12,10,0,-1,-1,5
+VERU,Veru Inc.,-1,-1,6,7,-1,-1,-1,5
+VERX,"Vertex, Inc.",12,-1,-1,-1,-1,-1,-1,5
+VERY,"Vericity, Inc.",12,8,12,10,-1,-1,-1,0
+VFF,"Village Farms International, Inc.",12,10,6,10,-1,-1,-1,5
+VG,,0,0,0,0,0,0,0,0
+VIAC,,0,0,0,0,0,0,0,0
+VIACA,,0,0,0,0,0,0,0,0
+VIAV,Viavi Solutions Inc.,12,-1,12,10,-1,-1,-1,5
+VICR,Vicor Corporation,6,-1,12,10,7,-1,-1,5
+VIEW,"View, Inc.",12,12,12,10,-1,-1,-1,2
+VIEWW,"View, Inc.",0,12,12,10,-1,-1,-1,0
+VIH,,0,0,0,0,0,0,0,0
+VIHAU,,0,0,0,0,0,0,0,0
+VIHAW,,0,0,0,0,0,0,0,0
+VII,7GC & Co. Holdings Inc.,12,0,-1,-1,0,-1,0,0
+VIIAU,7GC & Co. Holdings Inc.,10,0,-1,-1,0,-1,0,0
+VIIAW,7GC & Co. Holdings Inc.,0,0,0,0,0,0,0,0
+VINC,"Vincerx Pharma, Inc.",12,8,12,10,-1,-1,-1,5
+VINCW,"Vincerx Pharma, Inc.",0,0,0,0,0,0,0,0
+VINO,"Gaucho Group Holdings, Inc.",12,12,-1,-1,-1,-1,-1,0
+VINP,Vinci Partners Investments Ltd.,12,10,12,10,-1,-1,-1,5
+VIOT,"Viomi Technology Co., Ltd",12,12,10,7,-1,-1,-1,2
+VIR,"Vir Biotechnology, Inc.",12,8,12,10,-1,-1,-1,5
+VIRC,Virco Mfg. Corporation,12,-1,6,7,-1,-1,-1,0
+VIRI,"Virios Therapeutics, Inc.",12,-1,12,10,0,-1,-1,2
+VIRT,"Virtu Financial, Inc.",12,-1,10,4,-1,-1,-1,5
+VIRX,"Viracta Therapeutics, Inc.",8,-1,12,10,-1,-1,-1,10
+VISL,"Vislink Technologies, Inc.",4,12,12,10,-1,-1,-1,0
+VITL,"Vital Farms, Inc.",12,-1,12,10,-1,-1,-1,5
+VIVE,"Viveve Medical, Inc.",12,12,-1,2,-1,-1,-1,5
+VIVO,,0,0,0,0,0,0,0,0
+VJET,voxeljet AG,12,8,10,10,-1,-1,-1,5
+VKTX,"Viking Therapeutics, Inc.",8,-1,12,10,12,-1,-1,10
+VLDR,,0,0,0,0,0,0,0,0
+VLGEA,"Village Super Market, Inc.",2,8,6,4,-1,-1,-1,0
+VLON,,0,0,0,0,0,0,0,0
+VLY,Valley National Bancorp,8,8,0,0,0,-1,-1,5
+VLYPO,Valley National Bancorp,2,-1,0,0,0,-1,-1,0
+VLYPP,Valley National Bancorp,-1,-1,0,0,0,-1,-1,0
+VMAC,,0,0,0,0,0,0,0,0
+VMAR,Vision Marine Technologies Inc.,12,-1,-1,7,-1,-1,-1,5
+VMD,"Viemed Healthcare, Inc.",12,-1,6,4,-1,-1,-1,5
+VNDA,Vanda Pharmaceuticals Inc.,12,10,12,10,7,-1,-1,2
+VNET,"VNET Group, Inc.",12,12,-1,-1,-1,-1,-1,5
+VNOM,Viper Energy Partners LP,12,-1,12,10,-1,-1,-1,5
+VOD,Vodafone Group Public Limited Company,12,8,6,2,-1,-1,-1,10
+VOR,Vor Biopharma Inc.,-1,8,12,10,-1,-1,-1,10
+VOXX,VOXX International Corporation,8,8,-1,7,-1,-1,-1,5
+VRA,"Vera Bradley, Inc.",12,8,10,10,-1,-1,-1,5
+VRCA,Verrica Pharmaceuticals Inc.,-1,-1,12,10,4,-1,-1,5
+VRDN,"Viridian Therapeutics, Inc.",2,-1,12,10,4,-1,-1,10
+VREX,Varex Imaging Corporation,6,-1,12,10,-1,-1,-1,5
+VRM,"Vroom, Inc.",10,10,6,4,-1,-1,-1,2
+VRME,"VerifyMe, Inc.",12,8,12,4,-1,-1,-1,10
+VRMEW,"VerifyMe, Inc.",0,0,0,0,0,0,0,0
+VRNA,Verona Pharma plc,2,-1,12,10,-1,-1,-1,10
+VRNS,"Varonis Systems, Inc.",10,-1,12,10,-1,-1,-1,5
+VRNT,Verint Systems Inc.,12,-1,10,4,-1,-1,-1,5
+VRPX,"Virpax Pharmaceuticals, Inc.",12,8,12,10,0,-1,-1,5
+VRRM,Verra Mobility Corporation,12,-1,12,10,-1,-1,-1,5
+VRSK,"Verisk Analytics, Inc.",10,-1,6,4,-1,-1,-1,5
+VRSN,"VeriSign, Inc.",12,0,6,2,0,-1,0,5
+VRTS,"Virtus Investment Partners, Inc.",12,-1,12,10,-1,-1,-1,2
+VRTX,Vertex Pharmaceuticals Incorporated,12,-1,12,10,-1,-1,-1,5
+VS,Versus Systems Inc.,12,12,12,7,-1,-1,-1,2
+VSAT,"Viasat, Inc.",10,10,12,10,-1,-1,-1,5
+VSEC,VSE Corporation,12,-1,-1,10,-1,-1,-1,5
+VSSYW,Versus Systems Inc.,0,0,0,0,0,0,0,0
+VSTA,Vasta Platform Limited,10,12,12,7,-1,-1,-1,2
+VSTM,"Verastem, Inc.",12,-1,12,10,-1,-1,-1,5
+VTGN,"Vistagen Therapeutics, Inc.",12,-1,12,10,-1,-1,-1,5
+VTNR,"Vertex Energy, Inc.",10,-1,-1,4,-1,-1,-1,5
+VTRS,Viatris Inc.,12,8,-1,4,-1,-1,-1,2
+VTRU,Vitru Limited,12,12,-1,-1,-1,-1,-1,5
+VTSI,"VirTra, Inc.",12,-1,12,10,-1,-1,-1,5
+VTVT,vTv Therapeutics Inc.,6,0,12,7,0,-1,-1,5
+VUZI,Vuzix Corporation,-1,-1,12,10,12,-1,-1,5
+VVOS,"Vivos Therapeutics, Inc.",12,-1,-1,-1,-1,-1,-1,5
+VVPR,VivoPower International PLC,12,8,-1,-1,-1,-1,-1,5
+VWTR,"Vidler Water Resources, Inc.",0,0,0,0,0,0,0,0
+VXRT,"Vaxart, Inc.",2,-1,12,10,-1,-1,-1,5
+VYGR,"Voyager Therapeutics, Inc.",10,-1,12,10,-1,-1,-1,5
+VYNE,VYNE Therapeutics Inc.,10,8,12,10,0,-1,-1,5
+VYNT,"Vyant Bio, Inc.",12,10,12,10,-1,-1,-1,5
+WABC,Westamerica Bancorporation,12,-1,0,0,0,-1,-1,2
+WAFD,"Washington Federal, Inc.",10,8,0,0,0,-1,-1,5
+WAFDP,"Washington Federal, Inc.",12,10,0,0,0,-1,-1,0
+WAFU,Wah Fu Education Group Limited,12,8,12,10,-1,-1,-1,0
+WASH,"Washington Trust Bancorp, Inc.",10,8,0,0,0,-1,-1,2
+WATT,Energous Corporation,12,10,12,10,-1,-1,-1,10
+WB,Weibo Corporation,12,8,12,10,-1,-1,-1,5
+WBA,"Walgreens Boots Alliance, Inc.",12,8,-1,-1,-1,-1,-1,2
+WDAY,"Workday, Inc.",12,-1,12,10,-1,-1,-1,5
+WDC,Western Digital Corporation,12,-1,-1,4,-1,-1,-1,5
+WDFC,WD-40 Company,4,-1,12,10,-1,-1,-1,2
+WEN,The Wendy's Company,12,-1,12,10,-1,-1,-1,5
+WERN,"Werner Enterprises, Inc.",12,-1,12,7,-1,-1,-1,5
+WETF,,0,0,0,0,0,0,0,0
+WEYS,"Weyco Group, Inc.",12,-1,12,10,-1,-1,-1,0
+WHF,"WhiteHorse Finance, Inc.",12,8,-1,2,-1,-1,-1,5
+WHFBZ,,0,0,0,0,0,0,0,0
+WHLM,"Wilhelmina International, Inc.",12,8,12,7,-1,-1,-1,0
+WHLR,"Wheeler Real Estate Investment Trust, Inc.",12,0,12,10,-1,-1,-1,0
+WHLRD,"Wheeler Real Estate Investment Trust, Inc.",12,0,12,10,-1,-1,-1,0
+WHLRP,"Wheeler Real Estate Investment Trust, Inc.",12,0,12,10,-1,-1,-1,0
+WIFI,,0,0,0,0,0,0,0,0
+WILC,G. Willi-Food International Ltd.,12,-1,12,10,12,-1,-1,0
+WIMI,WiMi Hologram Cloud Inc.,10,12,12,10,-1,-1,-1,5
+WINA,Winmark Corporation,12,0,12,10,0,-1,0,0
+WING,Wingstop Inc.,12,0,12,10,0,-1,0,5
+WINT,"Windtree Therapeutics, Inc.",12,10,12,10,-1,-1,-1,10
+WIRE,Encore Wire Corporation,2,-1,12,10,0,-1,-1,10
+WISA,"WiSA Technologies, Inc.",12,8,10,10,-1,-1,-1,5
+WISH,ContextLogic Inc.,10,10,12,10,-1,-1,-1,0
+WIX,Wix.com Ltd.,12,0,10,4,0,-1,0,5
+WKEY,WISeKey International Holding AG,12,10,12,7,-1,-1,-1,5
+WKHS,Workhorse Group Inc.,12,8,12,10,-1,-1,-1,5
+WLDN,"Willdan Group, Inc.",8,-1,6,2,-1,-1,-1,10
+WLFC,Willis Lease Finance Corporation,12,8,-1,7,-1,-1,-1,0
+WLTW,,0,0,0,0,0,0,0,0
+WMG,Warner Music Group Corp.,10,-1,-1,-1,-1,-1,2,5
+WMPN,William Penn Bancorporation,12,8,-1,-1,-1,-1,-1,5
+WNEB,"Western New England Bancorp, Inc.",12,8,0,0,0,-1,-1,5
+WNW,Meiwu Technology Company Limited,12,10,12,10,-1,-1,-1,0
+WOOF,"Petco Health and Wellness Company, Inc.",12,10,-1,2,-1,-1,-1,5
+WORX,SCWorx Corp.,12,8,-1,-1,-1,-1,-1,0
+WPRT,Westport Fuel Systems Inc.,10,8,10,7,-1,-1,-1,5
+WRAP,"Wrap Technologies, Inc.",-1,-1,12,10,19,-1,-1,2
+WRLD,World Acceptance Corporation,-1,-1,12,10,-1,-1,-1,0
+WSBC,"WesBanco, Inc.",12,8,0,0,0,-1,-1,2
+WSBCP,"WesBanco, Inc.",12,8,0,0,0,-1,-1,0
+WSBF,"Waterstone Financial, Inc.",12,8,0,0,0,-1,-1,2
+WSC,WillScot Mobile Mini Holdings Corp.,12,-1,6,4,-1,-1,-1,10
+WSFS,WSFS Financial Corporation,12,8,0,0,0,-1,-1,5
+WSTG,,0,0,0,0,0,0,0,0
+WTBA,"West Bancorporation, Inc.",6,-1,0,0,0,-1,-1,2
+WTER,The Alkaline Water Company Inc.,12,0,-1,-1,0,-1,0,5
+WTFC,Wintrust Financial Corporation,12,-1,0,0,0,-1,-1,5
+WTFCM,Wintrust Financial Corporation,12,10,0,0,0,-1,-1,0
+WTFCP,Wintrust Financial Corporation,12,10,0,0,0,-1,-1,0
+WTRE,WisdomTree New Economy Real Estate ETF,0,0,0,0,0,0,0,0
+WTRH,,0,0,0,0,0,0,0,0
+WVE,Wave Life Sciences Ltd.,2,0,10,4,0,-1,0,5
+WVFC,WVS Financial Corp.,12,8,0,0,0,-1,-1,0
+WVVI,"Willamette Valley Vineyards, Inc.",12,8,-1,10,-1,-1,-1,0
+WVVIP,"Willamette Valley Vineyards, Inc.",12,8,-1,10,-1,-1,-1,0
+WW,"WW International, Inc.",12,0,-1,2,0,-1,0,2
+WWD,"Woodward, Inc.",12,-1,12,10,-1,-1,-1,2
+WYNN,"Wynn Resorts, Limited",12,0,12,10,0,-1,0,5
+XAIR,"Beyond Air, Inc.",10,-1,12,10,-1,-1,-1,5
+XBIO,"Xenetic Biosciences, Inc.",12,8,12,10,0,-1,-1,5
+XBIT,XBiotech Inc.,6,8,12,10,0,-1,-1,5
+XCUR,"Exicure, Inc.",10,8,12,10,-1,-1,-1,2
+XEL,Xcel Energy Inc.,12,-1,-1,2,-1,-1,-1,2
+XELA,"Exela Technologies, Inc.",10,0,-1,-1,0,-1,0,2
+XELB,"Xcel Brands, Inc.",12,10,12,7,-1,-1,-1,2
+XENE,Xenon Pharmaceuticals Inc.,8,-1,12,10,7,-1,-1,5
+XENT,,0,0,0,0,0,0,0,0
+XERS,"Xeris Biopharma Holdings, Inc.",8,-1,12,7,-1,-1,-1,5
+XFOR,"X4 Pharmaceuticals, Inc.",10,-1,12,10,-1,-1,-1,5
+XGN,Exagen Inc.,12,-1,12,10,-1,-1,-1,5
+XLNX,,0,0,0,0,0,0,0,0
+XLRN,,0,0,0,0,0,0,0,0
+XM,,0,0,0,0,0,0,0,0
+XNCR,"Xencor, Inc.",-1,-1,12,10,-1,-1,-1,5
+XNET,Xunlei Limited,12,10,12,10,-1,-1,-1,0
+XOG,,0,0,0,0,0,0,0,0
+XOMA,XOMA Corporation,-1,-1,12,10,12,-1,-1,5
+XOMAP,XOMA Corporation,12,-1,12,10,12,-1,-1,0
+XONE,Bondbloxx Bloomberg One Year Target Duration US Treasury ETF,0,0,0,0,0,0,0,0
+XP,XP Inc.,12,8,12,4,-1,-1,-1,5
+XPDI,,0,0,0,0,0,0,0,0
+XPDIU,,0,0,0,0,0,0,0,0
+XPDIW,,0,0,0,0,0,0,0,0
+XPEL,"XPEL, Inc.",8,-1,10,10,-1,-1,-1,5
+XPER,Xperi Inc.,10,8,12,10,-1,-1,-1,5
+XRAY,DENTSPLY SIRONA Inc.,12,-1,6,7,-1,-1,-1,2
+XSPA,,0,0,0,0,0,0,0,0
+XTLB,XTL Biopharmaceuticals Ltd.,12,-1,12,10,0,-1,-1,0
+YELL,Yellow Corporation,0,0,0,0,0,0,0,2
+YGMZ,MingZhu Logistics Holdings Limited,12,12,-1,4,-1,-1,-1,0
+YI,"111, Inc.",12,0,-1,4,-1,-1,-1,10
+YJ,Yunji Inc.,12,12,12,10,12,-1,-1,0
+YMAB,"Y-mAbs Therapeutics, Inc.",2,-1,12,10,19,-1,-1,2
+YMTX,,0,0,0,0,0,0,0,0
+YNDX,Yandex N.V.,0,12,-1,2,-1,-1,-1,5
+YORW,The York Water Company,12,-1,-1,-1,-1,-1,-1,10
+YQ,17 Education & Technology Group Inc.,12,12,12,10,4,-1,-1,0
+YSAC,,0,0,0,0,0,0,0,0
+YSACU,,0,0,0,0,0,0,0,0
+YTEN,"Yield10 Bioscience, Inc.",12,-1,6,4,-1,-1,-1,5
+YTRA,"Yatra Online, Inc.",12,12,6,2,-1,-1,-1,5
+YVR,Liquid Media Group Ltd.,12,10,-1,-1,-1,-1,-1,0
+YY,JOYY Inc.,10,10,10,4,-1,-1,-1,5
+Z,"Zillow Group, Inc.",8,-1,12,10,-1,-1,-1,5
+ZBRA,Zebra Technologies Corporation,12,-1,-1,2,-1,-1,-1,5
+ZCMD,Zhongchao Inc.,-1,8,12,10,-1,-1,-1,0
+ZEAL,,0,0,0,0,0,0,0,0
+ZEUS,"Olympic Steel, Inc.",10,-1,12,10,-1,-1,-1,5
+ZG,"Zillow Group, Inc.",12,-1,12,10,-1,-1,-1,5
+ZGNX,,0,0,0,0,0,0,0,0
+ZGYH,,0,0,0,0,0,0,0,0
+ZGYHW,,0,0,0,0,0,0,0,0
+ZI,ZoomInfo Technologies Inc.,12,-1,12,7,-1,-1,-1,5
+ZION,"Zions Bancorporation, National Association",12,-1,0,0,0,-1,-1,2
+ZIONL,,0,0,0,0,0,0,0,0
+ZIONN,,0,0,0,0,0,0,0,0
+ZIONO,"Zions Bancorporation, National Association",12,8,0,0,0,-1,-1,0
+ZIONP,"Zions Bancorporation, National Association",12,8,0,0,0,-1,-1,0
+ZIOP,,0,0,0,0,0,0,0,0
+ZIXI,,0,0,0,0,0,0,0,0
+ZKIN,"ZK International Group Co., Ltd.",12,10,6,7,-1,-1,-1,0
+ZLAB,Zai Lab Limited,10,-1,12,10,4,-1,-1,5
+ZM,"Zoom Video Communications, Inc.",12,-1,12,10,19,-1,-1,2
+ZNGA,,0,0,0,0,0,0,0,0
+ZNTEU,,0,0,0,0,0,0,0,0
+ZNTEW,,0,0,0,0,0,0,0,0
+ZNTL,"Zentalis Pharmaceuticals, Inc.",-1,-1,12,10,-1,-1,-1,10
+ZS,"Zscaler, Inc.",12,-1,12,7,-1,-1,-1,5
+ZSAN,,0,0,0,0,0,0,0,0
+ZUMZ,Zumiez Inc.,12,8,6,7,-1,-1,-1,2
+ZVO,,0,0,0,0,0,0,0,0
+ZWRK,,0,0,0,0,0,0,0,0
+ZWRKU,Z-Work Acquisition Corp.,0,0,0,0,0,0,0,0
+ZWRKW,,0,0,0,0,0,0,0,0
+ZYNE,"Zynerba Pharmaceuticals, Inc.",12,-1,12,10,12,-1,-1,2
+ZYXI,"Zynex, Inc.",8,-1,12,10,-1,-1,-1,10
