@@ -69,3 +69,20 @@ in a good place based on where it looks to be going.
 CALM took a pretty decent hit to the heights it reached back in 2022 where previously it had a huge uptick. The price appears to have bottomed out from that drop 
 and appears to be makeing its way back up from that price drop. It had good financials so its in a good position for a rebound and the information looks like it could
 be rebounding.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01_Chicago_Crime_Data
+
+Objective: Evaluate the crime statistics for the city of chicago. using the following python script: 01_Chicago_Crime_Date
+
+1st Graph: The first graph evaluates the arrest rate of all crimes year over year and creates a line graph. I took the crimes and used counts indicating if the crime was solved or not solved and created those counts. I then took those overal counts and calculated the rate of the crimes being solved. I then charted that percentage over time to see how well the crimes are being solved over the years. The crimes were being solved at a worse rate year over year for the most part. There was a bit of an uptick again in recent years, but has been trending down.
+
+2nd Graph: I also wanted to see how the crimes as a whole are trending over the years. I took groupbys and counts to come up with the total crimes by year and graphed that number. The total crimes for the city of Chicago have also been trending down in a similar pattern to the crimes being solved trending down.
+
+3rd Graph: The 3rd graph is a bar graph that accounts for how many of each type of crimes for the year of 2022. I wanted to be able to see how the crimes are distributed based on type of crime. Theft and battery were the main 2 types of crime in chicago in the year 2022.
+
+4th Graph: The 4th graph was to establish the trend of violent crimes. I split crimes into categories based on violent crime and non-violent crime. I then created counts with that to see how many violent crimes occured year over year. The total violent crime stats trended down over the recent years.
+
+5th Logic: I created a score evaluating which location had the worse solve rates for both violent and non violent crime as well as total violent and non violent crimes at a specific location level. I added a priority to violent crime in the score over non-violent crime giving a 60 percent weight to violent crime over non-violent crime. With the numbers and the score the Street, the residence and apartment are the biggest issues based on the scoring I found.
+
+Conclusion: What I found was the the overal crime in chicago has trended down. This is for both violent crime and non-violent crime. The solve rate of crimes has also trended down over time. They are not solving as high of a percentage of crimes, but there are not as many crimes as a whole. I also evaluated where in chicago based on type of location are you in the biggest risk to be a victim of these crimes. The biggest area that the most people are victimized in is the street. The next two biggest areas are apartments and the residence. These numbers of crimes has trended down which is better news, but these areas are the most likley.
