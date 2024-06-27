@@ -59,6 +59,9 @@ I also had to cut down the number of datapoints  to every 20 days to make sure t
 The final step was to use matplot lib to create a graph looking at the current price in comparision to the rolling yearly high and low alongside the rolling
 monthly high and low.
 
+#4 Tableau
+I added a graphing project in tableau to show skills in that that softerware. I showed how the different prices interact at different time incraments for 5 of the highest volumed stocks on the data set.
+
 # Conclusion
 Based on the information at the time of this project last being run Calm and CEPH both look like decent options for investment.
 
